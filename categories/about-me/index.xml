@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-me on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/about-me/index.xml</link>
+    <description>Recent content in About-me on Learnings and thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://magonye.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://magonye.github.io/about/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://magonye.github.io/about/</guid>
+      <description>&lt;p&gt;&lt;span class=&#34;image left&#34;&gt;
+&lt;img src=&#34;http://magonye.github.io/img/main/magonye.png&#34; width=&#34;100px&#34;&gt;
+&lt;/span&gt;
+Mike Gonzalez
+Software Engineer&lt;/p&gt;
+
+&lt;p&gt;Father&lt;/p&gt;
+
+&lt;p&gt;Runner and free athlete&lt;/p&gt;
+
+&lt;p&gt;Software Learner&lt;/p&gt;
+
+&lt;p&gt;bklaa
+dads
+das
+sad&lt;/p&gt;
+
+&lt;p&gt;dsdsdsd
+sd
+sd&lt;/p&gt;
+
+&lt;p&gt;dsd
+s
+dsd
+sds
+sd
+ds
+ds&lt;/p&gt;
+
+&lt;p&gt;Linkedin  Github    Twitter&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
