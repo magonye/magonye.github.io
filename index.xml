@@ -6,8 +6,34 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jun 2017 01:06:03 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jun 2017 20:43:32 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>june 2017</title>
+      <link>http://magonye.github.io/post/june-2017/</link>
+      <pubDate>Fri, 30 Jun 2017 20:43:32 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/june-2017/</guid>
+      <description>&lt;p&gt;This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: &lt;strong&gt;Clean Code&lt;/strong&gt; [&lt;em&gt;Uncle Bob&lt;/em&gt;], &lt;strong&gt;TDD by Example&lt;/strong&gt; [&lt;em&gt;Kent Beck&lt;/em&gt;] and &lt;strong&gt;The Software Craftsman&lt;/strong&gt; [&lt;em&gt;Sandro Mancuso&lt;/em&gt;].&lt;/p&gt;
+
+&lt;p&gt;Besides the books, I&amp;rsquo;ve read the following links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://vimeo.com/130256611&#34;&gt;INTERACTION DRIVEN DESIGN - Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dDofYAOkpts&#34;&gt;Introduction to DDD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wecodesignpodcast.com/2017/06/06/toma-de-requisitos/&#34;&gt;Toma-de-requisitos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&#34;&gt;Logs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.koalite.com/2017/05/evitar-la-deuda-tecnica-es-un-error/&#34;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://programar.cloud/post/demo-del-api-gateway-kong/&#34;&gt;Security on APIs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/&#34;&gt;Ron Jeffries&amp;rsquo; Refacoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/nishparadox/builder-design-pattern&#34;&gt;Builder design pattern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/06/13/how-do-I-convince/&#34;&gt;Sandro Mancuso&amp;rsquo;s How do I convince&amp;hellip;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Chapter 22 of Growing Object-Oriented Software (Goos)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/&#34;&gt;NoTDD&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>may 2017</title>
