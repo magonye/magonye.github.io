@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Learnings and thoughts</title>
-    <link>http://magonye.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Learnings and thoughts</description>
+    <title>Monthly on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/monthly/index.xml</link>
+    <description>Recent content in Monthly on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Aug 2017 09:33:07 +0200</lastBuildDate>
-    <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>july 2017</title>
@@ -136,22 +135,6 @@
 &lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/&#34;&gt;Spotify Engineering Culture Part 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/&#34;&gt;Spotify Engineering Culture Part 2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome to my blog</title>
-      <link>http://magonye.github.io/post/welcome-to-my-blog/</link>
-      <pubDate>Fri, 31 Mar 2017 23:43:44 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/welcome-to-my-blog/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve just created this blog for learning pourposes. I&amp;rsquo;m going to learn a lot of things. I think this blog can help me, but also some of my learnings can help someone else.&lt;/p&gt;
-
-&lt;p&gt;I hope you enjoy it as I&amp;rsquo;m going to enjoy it, and feel free to comment, suggest or  correct any of the content I will be posting here.&lt;/p&gt;
-
-&lt;p&gt;Remember that everything is about learning, enjoying, sharing and teaching. No matter  yours skills, the most important is the will of learn and teach.&lt;/p&gt;
-
-&lt;p&gt;Who am I? I&amp;rsquo;m Mike, a programmer that thought, some time ago, that he already knew everything that was needed to know to be a good programmer, but now, the only thing that I&amp;rsquo;m sure is that I have a long journey. A journey to learn to be a better professional. And that journey will never end!!&lt;/p&gt;
 </description>
     </item>
     

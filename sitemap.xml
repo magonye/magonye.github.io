@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://magonye.github.io/post/july-2017/</loc>
+    <lastmod>2017-08-05T09:33:07+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://magonye.github.io/post/june-2017/</loc>
     <lastmod>2017-06-30T20:43:32+02:00</lastmod>
   </url>
@@ -39,13 +44,25 @@
   
   <url>
     <loc>http://magonye.github.io/</loc>
-    <lastmod>2017-06-30T20:43:32+02:00</lastmod>
+    <lastmod>2017-08-05T09:33:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/monthly/</loc>
+    <lastmod>2017-08-05T09:33:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://magonye.github.io/post/</loc>
-    <lastmod>2017-06-30T20:43:32+02:00</lastmod>
+    <lastmod>2017-08-05T09:33:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/reading/</loc>
+    <lastmod>2017-08-05T09:33:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   

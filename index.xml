@@ -6,8 +6,67 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2017 20:43:32 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Aug 2017 09:33:07 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>july 2017</title>
+      <link>http://magonye.github.io/post/july-2017/</link>
+      <pubDate>Sat, 05 Aug 2017 09:33:07 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/july-2017/</guid>
+      <description>&lt;p&gt;It was a very challenging month!&lt;/p&gt;
+
+&lt;p&gt;We started a Community of Practice at my work. It&amp;rsquo;s very exciting to share and learn things with other colleagues. We&amp;rsquo;re doing some katas and lighting talks. It&amp;rsquo;s only the beginning, but I think we can improve a lot with these meetings.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m also reading some books. I&amp;rsquo;m reading two of them (Sandro Mancuso&amp;rsquo;s &lt;strong&gt;The Software Craftsman&lt;/strong&gt; and &lt;strong&gt;Growing Object Oriented Software&lt;/strong&gt;) with other people. It&amp;rsquo;s very interesting to read a book with some other people. When talking about the book, you can see another point of view about the same chapters, and ask or share thoughts.&lt;/p&gt;
+
+&lt;p&gt;I also started the Intro to TDD by &lt;a href=&#34;http://www.jbrains.ca/&#34;&gt;J.BRains&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I read all these posts during July:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/0x13a/why-null-references-are-a-bad-idea&#34;&gt;Why null references are a bad idea&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/paradigmas-de-programacion/el-resurgir-de-la-programacion-funcional&#34;&gt;El resurgir de la programación funcional&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/formacion/pattern-matching&#34;&gt;Pattern matching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/suhas_chatekar/why-should-you-use-standard-http-methods-while-designing-rest-apis&#34;&gt;Why should you use standard http methods while designing rest apis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://culto.latercera.com/2017/03/15/deje-de-leer/&#34;&gt;Dejé de leer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/finding-time-to-become-a-better-developer-eebc154881b2&#34;&gt;Finding time to become a better developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/andreasklinger/comments-explain-why-not-what-and-2-more-rules-on-writing-good-comments&#34;&gt;Comments explain why not what and 2 more rules on writing good comments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/raulavila/my-experience-with-pair-programming&#34;&gt;My experience with pair programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.takipi.com/5-step-recipe-everything-you-need-to-know-for-staying-up-to-date-in-java/&#34;&gt;5 step recipe everything you need to know for staying up to date in java&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/pbeekums/you-cant-learn-everything&#34;&gt;You can&amp;rsquo;t learn everything&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/storage/assets/5776001-dzone-rc241-declarativepipelinewithjenkins.pdf&#34;&gt;Declarative pipeline with Jenkins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414&#34;&gt;Mastering programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/ben/my-three-tips-for-maintaining-fitness-and-a-healthy-lifestyle-as-a-software-developer&#34;&gt;My three tips for maintaining fitness and a healthy lifestyle as a software developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/scalawilliam/unit-testing-is-simple&#34;&gt;Unit testing is simple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/binarforge/seven-useful-programming-habits&#34;&gt;Seven useful programming habits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/gazebo_c/making-and-taking-babysteps&#34;&gt;Making and taking babysteps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/samjarman/how-to-get-started-with-public-speaking&#34;&gt;How to get started with public speaking&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.samjarman.co.nz/blog/code-reviews&#34;&gt;Code reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/hitman666/git-branching-done-right-with-gitflow--improving-code-quality-with-code-reviews&#34;&gt;Git branching done right with gitflow: improving code quality with code reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/pbeekums/the-problem-with-heroes-in-software-development&#34;&gt;The problem with heroes in software development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/mohamed3on/brief-introduction-to-salts-in-hashing&#34;&gt;Brief introduction to salts in hashing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/jmourtada/a-quick-introduction-to-git&#34;&gt;A quick introduction to git&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@mike_acton/12-tips-for-making-the-best-use-of-your-time-909be33398b4&#34;&gt;12 tips for making the best use of your time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/&#34;&gt;pbpaste-pbcopy in mac os x or terminal clipboard fun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/bormod/how-to-choose-an-open-source-project-to-contribute-to&#34;&gt;How to choose an open source project to contribute to&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.cleancoder.com/uncle-bob/2017/07/11/PragmaticFunctionalProgramming.html&#34;&gt;Pragmatic Functional Programming&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/you-changed-the-code-you-didnt-refactor-the-code&#34;&gt;You changed the code, you didn&amp;rsquo;t refactor the code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/samjarman/how-to-supercharge-your-learning-of-new-technologies&#34;&gt;How to supercharge your learning of new technologies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/schreiber_chris/the-benefits-of-having-a-craftsman-in-your-team&#34;&gt;The benefits of having a craftsman in your team&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/optional-anti-patterns&#34;&gt;Optional: anti-patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/nishparadox/builder-design-pattern&#34;&gt;Builder design pattern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.agustinperalt.es/volver-estudiar/&#34;&gt;Volver a estudiar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/my-journey-towards-software-craftsmanship-3efdd53ac9fb&#34;&gt;My journey towards software craftsmanship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/maurobringolf/open-source-9-steps-to-my-first-feature-contribution-in-babel&#34;&gt;Open source: 9 steps to my first feature contribution in Babel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.targetprocess.com/articles/speed-in-software-development/&#34;&gt;Speed in software development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/tamrrat/blogging-driven-learning&#34;&gt;Blogging driven learning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/git---command-line-vs-guis&#34;&gt;Git: command line vs guis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/jackmarchant/no-excuses-write-unit-tests&#34;&gt;No excuses write unit tests&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>june 2017</title>
