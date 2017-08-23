@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences-meetups on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/conferences-meetups/index.xml</link>
+    <description>Recent content in Conferences-meetups on Learnings and thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://magonye.github.io/categories/conferences-meetups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>JBCNConf 2017</title>
+      <link>http://magonye.github.io/post/jbcnconf2017/</link>
+      <pubDate>Fri, 18 Aug 2017 12:55:48 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/jbcnconf2017/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/jbcnconf2017.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On 19th, 20th and 21st of June, I assisted to JBCNConf2017 with two colleagues. For me was the second time, as I assisted to JBCNConf last year.&lt;/p&gt;
+
+&lt;p&gt;In this post, I will try to explain you a little &lt;em&gt;what&lt;/em&gt; is JBCNConf, &lt;em&gt;why&lt;/em&gt; it&amp;rsquo;s important to assist to conferences, and &lt;em&gt;how&lt;/em&gt; was my experience at this conference.&lt;/p&gt;
+
+&lt;p&gt;I know that I&amp;rsquo;m late, because I&amp;rsquo;m writing this on August and the conference was on June, but I didn&amp;rsquo;t want to miss the opportunity to write about JBCNConf, and payback something to the conference in return, as I learned a lot of things there.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-is-jbcnconf&#34;&gt;What is JBCNConf?&lt;/h1&gt;
+
+&lt;p&gt;This is an event organized by Barcelona JUG. This year was the third edition.&lt;/p&gt;
+
+&lt;p&gt;JUG stands for &lt;a href=&#34;https://en.wikipedia.org/wiki/Java_User_Group&#34;&gt;Java User Group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are several talks about Java world and related technologies, as JVM languages (like Scala, Clojure, Groovy, etc&amp;hellip;), functional programming, micro-services, Docker, TDD, etc..&lt;/p&gt;
+
+&lt;p&gt;There are also some workshops, related to Java world too.&lt;/p&gt;
+
+&lt;p&gt;This year the conference was on a great venue: a multi theater building. The seats were amazing, full visibility, great screens, excellent audio, &amp;hellip; but if I had to say something negative, maybe the place for the breakfast and lunch was small, as there were a lot of people attending.&lt;/p&gt;
+
+&lt;p&gt;The workshops took place at a nearby hotel, so we were very comfortable with our laptops. At the workshops, there were problems with the wifi. I think the hotel was not ready to have so many people searching for some wifi.&lt;/p&gt;
+
+&lt;p&gt;The organization was great, they were assisting any kind of doubts and problems, and helping all the speakers. They did a really good work!&lt;/p&gt;
+
+&lt;h3 id=&#34;some-data&#34;&gt;Some data&lt;/h3&gt;
+
+&lt;p&gt;Here some data information about the numbers of the three editions (As you can see, the evolution is impressive.):&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;2015&lt;/th&gt;
+&lt;th&gt;2016&lt;/th&gt;
+&lt;th&gt;2017&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;2 days&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;td&gt;3 days&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3 tracks&lt;/td&gt;
+&lt;td&gt;4 tracks&lt;/td&gt;
+&lt;td&gt;4 tracks&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;41 talks &amp;amp; workshops&lt;/td&gt;
+&lt;td&gt;50 talks &amp;amp; workshops&lt;/td&gt;
+&lt;td&gt;58 talks &amp;amp; workshops&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;210 assistants&lt;/td&gt;
+&lt;td&gt;320 assistants&lt;/td&gt;
+&lt;td&gt;450 assistants&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;why-i-should-assist&#34;&gt;Why I should assist?&lt;/h1&gt;
+
+&lt;p&gt;There are several reasons why you should assist to the JBCNConf, here are the main ones (&lt;em&gt;IMHO&lt;/em&gt;):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can know what&amp;rsquo;s trending topic on Java world.&lt;/li&gt;
+&lt;li&gt;Known Java developers from all around the world talk about their knowledge, innovation and developments during this year.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s an opportunity to interact with others Java enthusiast.&lt;/li&gt;
+&lt;li&gt;The organization does a really great work: good speakers and talks, moderate price, great venue, very enthusiastic people.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;opening-keynote&#34;&gt;Opening Keynote&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/venkat-subramaniam.jpg&#34; alt=&#34;Dr. Venkat Subramaniam&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;The Opening Keynote was performed by &lt;strong&gt;Dr. Venkat Subramaniam&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=venkat&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/venkat_s&#34;&gt;@venkat_s&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Agile Developer founder, creator of &lt;a href=&#34;https://www.agilelearner.com/&#34;&gt;agilelearner.com&lt;/a&gt;, and professor at the University of Houston.
+Author of books, as &lt;a href=&#34;https://www.amazon.co.uk/dp/1937785467&#34;&gt;&lt;em&gt;Functional Programming in Java&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.co.uk/dp/8184041896&#34;&gt;&lt;em&gt;Practices of an Agile Developer&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.amazon.co.uk/dp/B01M1DHQJ7&#34;&gt;&lt;em&gt;Pragmatic Scala&lt;/em&gt;&lt;/a&gt;, among others.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-art-of-simplicity&#34;&gt;The Art of Simplicity&lt;/h3&gt;
+
+&lt;p&gt;This talk was very inspirational, about the art of making things simple: as developers we are very used to do things in a complex way, because simple things are not so funny&amp;hellip; but also not so easy!!!
+Can we distinguish simple things from complex ones? The search of the simplicity, as itself, is a challenge, and it requires a lot to practice, in order to be a master.&lt;/p&gt;
+
+&lt;p&gt;You can find the same talk &lt;a href=&#34;https://www.youtube.com/watch?v=I4wuMV8N6Iw&#34;&gt;here&lt;/a&gt;, for the DevDay Conference on 2015.&lt;/p&gt;
+
+&lt;h1 id=&#34;closing-note&#34;&gt;Closing note&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/sandro-mancuso.jpg&#34; alt=&#34;Sandro Mancuso&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;The Closing Note was performed by &lt;strong&gt;Sandro Mancuso&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=sandro&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/sandromancuso&#34;&gt;@sandromancuso&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Software craftsman and founder at &lt;a href=&#34;http://codurance.com/&#34;&gt;Codurance&lt;/a&gt;, author of &lt;a href=&#34;http://www.amazon.co.uk/dp/0134052501&#34;&gt;&lt;em&gt;The Software Craftsman&lt;/em&gt;&lt;/a&gt;, and founder of the &lt;a href=&#34;http://londonswcraft.com/&#34;&gt;London Software Craftsmanship Community&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-long-road&#34;&gt;The Long Road&lt;/h3&gt;
+
+&lt;p&gt;A very inspirational talk about developers careers. Developers must take the ownership of their own careers, and see it as a whole. If we look our career as a ladder, every job change is a single step that make us go forward .
+Are we the owners of our career? Do we know where we want to go? If we look backwards, are we proud of what we have done?&lt;/p&gt;
+
+&lt;p&gt;You can find the same talk &lt;a href=&#34;https://vimeo.com/167722761&#34;&gt;here&lt;/a&gt;, for the NEWCRAFTS Conferences on 2016.&lt;/p&gt;
+
+&lt;h1 id=&#34;other-talks-and-workshops&#34;&gt;Other talks and workshops&lt;/h1&gt;
+
+&lt;p&gt;I went to many talks and workshops. All of them were great, but I would to talk in detail about two of them, the ones that impressed me more.&lt;/p&gt;
+
+&lt;h3 id=&#34;clean-lambdas&#34;&gt;Clean Lambdas&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/victor-rentea.jpg&#34; alt=&#34;Victor Rentea&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;A talk by &lt;strong&gt;Victor Rentea&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/victorrentea&#34;&gt;@victorrentea‏&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a kind of workshop, but he did it as a talk.&lt;/p&gt;
+
+&lt;p&gt;This talk was amazing to me. To be honest, I didn&amp;rsquo;t expect too much, as it was the first talk, and the topic wasn&amp;rsquo;t one of my favourites.&lt;/p&gt;
+
+&lt;p&gt;The talk was about java8 lambdas and streams, and how we can write them in a clean way. The usage of this java8 feature is growing, but not everybody knows how to use them well, so it&amp;rsquo;s easy to have bad code with them. The talk was funny, Victor was all the time writing code to us, showing us many refactors we can apply to lambdas.&lt;/p&gt;
+
+&lt;p&gt;Some weeks after, on my team, we practiced the same workshop of Clean Lambdas, I must admit my level of knowledge about streams and lambdas increased a lot since then.&lt;/p&gt;
+
+&lt;p&gt;You can find Victor Rentea&amp;rsquo;s Clean Lambdas repository &lt;a href=&#34;https://github.com/victorrentea/java8-voxxed&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uH9A37k2QkU&#34;&gt;Here&lt;/a&gt; a video of the same workshop, he did before.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8&#34;&gt;Here&lt;/a&gt; the slides of the workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;test-refactoring&#34;&gt;Test Refactoring&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/wlodek.jpg&#34; alt=&#34;Wlodek Krakowski&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;A workshop by &lt;strong&gt;Wlodek Krakowski&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=wlodek&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/wlodekkr&#34;&gt;@wlodekkr&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This workshop was about the importance to maintain your test in a good shape, and why you should do some refactoring also on your tests, not only on your production code. This may be something obvious when you hear of it, but not always you do refactoring on your test as your daily work.&lt;/p&gt;
+
+&lt;p&gt;Wlodek also talked about mastering your IDE, and knowing all the shortcuts and options your IDE gives you in order to do refactors with security and very quick.&lt;/p&gt;
+
+&lt;p&gt;I tried to follow the workshop, but Wlodek was so fast and I was so slow, that I finally gave up the workshop, and I decided to enjoy watching Wlodek working on a huge test refactoring. It was amazing the ability of Wlodek, and how he masters tdd and refactoring.&lt;/p&gt;
+
+&lt;p&gt;You can know more about Wlodek &lt;a href=&#34;http://refactoring.pl/en/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+I will repeat next year with no doubt!!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Did you assist to any conference? Do you think every developer should assist to them? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
