@@ -6,8 +6,70 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2017 15:12:35 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Sep 2017 08:29:56 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Culture Of Learning: Lunch and Learn</title>
+      <link>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</link>
+      <pubDate>Tue, 19 Sep 2017 08:29:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/collunchandlearn.png&#34; alt=&#34;COL: Lunch and Learn&#34; title=&#34;COL: Lunch and Learn&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I&amp;rsquo;ll call &lt;strong&gt;Culture of Learning&lt;/strong&gt;, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.&lt;/p&gt;
+
+&lt;p&gt;So, the first post of this series is about our Lunch and Learn sessions.&lt;/p&gt;
+
+&lt;h1 id=&#34;lunch-and-learn&#34;&gt;Lunch and Learn&lt;/h1&gt;
+
+&lt;p&gt;This is one of the first activities the team started a few months ago. Lunch and Learn (L&amp;amp;L from now) is basically a meal time that we spend together, in a room, and learning some technical stuff, not related to our current tasks.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
+
+&lt;p&gt;At the beginning  of this year, we had the amazing opportunity of working with &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt;, founders of &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. We spent intensive weeks, reviewing all our applications together, and redesigning how they should be. We got a very close relationship, and we also had to spend lunch time together talking about several things. One of these things was how we could be a better team. They talked us about some kind of
+Tech Lunch they did in the past. They told us that if we wanted to learn something, a good idea is to spend the meal time learning it.&lt;/p&gt;
+
+&lt;p&gt;This activity was very easy to start. If you have an available room and some people with anger to learn, that&amp;rsquo;s all! So, on 19th of April we had the first session of our L&amp;amp;L: it was a kata about Docker. Since then, we have enjoyed 16 sessions, and they have been about several topics, such as &lt;em&gt;Json Web Tokens&lt;/em&gt;, &lt;em&gt;Cucumber&lt;/em&gt;, &lt;em&gt;Clean Architecture&lt;/em&gt;, &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;Tech Debt&lt;/em&gt;, &lt;em&gt;OWASP guide&lt;/em&gt;, &lt;em&gt;Java 8 Streams and Lambdas&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
+
+&lt;p&gt;As I said before, basically you only need a room, and people that want to learn something together. You choose a topic or topics to talk about: a video about some interesting topic, a kata, topics to discuss, a workshop, or any relevant tech.&lt;/p&gt;
+
+&lt;p&gt;It doesn&amp;rsquo;t require a big effort to prepare a L&amp;amp;L session, even we had a session with no topic, and we just talked about several subjects, as an open space.&lt;/p&gt;
+
+&lt;p&gt;The activity lasts 2 hours, one is our meal time, and another hour from our work time. We give one personal hour and the company gives the other hour, it&amp;rsquo;s a 50-50 balance.&lt;/p&gt;
+
+&lt;p&gt;We do this activity weekly, every Wednesday, from 13:00 to 15:00. Each session can be facilitated by one or more people, and we try to fix the agenda for the next session one week before.&lt;/p&gt;
+
+&lt;p&gt;We have a page on our Confluence team space, where we track all sessions, speakers, and topics. Some topics can be covered in a single session. Other topics can end with a challenge. It&amp;rsquo;s an exercise for everybody or an exercise for each member. They are totally volunteer, no one in the team is forced neither to assist to a meeting nor to resolve a challenge.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
+
+&lt;p&gt;L&amp;amp;L for us is a safe place where we can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Learn things&lt;/strong&gt;: It&amp;rsquo;s a good place to start some technology. If someone in the team has curiosity for any topic, no matter which, he can manage a session there. He can be an expert or not, he can be a teacher or a student as the others: the important thing is to learn something together.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Expose your doubts&lt;/strong&gt;: You can talk with your colleagues with humbleness, nobody is judging, there is no managers, only buddies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train our communicative skills&lt;/strong&gt;: Not everybody is open and talkative, and some programmers are introverts. At the L&amp;amp;L anyone can manage a session, alone or with someone. Every member has facilitated at least one session, and our communicative skills are improving.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share knowledge&lt;/strong&gt;: If someone learns something, no matter how big or important it is, it could be shared as a session. We have learned and shared a lot of different tech stuff, and it could be very difficult to learn so many things by our own. Sharing is key, in order to be more broad at our learning topics, as different members are interested on different topics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
+
+&lt;p&gt;I want to thank Mash and Sandro for the inspiration. Without their advice and wise words, this change wouldn&amp;rsquo;t have been possible.&lt;/p&gt;
+
+&lt;p&gt;I also want to thank &lt;a href=&#34;https://codurance.com/publications/author/alvaro-garcia/&#34;&gt;Alvaro García&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, both craftspeople at &lt;a href=&#34;https://codurance.com&#34;&gt;Codurance&lt;/a&gt;, and embedded at our team when L&amp;amp;L was started. They helped us a lot, facilitating our first sessions, and proposing topics for next sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I will talk more about &lt;strong&gt;Culture of Learning&lt;/strong&gt; in following posts. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
+
+&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>august 2017</title>
