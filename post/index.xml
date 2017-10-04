@@ -6,8 +6,42 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2017 08:22:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 08:29:31 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>september 2017</title>
+      <link>http://magonye.github.io/post/september-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 08:29:31 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/september-2017/</guid>
+      <description>&lt;p&gt;I finished &lt;strong&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/strong&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;. It&amp;rsquo;s an incredible book, very inspirational and plenty of good advices. I will review and publish it soon.&lt;/p&gt;
+
+&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/01/do-we-have-a-good-safety-net-to-change-this-legacy-code/&#34;&gt;do we have a good safety net to change this legacy code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/jonstodle/its-not-just-someone-elses-computer&#34;&gt;its not just someone else&amp;rsquo;s computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/aditichaudhry92/what-is-blockchain&#34;&gt;what is blockchain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/iriskatastic/6-tools-to-boost-your-development-workflow&#34;&gt;6 tools to boost your development workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://vanesatejada.com/2017/09/10/como-gestionar-tu-blog-con-trello/&#34;&gt;como gestionar tu blog con trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/oyink/how-disobedience-made-me-better&#34;&gt;how disobedience made me better&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career&#34;&gt;heres what you can learn in 10 minutes that will be useful for the rest of your programming career&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rominirani.com/docker-swarm-tutorial-b67470cf8872&#34;&gt;docker swarm tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@_purukaushik/start-using-java-9-shell-jshell-with-docker-888c91ff742c&#34;&gt;Start using Java 9 shell jshell with docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blogs.oracle.com/java-platform-group/java-se-support-for-docker-cpu-and-memory-limits&#34;&gt;java se support for docker cpu and memory limits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/blog/2017/03/14/java-inside-docker/&#34;&gt;java inside docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jshelltutorial.com/jshell-editing&#34;&gt;jshell tutorial&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/agisilaosts/the-insecure-developer&#34;&gt;the insecure developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;mvc delievery mechanism dm &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/12/life-at-codurance-robert-firek/&#34;&gt;life at codurance by robert firek&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2017-09-05-mars-rover/&#34;&gt;Mars Rover kata by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>JShell, the REPL console in Java 9</title>
