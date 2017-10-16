@@ -6,8 +6,126 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Oct 2017 08:29:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 08:21:33 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Software Craftsmanship Barcelona 2017</title>
+      <link>http://magonye.github.io/post/scbcn2017/</link>
+      <pubDate>Mon, 09 Oct 2017 08:21:33 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/scbcn2017/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/scbcn2017-min.png&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!&lt;/p&gt;
+
+&lt;h2 id=&#34;software-craftsmanship&#34;&gt;Software Craftsmanship&lt;/h2&gt;
+
+&lt;p&gt;There are really a lot of definitions of what is Software Craftsmanship, on &lt;em&gt;Wikipedia&lt;/em&gt; there is a extensive &lt;a href=&#34;https://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;definition&lt;/a&gt;, but I would like to write what &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mash&lt;/a&gt; told me once:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Software Craftsmanship is all about learning and teaching&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you are interested on this movement, you could read the &lt;strong&gt;&lt;a href=&#34;http://manifesto.softwarecraftsmanship.org/&#34;&gt;manifesto&lt;/a&gt;&lt;/strong&gt;, and if you want to go deeper, maybe you should read the following books: &lt;a href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;&gt;The Pragmatic Programmer&lt;/a&gt; by &lt;a href=&#34;https://toolshed.com/&#34;&gt;Andy Hunt&lt;/a&gt; and &lt;a href=&#34;https://pragdave.me/contact&#34;&gt;Dave Thomas&lt;/a&gt;, &lt;a href=&#34;https://www.goodreads.com/book/show/1035377.Software_Craftsmanship&#34;&gt;Software Craftsmanship: The New Imperative&lt;/a&gt; by &lt;a href=&#34;http://www.mcbreen.ab.ca/&#34;&gt;Pete McBreen&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;software-craftsmanship-barcelona&#34;&gt;Software Craftsmanship Barcelona&lt;/h2&gt;
+
+&lt;p&gt;The Software Craftsmanship Barcelona group was founded on 16th december of 2013, and now they are almost 1.500 members. You can follow them on their &lt;em&gt;Meetup&lt;/em&gt; &lt;a href=&#34;https://www.meetup.com/es/Barcelona-Software-Craftsmanship/&#34;&gt;page&lt;/a&gt;, their &lt;em&gt;Twitter&lt;/em&gt; &lt;a href=&#34;https://twitter.com/bcnswcraft/&#34;&gt;account&lt;/a&gt; and the &lt;a href=&#34;http://scbcn.github.io/&#34;&gt;web page&lt;/a&gt; for the event.&lt;/p&gt;
+
+&lt;p&gt;They regularly organize coding katas, usually on monday, and they are really great. You can meet other developers, it&amp;rsquo;s a good opportunity to do pair programming, and they are a very open community.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-conference&#34;&gt;The conference&lt;/h2&gt;
+
+&lt;p&gt;SCBCN is a two day event, made by and for software developers who are very passionate about software. They had 4 tracks, and full of talks and some workshops. On saturday night, it was an optional dinner, and there was also an open space and a final retrospective on sunday afternoon.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-talks&#34;&gt;The talks&lt;/h2&gt;
+
+&lt;p&gt;As many conferences, there are so many talks, that you need to choose which ones you want to attend. If you are with some friend or colleague, the decision is easier, as you can fork in some of them.&lt;/p&gt;
+
+&lt;p&gt;These are the talks I chose (I&amp;rsquo;m giving more details about the three I liked most):&lt;/p&gt;
+
+&lt;h3 id=&#34;microservices-lifecycle-explained-through-docker-and-continuous-deployment&#34;&gt;Microservices LifeCycle Explained Through Docker And Continuous Deployment&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/viktor_farcic.jpg&#34; alt=&#34;Viktor Farcic&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Viktor Farcic&lt;/strong&gt; is Senior Consultant at &lt;a href=&#34;https://www.cloudbees.com/&#34;&gt;CloudBees&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/vfarcic&#34;&gt;@vfarcic&lt;/a&gt; and at &lt;a href=&#34;https://technologyconversations.com/&#34;&gt;technologyconversations.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The talk was about how to design a fully automated continuous deployment pipeline with Docker images in a Microservices application.&lt;/p&gt;
+
+&lt;p&gt;It was a very nice talk, Viktor really masters this topic, and as I saw him on the Barcelona Java Conference 2016, he has a very good sense of humor and he is interested in teaching and advocate the adoption of DevOps culture.&lt;/p&gt;
+
+&lt;h3 id=&#34;property-based-testing&#34;&gt;Property Based Testing&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/pedro_santos.jpg&#34; alt=&#34;Pedro Santos&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pedro Moreira Santos&lt;/strong&gt; is Software Craftsman at &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/pedromsantos&#34;&gt;@pedromsantos&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/pedro-santos/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was an introduction to Random Testing, or Property Based Testing. You can follow him on &lt;a href=&#34;https://twitter.com/pedromsantos&#34;&gt;@pedromsantos&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/pedro-santos/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;. I didn&amp;rsquo;t know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.&lt;/p&gt;
+
+&lt;h3 id=&#34;software-craftsmanship-8-years&#34;&gt;Software Craftsmanship - 8 years&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/sandro-mancuso.jpg&#34; alt=&#34;Sandro Mancuso&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sandro Mancuso&lt;/strong&gt; is Software Craftsman and founder at &lt;a href=&#34;http://codurance.com/&#34;&gt;Codurance&lt;/a&gt;, author of &lt;a href=&#34;http://www.amazon.co.uk/dp/0134052501&#34;&gt;&lt;em&gt;The Software Craftsman&lt;/em&gt;&lt;/a&gt;, and founder of the &lt;a href=&#34;http://londonswcraft.com/&#34;&gt;London Software Craftsmanship Community&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/sandromancuso&#34;&gt;@sandromancuso&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Excellent talk about Software Craftsmanship, since its beginnings on 2008, through what is Software Craftsmanship today, and finally what it should be in the future. Sandro was amazing, as always, very passionate and inspiring. It&amp;rsquo;s a pitty this talks wasn&amp;rsquo;t the opening keynote with all tha audience. This talk was scheduled with other talks at the same time.&lt;/p&gt;
+
+&lt;h3 id=&#34;tdd-mi-cuaderno-de-recetas-tdd-my-recipe-book&#34;&gt;TDD: Mi cuaderno de recetas (TDD: My recipe book)&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Modesto San Juan&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/@msanjuan&#34;&gt;@msanjuan&lt;/a&gt; and &lt;a href=&#34;http://www.modestosanjuan.com/&#34;&gt;modestosanjuan.com&lt;/a&gt;.&lt;br&gt;
+The approach that Modesto uses when he does TDD.&lt;/p&gt;
+
+&lt;h3 id=&#34;simplicidad-para-desarrolladores-simplicity-for-developers&#34;&gt;Simplicidad para desarrolladores (Simplicity for developers)&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Eduardo Ferro Aldama&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eferro&#34;&gt;@eferro&lt;/a&gt; and &lt;a href=&#34;http://www.eferro.net/&#34;&gt;eferro.net&lt;/a&gt;.&lt;br&gt;
+The rules of simple design, and why it&amp;rsquo;s so important. Keep it Simple!&lt;/p&gt;
+
+&lt;h3 id=&#34;css-craftsmanship&#34;&gt;CSS Craftsmanship&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Joan León&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nucliweb&#34;&gt;@nucliweb&lt;/a&gt; and &lt;a href=&#34;http://nucliweb.net/&#34;&gt;nucliweb.net&lt;/a&gt;.&lt;br&gt;
+Why is so important the development methodology on CSS. Lots of guides and advices.&lt;/p&gt;
+
+&lt;h3 id=&#34;tackling-transactions-in-microservices-applications&#34;&gt;Tackling transactions in Microservices applications&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Rubén Pérez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/bakwrau&#34;&gt;@bakwrau&lt;/a&gt;.&lt;br&gt;
+How SAGA pattern can help in managing transactions on a microservices system.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-economics-of-continuous-delivery&#34;&gt;The Economics of Continuous Delivery&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Adrian Perreau de Pinninck&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eidrien&#34;&gt;@eidrien&lt;/a&gt;.&lt;br&gt;
+Why should you invest in Continuous Delivery?&lt;/p&gt;
+
+&lt;h3 id=&#34;cómo-vender-un-proyecto-de-refactoring-how-to-sell-a-refactoring-project&#34;&gt;Cómo vender un proyecto de refactoring (How to sell a refactoring project)&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Ana Carmona&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nhan_bcn&#34;&gt;@nhan_bcn&lt;/a&gt;.
+&lt;strong&gt;Manel Ibáñez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/codingmonky&#34;&gt;@codingmonky&lt;/a&gt;.&lt;br&gt;
+How, when and why could be necessary to do a refactoring project.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;I liked a lot the conference, it had very interesting speakers and talks, and 200 attendees. The organization was very kind, and they did a very good work.&lt;/p&gt;
+
+&lt;p&gt;Sadly I wasn&amp;rsquo;t able to attend to the open space and retrospective. I think that I probably lost the best part of the conference. I hope I won&amp;rsquo;t miss the opportunity next year. So, there are only a few things I would like to suggest for the next editions: non-weekend event and a main keynote talk (like Sandro&amp;rsquo;s one).&lt;/p&gt;
+
+&lt;p&gt;This has been my second developer conference this year (you can see &lt;a href=&#34;../jbcnconf2017/&#34;&gt;here&lt;/a&gt; my JBCNConf2017 post). There are several reasons to be an attendee on that kind of events, for me the main reasons are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To know what other developers are working on.&lt;/li&gt;
+&lt;li&gt;To stay tuned about new methodologies and practices.&lt;/li&gt;
+&lt;li&gt;To meet other professionals that feel passion about software.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s very important that you go outside your job, and meet other developers and know other points of view.&lt;/p&gt;
+
+&lt;p&gt;Finally I want to thank the organization, without their effort, a conference like this wouldn&amp;rsquo;t be possible. Keep going!!!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Did you assist to any conference? Do you think every developer should assist to them? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>september 2017</title>
