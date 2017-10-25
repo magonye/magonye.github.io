@@ -9,6 +9,74 @@
     <atom:link href="http://magonye.github.io/categories/culture-of-learning/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Culture Of Learning: Book Club</title>
+      <link>http://magonye.github.io/post/CultureOfLearning-BookClub/</link>
+      <pubDate>Mon, 23 Oct 2017 08:21:27 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/CultureOfLearning-BookClub/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/colbookclub.jpg&#34; alt=&#34;COL: BookClub&#34; title=&#34;COL: Book Club&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Reading books is one of the activities everyone who is interested in software should do. It&amp;rsquo;s a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it&amp;rsquo;s difficult to get time to read it, you  aren&amp;rsquo;t motivated enough, or even if you are reading the book, the book is hard to understand.&lt;/p&gt;
+
+&lt;p&gt;By reading a book in a Book Club, you will discover a new way of learning from a book. Let’s see how we’re organizing our book club.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Definition of Book Club&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;Book Club&lt;/strong&gt; is a group of people that is reading the same book at the same time. There are regular meetings, and a list of chapters to read for the next scheduled meeting. You can read more about book clubs &lt;a href=&#34;https://en.wikipedia.org/wiki/Book_discussion_club&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
+
+&lt;p&gt;I tried with no success to read several tech books in the past. Most of them where very famous, as &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt; by &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34;&gt;Robert C. Martin&lt;/a&gt;, or &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/kentbeck&#34;&gt;Kent Beck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I never finished &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt;, although I tried three times. I didn&amp;rsquo;t find the motivation to read it, although I think it&amp;rsquo;s a brilliant book.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t finish &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt;. I thought I wasn&amp;rsquo;t really getting everything from the book. I was missing something.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;d heard about book clubs, a different way to read a book. I talked with some fellows, and starting this activity was easy: we picked a book everyone wanted to read (the first one was &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
+
+&lt;p&gt;We choose a book to read, and find people interested on read this book. We start with the first 2 or 3 chapters, depending the length of them, and we schedule a meeting to review the chapters. The meeting is regular, every two weeks usually. On the meeting, everybody talks about the chapters. There is no agenda for the meeting, just trying to share our thoughts and doubts about the book. At the end of the meeting, we choose the next chapters, and we schedule the next meeting.&lt;/p&gt;
+
+&lt;p&gt;Now, I&amp;rsquo;m happily reading two books at the same time within a book club: &lt;a href=&#34;https://www.goodreads.com/book/show/560861.Non_Violent_Communication&#34;&gt;Non Violent Communication&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Marshall_Rosenberg&#34;&gt;Marshall B. Rosenberg&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month: Essays on Software Engineering&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Fred_Brooks&#34;&gt;Frederick P. Brooks Jr&lt;/a&gt;. And we have a huge list of &amp;ldquo;want-to-read&amp;rdquo; books.&lt;/p&gt;
+
+&lt;p&gt;I have to admit that we didn&amp;rsquo;t start any &amp;ldquo;really&amp;rdquo; technical book. I&amp;rsquo;m not sure this kind of books will work with a book club as we are doing. Besides the book club, we are reading &lt;a href=&#34;https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests&#34;&gt;Growing Object-Oriented Software, Guided by Tests&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/sf105&#34;&gt;Steve Freeman&lt;/a&gt; and &lt;a href=&#34;http://www.natpryce.com/&#34;&gt;Nat Pryce&lt;/a&gt;. But we&amp;rsquo;re reading separate chapters, and guided by &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, a Software Craftsperson embedded in our team. This kind of books, that every single page is really full of concepts, need a different &amp;ldquo;tempo&amp;rdquo;, and you need to digest and understand what is inside every page.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
+
+&lt;p&gt;The Book Club is growing my list of read software books. I&amp;rsquo;ve read some books within the club, that I wouldn&amp;rsquo;t have read by myself. And that&amp;rsquo;s this way because the Book Club has amazing things:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It gives you the motivation of reading a book.&lt;/li&gt;
+&lt;li&gt;It allows you to ask questions about the book to other readers.&lt;/li&gt;
+&lt;li&gt;It gives you different points of view about the same topic.&lt;/li&gt;
+&lt;li&gt;It makes you feel part of a community, with a same purpose.&lt;/li&gt;
+&lt;li&gt;It gives you a pace to read a book, neither slower nor faster.&lt;/li&gt;
+&lt;li&gt;Someone can bring you light on a part of the book that maybe you read too fast or you didn&amp;rsquo;t understand so deep.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are more reasons, but the above written, for me are good enough to start a Book Club at your company, or with a group of people you know.&lt;/p&gt;
+
+&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
+
+&lt;p&gt;I would like to thank &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt; for the tremendous motivation they gave us at the beginning of this year.&lt;/p&gt;
+
+&lt;p&gt;Also I want to thank my first partners at our book club, without you, this wouldn&amp;rsquo;t have been possible: Jordi Farré, Joaquín Caro, Marc Villagrasa, Erik Torres, Alvaro García and Joan Carles Pallás. Thank you, I love you all!&lt;/p&gt;
+
+&lt;p&gt;Finally I want to thank &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt; for her patience, guidance, mentoring, revision and correction of my posts.
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m writing a series of posts about &lt;a href=&#34;../../categories/culture-of-learning/&#34;&gt;&lt;strong&gt;Culture of Learning&lt;/strong&gt;&lt;/a&gt;. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
+
+&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Culture Of Learning: Lunch and Learn</title>
       <link>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</link>
       <pubDate>Tue, 19 Sep 2017 08:29:56 +0200</pubDate>
