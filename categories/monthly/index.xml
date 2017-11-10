@@ -9,6 +9,35 @@
     <atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>october 2017</title>
+      <link>http://magonye.github.io/post/october-2017/</link>
+      <pubDate>Fri, 10 Nov 2017 08:05:53 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/october-2017/</guid>
+      <description>&lt;p&gt;This month I started a new book: &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month&lt;/a&gt;, within a Book Club.&lt;/p&gt;
+
+&lt;p&gt;I also stated watching the vide episodes by &lt;a href=&#34;https://twitter.com/adibolb&#34;&gt;Adrian Balboaca&lt;/a&gt; about &lt;a href=&#34;http://blog.adrianbolboaca.ro/evolutionary-design/&#34;&gt;TDD as if you meant it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, I also added videos to my conferences videos, so, please, watch them and enjoy them as much as I did. You can find them &lt;a href=&#34;../categories/conferences-meetups/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/&#34;&gt;docker health check instruction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/why-isnt-agile-working-d7127af1c552&#34;&gt;why isn’t agile working&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.yegor256.com/2017/03/28/solid.html&#34;&gt;SOLID by yegor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/stop-aliasing-core-git-commands&#34;&gt;stop aliasing core git commands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://michaelfeathers.silvrback.com/knowing-what-is-there&#34;&gt;Knowing what is there&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/programacion-en-la-nube/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas&#34;&gt;entendiendo la nube: el significado de saas, paas y iaas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dev.to/amit_merchant/how-products-got-their-name-c6d&#34;&gt;How products got their names&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/30/lambda-world-conference/&#34;&gt;Lambda World Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312&#34;&gt;Crafting better code reviews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/AjDcPOydSM8&#34;&gt;Craft thinking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>september 2017</title>
       <link>http://magonye.github.io/post/september-2017/</link>
       <pubDate>Sun, 01 Oct 2017 08:29:31 +0200</pubDate>

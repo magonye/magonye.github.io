@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://magonye.github.io/post/october-2017/</loc>
+    <lastmod>2017-11-10T08:05:53+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://magonye.github.io/post/CultureOfLearning-BookClub/</loc>
     <lastmod>2017-10-23T08:21:27+02:00</lastmod>
   </url>
@@ -119,25 +124,25 @@
   
   <url>
     <loc>http://magonye.github.io/</loc>
-    <lastmod>2017-10-23T08:21:27+02:00</lastmod>
+    <lastmod>2017-11-10T08:05:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://magonye.github.io/categories/monthly/</loc>
-    <lastmod>2017-10-01T08:29:31+02:00</lastmod>
+    <lastmod>2017-11-10T08:05:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://magonye.github.io/post/</loc>
-    <lastmod>2017-10-23T08:21:27+02:00</lastmod>
+    <lastmod>2017-11-10T08:05:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://magonye.github.io/categories/reading/</loc>
-    <lastmod>2017-10-01T08:29:31+02:00</lastmod>
+    <lastmod>2017-11-10T08:05:53+01:00</lastmod>
     <priority>0</priority>
   </url>
   
