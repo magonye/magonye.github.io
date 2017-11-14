@@ -6,8 +6,130 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 08:05:53 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Nov 2017 08:48:16 +0100</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>design principles</title>
+      <link>http://magonye.github.io/post/design-principles/</link>
+      <pubDate>Fri, 10 Nov 2017 08:48:16 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/design-principles/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/design-principles.jpg&#34; /&gt;
+&lt;a style=&#34;margin:.50em; float: right; background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;&#34; href=&#34;https://unsplash.com/@yer_a_wizard?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Fleur Treurniet&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;&lt;/title&gt;&lt;path d=&#34;M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;Fleur Treurniet&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?&lt;/p&gt;
+
+&lt;p&gt;Below there is a recap of the main design principles we covered with this exercise.&lt;/p&gt;
+
+&lt;h1 id=&#34;solid-principles&#34;&gt;SOLID Principles&lt;/h1&gt;
+
+&lt;p&gt;Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;, and they are now key design principles in object oriented programming.&lt;/p&gt;
+
+&lt;p&gt;I heard some people talking about S.O.L.I.D. as if they were some kind of religion or &lt;em&gt;mantra&lt;/em&gt;. You should recite them from memory, each principle, each of their words.&lt;/p&gt;
+
+&lt;p&gt;But are they so important? Let&amp;rsquo;s see each of them, one by one:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Single Responsibility Principle [S.R.P.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A class should have one and only one reason to change.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The principle is talking about classes, but you can put here whatever you want: a class, a module, a package, a component, a method &amp;hellip; as you can see, what this principle is talking about is that your software should be low coupled and high cohesive. Object and methods should have only one job. In this way, both the reasons to change a class and the number of classes to change within a feature will be minimized.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open-Closed Principle [O.C.P.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Objects or entities should be open for extension, but closed for modification.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although it might sound weird at the beginning, this principle is telling that your software should be easy to modify.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s easy to thing about this principle if you think on a &lt;strong&gt;switch sentence&lt;/strong&gt;. Each time you add a new case, you should touch the switch method, putting in risk every case, right?&lt;/p&gt;
+
+&lt;p&gt;I think this principle is hard to accomplish at 100%, but you can minimize the parts you should change when adding new functionality to your software. And this principle should be followed as an advice, so try to make your software easy to extend, but don&amp;rsquo;t get crazy trying so hard!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liskov Substitution Principle [L.S.P.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This principle is a pure Object Oriented thing, it&amp;rsquo;s all about hierarchy. It&amp;rsquo;s telling that you should be careful about inheritance, and don&amp;rsquo;t make mistakes.&lt;/p&gt;
+
+&lt;p&gt;For example, if you have &lt;em&gt;rectangle&lt;/em&gt; objects with &lt;strong&gt;setHeight&lt;/strong&gt; and &lt;strong&gt;setWidth&lt;/strong&gt; methods, &lt;em&gt;square&lt;/em&gt; objects shouldn&amp;rsquo;t extend &lt;em&gt;rectangle&lt;/em&gt;, as their height and width should be the same. &lt;em&gt;Square&lt;/em&gt; objects with separate setters for height and width could bring you some inconsistencies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Interface Segregation Principle [I.S.P.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A client should never be forced to implement an interface that it doesn&amp;rsquo;t use or clients shouldn&amp;rsquo;t be forced to depend on methods they don&amp;rsquo;t use.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is one of the easiest principles, in my opinion. If a client doesn&amp;rsquo;t need to use a functionality, don&amp;rsquo;t make the client to implement it. It&amp;rsquo;s better to create two clients, and in this way your software can use one client or the other, depending on the functionality needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dependency Inversion Principle [D.I.P.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Entities must depend on abstractions not on concretions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This principle encourages you to write code that depends upon abstractions rather than upon concrete details. This is, for me, one of the hardest to understand. What basically is saying is that your program should be based on concepts, not on implementations. In this way, your software will be easy to maintain, and the risks will be minimized.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s see an example: if your software needs to use logging features, it&amp;rsquo;s better to use an interface of the logging, instead of use directly the implementation of the logging. If you should make changes on that logging functionality, your code will be safe, as it&amp;rsquo;s based on your interface, not your implementation of that logging.&lt;/p&gt;
+
+&lt;p&gt;For more information about S.O.L.I.D. you can read the &lt;a href=&#34;https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices&#34; target=&#34;_blank&#34;&gt;Agile Software Development, Principles, Patterns, and Practices&lt;/a&gt; book and the following &lt;a href=&#34;http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;, both from &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;other-design-principles&#34;&gt;Other Design Principles&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t Repeat Yourself [D.R.Y.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The DRY principle states that duplication of logic should be avoided.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?DontRepeatYourself&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keep It Simple, Stupid! [K.I.S.S.]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;KISS principle (&lt;em&gt;Keep It Simple and Small&lt;/em&gt; could be a more polite version) is talking about designing software as much simple as possible. This principle is against the over-engineering solutions that are trying to predict the future, and making them difficult to understand for new developers.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?KeepItSimple&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You Aren&amp;rsquo;t Gonna Need It [Y.A.G.N.I]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This principle states that functionality should not be added to a software program until it&amp;rsquo;s strictly necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?YouArentGonnaNeedIt&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Separation of Concerns [SoC]:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Very related to the SRP, SoC is about designing you application having in mind that different concerns should be placed in different parts of your software.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?SeparationOfConcerns&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
+
+&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
+
+&lt;p&gt;Design principles are very important. As much design principles you know, the more qualified you are to do your job, as they are rules, advices and guides about software design.&lt;/p&gt;
+
+&lt;p&gt;Although they are important, you should not be an obsessed of them. Principles are there to help you decide the best option when you are designing. You should know them, slowly, understanding deeply their meaning and purpose. And you should use them wisely, but also with common sense, because there is a thing more important than software design principles. And this thing is the way you code and they way you apply the principles: your craft.&lt;/p&gt;
+
+&lt;p&gt;By following design principles, you will able to make software that is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;maintainable&lt;/li&gt;
+&lt;li&gt;usable&lt;/li&gt;
+&lt;li&gt;less coupled&lt;/li&gt;
+&lt;li&gt;more cohesive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+What do you think about design principles? Are you following them? And what about SOLID principles?
+Any feedback will be very appreciated.&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/photos/dQf7RZhMOJU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34; target=&#34;_blank&#34;&gt;Fleur Treurniet&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34; target=&#34;_blank&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>october 2017</title>
@@ -937,22 +1059,6 @@ squash abcdef1 The last commit for the feature
 &lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/&#34;&gt;Spotify Engineering Culture Part 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/&#34;&gt;Spotify Engineering Culture Part 2&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>welcome to my blog</title>
-      <link>http://magonye.github.io/post/welcome-to-my-blog/</link>
-      <pubDate>Fri, 31 Mar 2017 23:43:44 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/welcome-to-my-blog/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve just created this blog for learning pourposes. I&amp;rsquo;m going to learn a lot of things. I think this blog can help me, but also some of my learnings can help someone else.&lt;/p&gt;
-
-&lt;p&gt;I hope you enjoy it as I&amp;rsquo;m going to enjoy it, and feel free to comment, suggest or  correct any of the content I will be posting here.&lt;/p&gt;
-
-&lt;p&gt;Remember that everything is about learning, enjoying, sharing and teaching. No matter  yours skills, the most important is the will of learn and teach.&lt;/p&gt;
-
-&lt;p&gt;Who am I? I&amp;rsquo;m Mike, a programmer that thought, some time ago, that he already knew everything that was needed to know to be a good programmer, but now, the only thing that I&amp;rsquo;m sure is that I have a long journey. A journey to learn to be a better professional. And that journey will never end!!&lt;/p&gt;
 </description>
     </item>
     
