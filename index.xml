@@ -6,8 +6,35 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Nov 2017 08:48:16 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2017 08:10:01 +0100</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>november 2017</title>
+      <link>http://magonye.github.io/post/november-2017/</link>
+      <pubDate>Mon, 04 Dec 2017 08:10:01 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/november-2017/</guid>
+      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/syLjjmRgTsE&#34;&gt;LSCConf 2017 Nat Pryce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/gNmsWP1LKKs&#34;&gt;LSCConf 2017 Alex Bolboaca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/4-rules-simple-design&#34;&gt;4 Rules for Simple Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34;&gt;XP Simplicity Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-think-red-green-refactor-episode-1/&#34;&gt;Adi Bolboaca: TDD as if you meant it 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-i-care-about-behavior-and-not-about-representation-episode-2/&#34;&gt;Adi Bolboaca: TDD as if you meant it 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-primitives-to-concepts-episode-3/&#34;&gt;Adi Bolboaca: TDD as if you meant it 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-to-a-new-class-episode-4/&#34;&gt;Adi Bolboaca: TDD as if you meant it 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactoring-to-builder-episode-5/&#34;&gt;Adi Bolboaca: TDD as if you meant it 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-rsome-traditional-tdd-part-1-episode-6/&#34;&gt;Adi Bolboaca: TDD as if you meant it 6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/10/tdd-as-if-you-meant-it-some-traditional-tdd-part-2-episode-7/&#34;&gt;Adi Bolboaca: TDD as if you meant it 7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Design Principles</title>
@@ -1030,35 +1057,6 @@ squash abcdef1 The last commit for the feature
 &lt;p&gt;I also finished a very interesting course at Udemy: &amp;ldquo;&lt;a href=&#34;https://www.udemy.com/how-to-become-a-better-developer/&#34;&gt;How to become a better developer&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;I would recommend both courses to everybody. They are clear, very well explained, and the topics are very helpfull. If you want to be a better developer and you have a lot of things to learn, you may consider to take these courses.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>april 2017</title>
-      <link>http://magonye.github.io/post/april-2017/</link>
-      <pubDate>Sun, 30 Apr 2017 18:07:02 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/april-2017/</guid>
-      <description>&lt;p&gt;My current read book is Clean Code, by Robert C. Martin. This is a MUST book, and it&amp;rsquo;s some kind embarrassing I didn&amp;rsquo;t read it before.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also attending the &amp;ldquo;&lt;a href=&#34;https://www.coursera.org/learn/aprendiendo-a-aprender/home/welcome&#34;&gt;Learning how to learn&lt;/a&gt;&amp;rdquo; course at Coursera.&lt;/p&gt;
-
-&lt;p&gt;With the book, I&amp;rsquo;m trying to fix my fault, and with the course I&amp;rsquo;m trying to pave the road. If I want to learn a lot of things, I need to know how to become efficient.&lt;/p&gt;
-
-&lt;p&gt;These are all my readings in this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://12factor.net/&#34;&gt;The Twelve Factor Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/introduction-to-docker&#34;&gt;Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/docker-fundamentals&#34;&gt;Docker fundamentals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/docker-operations&#34;&gt;Docker Operations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Simple Git command guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KsVWdGOnHZU&#34;&gt;IntelliJ IDEA Tips and Tricks Part I&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EvXpgL2iho4&#34;&gt;IntelliJ IDEA Tips and Tricks Part II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/&#34;&gt;How to install Prezto with zsh for your OS X terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/&#34;&gt;Spotify Engineering Culture Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/&#34;&gt;Spotify Engineering Culture Part 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
