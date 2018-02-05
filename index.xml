@@ -6,8 +6,29 @@
     <description>Recent content on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2018 08:13:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 08:24:53 +0100</lastBuildDate>
     <atom:link href="http://magonye.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>january 2018</title>
+      <link>http://magonye.github.io/post/january-2018/</link>
+      <pubDate>Mon, 05 Feb 2018 08:24:53 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/january-2018/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve started two new books: &lt;a href=&#34;https://www.goodreads.com/book/show/36453393-functional-programming-simplified&#34;&gt;Functional Programming, Simplified: (Scala edition)&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34;&gt;Extreme Programming Explained: Embrace Change (The XP Series)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://go.divante.co/microservices-architecture-ecommerce/&#34;&gt;Microservices Architecture for eCommerce&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34;&gt;Valores y principios en el diseño del software - Fran Reyes #CAS2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7EVXypZDOos&#34;&gt;Kotlin for Java Programmers by Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>december 2017</title>
@@ -1040,32 +1061,6 @@ squash abcdef1 The last commit for the feature
 &lt;li&gt;&lt;a href=&#34;https://dev.to/tamrrat/blogging-driven-learning&#34;&gt;Blogging driven learning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/git---command-line-vs-guis&#34;&gt;Git: command line vs guis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dev.to/jackmarchant/no-excuses-write-unit-tests&#34;&gt;No excuses write unit tests&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>june 2017</title>
-      <link>http://magonye.github.io/post/june-2017/</link>
-      <pubDate>Fri, 30 Jun 2017 20:43:32 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/june-2017/</guid>
-      <description>&lt;p&gt;This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: &lt;strong&gt;Clean Code&lt;/strong&gt; [&lt;em&gt;Uncle Bob&lt;/em&gt;], &lt;strong&gt;Test Driven Development by Example&lt;/strong&gt; [&lt;em&gt;Kent Beck&lt;/em&gt;] and &lt;strong&gt;The Software Craftsman&lt;/strong&gt; [&lt;em&gt;Sandro Mancuso&lt;/em&gt;].&lt;/p&gt;
-
-&lt;p&gt;Besides the books, I&amp;rsquo;ve read the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/130256611&#34;&gt;INTERACTION DRIVEN DESIGN - Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dDofYAOkpts&#34;&gt;Introduction to DDD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wecodesignpodcast.com/2017/06/06/toma-de-requisitos/&#34;&gt;Toma-de-requisitos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&#34;&gt;Logs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.koalite.com/2017/05/evitar-la-deuda-tecnica-es-un-error/&#34;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://programar.cloud/post/demo-del-api-gateway-kong/&#34;&gt;Security on APIs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/&#34;&gt;Ron Jeffries&amp;rsquo; Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/nishparadox/builder-design-pattern&#34;&gt;Builder design pattern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/06/13/how-do-I-convince/&#34;&gt;Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Chapter 22 of Growing Object-Oriented Software (Goos)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/&#34;&gt;NoTDD&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
