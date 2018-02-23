@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docker on Learnings and thoughts</title>
-    <link>http://magonye.github.io/categories/docker/index.xml</link>
-    <description>Recent content in Docker on Learnings and thoughts</description>
+    <title>Jenkins on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/jenkins/index.xml</link>
+    <description>Recent content in Jenkins on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://magonye.github.io/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://magonye.github.io/categories/jenkins/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CI/CD Pipeline Kata</title>
@@ -106,126 +106,6 @@ What do you think about the Jenkins kata? Are you building your own pipeline?
 Any feedback will be very appreciated.&lt;/p&gt;
 
 &lt;p&gt;Photo by &lt;a href=&#34;https://pixabay.com/en/users/Tama66-1032521/&#34; target=&#34;_blank&#34;&gt;Tama66&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>JShell, the REPL console in Java 9</title>
-      <link>http://magonye.github.io/post/java-9-repl/</link>
-      <pubDate>Wed, 27 Sep 2017 08:22:31 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/java-9-repl/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/java-9-repl.png&#34; alt=&#34;Java 9 REPL&#34; title=&#34;Java 9 REPL&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On this post, I will cover one of the new Java 9 features that attracted my attention: REPL.&lt;/p&gt;
-
-&lt;p&gt;If you want to know what&amp;rsquo;s new on Java 9, you can visit this &lt;a href=&#34;https://docs.oracle.com/javase/9/whatsnew/toc.htm&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-is-a-repl&#34;&gt;What is a REPL&lt;/h1&gt;
-
-&lt;p&gt;REPL stands for Read-Eval-Print-Loop. It&amp;rsquo;s a shell where the user can type an expression, it will be evaluated, and the result will be returned to the user.&lt;/p&gt;
-
-&lt;p&gt;To me, the main purpose is to interact quickly with Java without creating a java file, compile it and run it. Now, you can try any sentence easily from the shell. Although you may finally use test classes in order to discover a new java api, it could be interesting the usage of this console for prototyping, quick evaluations of any kind of sentence, and also for learning purposes. JShell is very useful for young developers and it allows beginners to learn the Java language.&lt;/p&gt;
-
-&lt;p&gt;You can find more info about REPL &lt;a href=&#34;[REPL wiki](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;an-example-is-worth-a-thousand-words&#34;&gt;An example is worth a thousand words&lt;/h1&gt;
-
-&lt;p&gt;Instead of writing a .java file, and compile it and runt it:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;public class TestRound {
-	    public static void main(String[] args) {
-		    System.out.println(Math.round(34.543));
-	    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;javac TestRound.java
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;java TestRound
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You only need to type the following:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; Math.round(34.543)
-$1 ==&amp;gt; 35
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The shell shows you the result, and assigns it to a variable.&lt;/p&gt;
-
-&lt;h1 id=&#34;creating-methods&#34;&gt;Creating methods&lt;/h1&gt;
-
-&lt;p&gt;Also you can create the following snippet:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; void echo(String s){
-   ...&amp;gt; System.out.println(s);
-   ...&amp;gt; }
-|  created method echo(String)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;and you can call this new method, this way:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; echo(&amp;quot;test&amp;quot;)
-test
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&#34;things-that-i-love-from-the-repl&#34;&gt;Things that I love from the REPL&lt;/h1&gt;
-
-&lt;p&gt;Here is a bunch of things I love from this new shell:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It&amp;rsquo;s built-in in Java 9.&lt;/li&gt;
-&lt;li&gt;You can test any Java expression without a class file, compiling and running it.&lt;/li&gt;
-&lt;li&gt;It autocompletes the methods, just typing the TAB key, as in your editor.&lt;/li&gt;
-&lt;li&gt;You can define methods, and call them later.&lt;/li&gt;
-&lt;li&gt;It shows you the exceptions, if they are thrown.&lt;/li&gt;
-&lt;li&gt;You can edit any method, and change them.&lt;/li&gt;
-&lt;li&gt;There are build-in commands. &lt;a href=&#34;https://jshelltutorial.com/collection-of-jshell-commands/&#34;&gt;Here&lt;/a&gt; the list of commands.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;using-it-on-a-docker-image&#34;&gt;Using it on a Docker Image&lt;/h1&gt;
-
-&lt;p&gt;If you want to test this feature, but you don&amp;rsquo;t want to install Java 9 on your machine, there is an easy way to run Java 9 using Docker.&lt;/p&gt;
-
-&lt;p&gt;1- Create a Dockerfle like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;FROM java:9-jdk
-RUN [&amp;quot;apt-get&amp;quot;, &amp;quot;update&amp;quot;]
-RUN [&amp;quot;apt-get&amp;quot;, &amp;quot;install&amp;quot;, &amp;quot;-y&amp;quot;, &amp;quot;vim&amp;quot;]
-CMD [&amp;quot;/bin/bash&amp;quot;]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;2- Build the image:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker build -t my_java9 .
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;3- Run the image:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker run -ti my_java9 /bin/jshell 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;4- If you prefer, you can create a shell file like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;#!/bin/zsh 
-docker run -it my_java9 /bin/jshell
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;5- Once on the jshell, you can change the default editor, with the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   /set editor /usr/bin/vim
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;From now, when you execute the command &lt;strong&gt;/edit&lt;/strong&gt; on the shell, &lt;strong&gt;vim&lt;/strong&gt;  editor will be launched.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;If you liked this post, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
 </description>
     </item>
     
