@@ -6,8 +6,39 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2018 08:08:34 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 11:34:34 +0100</lastBuildDate>
     <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>february 2018</title>
+      <link>http://magonye.github.io/post/february-2018/</link>
+      <pubDate>Sun, 04 Mar 2018 11:34:34 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/february-2018/</guid>
+      <description>&lt;p&gt;This month I read the book &lt;a href=&#34;https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design&#34;&gt;Understanding the Four Rules of Simple Design&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@benleitmanis/who-is-jordan-peterson-71e0b4b1a2ae&#34;&gt;Who is Jordan Peterson?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937&#34;&gt;Dr. Jordan Peterson&amp;rsquo;s 10 step guide to clearer thinking through essay writing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective&#34;&gt;The 12 Factor App: a java developers perspective&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/&#34;&gt;12 Factor App in plain english&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.adictosaltrabajo.com/tutoriales/el-manifiesto-the-twelve-factor-app/&#34;&gt;El manifiesto the Twelve Factor App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://12factor.net/&#34;&gt;12 Factor App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://alvinalexander.com/scala/what-does-three-question-marks-in-scala-mean&#34;&gt;What does three question marks in scala mean&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hbggtXmQcf8&#34;&gt;Continuous Delivery: Germinando una cultura Agile moderna - by Edu Ferro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/practical-test-pyramid.html&#34;&gt;Practical Test Pyramid by Martin Fowler&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-02-23-software-as-a-craft/&#34;&gt;Software as a Craft by Rachel M. Carmena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/@Empanado/process-driven-rest-api-design-75ca88917582&#34;&gt;Process Driven Rest Api Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;MVC Delivery Mechanism by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/23/outside-in-design/&#34;&gt;Outside-in Design by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CI/CD Pipeline Kata</title>
@@ -1038,72 +1069,6 @@ Some of these implementations allows you to store the encrypted password file on
 &lt;p&gt;We want to create two different password files, on for test environments and another for production environments. Now we have only one file, with both environment together. With the split, we will gain security, and we will be able to give more granularity access to our environments, depending of the role of the team member. There are team members that don&amp;rsquo;t need to have access to our production environments, only to the test ones.&lt;/p&gt;
 
 &lt;p&gt;Do you have any experience with password managers? Do you know a better way to solve this? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Git: how to squash commits already pushed</title>
-      <link>http://magonye.github.io/post/git-squash/</link>
-      <pubDate>Tue, 08 Aug 2017 08:30:46 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/git-squash/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/git-squash-photo.jpg&#34; alt=&#34;Git Squash Main photo&#34; title=&#34;Git Squash Main photo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A few days ago I was working on feature in a project, and after a lot of commits and pushes, I wanted to show to my colleagues my changes&amp;hellip;. but I wanted to show them in a single commit.&lt;/p&gt;
-
-&lt;p&gt;How could I join my 10 commits in a single one?&lt;/p&gt;
-
-&lt;p&gt;I had heard about squashing commits with git before, so I was confident it would be easy to do.&lt;/p&gt;
-
-&lt;p&gt;Googling a little, and reading some examples, I was confident about what I had to do:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git rebase -i HEAD~10
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You can look at the &lt;a href=&#34;https://git-scm.com/docs/git-rebase#_interactive_mode&#34;&gt;git documentation&lt;/a&gt;, if you want to know more about &lt;em&gt;git rebase&lt;/em&gt; command.&lt;/p&gt;
-
-&lt;p&gt;The key is the interactive mode (&lt;strong&gt;-i&lt;/strong&gt;), that allows you to edit the commits which are being rebased.&lt;/p&gt;
-
-&lt;p&gt;At this point, the editor  opened, with the list of commits that I was rebasing, and some instructions. Something similar to this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pick affab1e The first commit for the feature
-pick accab1e The second commit for the feature
-...
-pick abcdef1 The last commit for the feature
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Here, I only had to change the second and following commits, replacing &lt;em&gt;pick&lt;/em&gt; with &lt;em&gt;squash&lt;/em&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;pick affab1e The first commit for the feature
-squash accab1e The second commit for the feature
-...
-squash abcdef1 The last commit for the feature
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;After looking to my &lt;em&gt;git log&lt;/em&gt;, I was exulting. Now the log looked amazing, with my new brand feature in a very single commit.&lt;/p&gt;
-
-&lt;p&gt;But the problems began when I tried to push the &lt;em&gt;rebased&lt;/em&gt; commit. Git didn&amp;rsquo;t allow me, because I was required to do a &lt;em&gt;git pull&lt;/em&gt; before.&lt;/p&gt;
-
-&lt;p&gt;Here I got stack on an evil loop:&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;https://magonye.github.io/img/git-squash-evilloop.png&#34; alt=&#34;Git Squash Evil Loop&#34; style=&#34;width: 400px;&#34;/&gt;&lt;br /&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;After a few attempts, and the priceless help of a colleague, I realized that I couldn&amp;rsquo;t go forward with the squash this way.&lt;/p&gt;
-
-&lt;p&gt;This process would work to me if I hadn&amp;rsquo;t pushed the commits that I wanted to squash. On this scenario, Git wouldn&amp;rsquo;t ask me for a &lt;em&gt;git pull&lt;/em&gt;, and I could push my squashed commit without problems. And that is because my remote repository wouldn&amp;rsquo;t have any of the commits I was trying to squash, as my local repo would be beyond my remote repo.&lt;/p&gt;
-
-&lt;p&gt;What I needed to do was to force push with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git push origin +branch
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;With this command, that worked to me as a charm, finally I was able to push my feature to the branch as a single commit, although I had already pushed it before in separated commits.&lt;/p&gt;
-
-&lt;p&gt;You can find more info about &lt;strong&gt;+&amp;lt;refspec&amp;gt;&lt;/strong&gt; command at the official documentation of &lt;a href=&#34;https://git-scm.com/docs/git-push#git-push---force&#34;&gt;git push&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Do you have any experience with squash? Do you know a better way to solve this? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
 </description>
     </item>
     
