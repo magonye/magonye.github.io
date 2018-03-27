@@ -9,6 +9,134 @@
     <atom:link href="http://magonye.github.io/categories/design/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Simple Design</title>
+      <link>http://magonye.github.io/post/simple-design/</link>
+      <pubDate>Wed, 21 Mar 2018 08:37:49 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/simple-design/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/users/FelixMittermeier-4397258/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from FelixMittermeier&#34;&gt;&lt;img src=&#34;https://magonye.github.io/img/simple-design.jpg&#34; /&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Several months ago, I wrote about some known design principles: SOLID, YAGNI, DRY, &amp;hellip;.. (you can read the full post &lt;a href=&#34;../../post/design-principles/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). I was looking to understand and follow these principles for a goal: to write better code. And when I talk about &amp;ldquo;better&amp;rdquo; code, I mean readable and maintainable code. Code that every developer in a company should be able to maintain in a future. No matter if I&amp;rsquo;m still in the company or not.&lt;/p&gt;
+
+&lt;p&gt;I have to admit that some of the principles that I wrote about were tough to understand to me. And they were tougher to apply on my daily basis work. In fact, sometimes, when applying some of the SOLID principles in our code, it can look more unreadable and unmaintainable than before. What the hell!!! What was happening here?&lt;/p&gt;
+
+&lt;p&gt;It could be that design patterns are good, when they apply to a concrete scenario. So, I thought that it was needed some higher-level rules, not so specific, that I might apply, if not always, most of the times. The following post tries to explain some rules I started to follow in order to achieve that better design that we all are looking for.&lt;/p&gt;
+
+&lt;h2 id=&#34;rules-of-simple-design&#34;&gt;Rules of Simple Design&lt;/h2&gt;
+
+&lt;p&gt;Design should be a constant in our work, an improvement process that make us to have a Better Design, instead of a Good Design. There is no formula for that Good Design.&lt;/p&gt;
+
+&lt;p&gt;In order to achieve this improvement, what has sense to me is to think in a Simple Design, easy to change, and that fits in what I think a Better Design should be.&lt;/p&gt;
+
+&lt;p&gt;For that purpose, Kent Beck created the &lt;strong&gt;4 Rules of Simplicity&lt;/strong&gt;, and they became tremendous known when they appeared on &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34; target=&#34;_blank&#34;&gt;Clean Code&lt;/a&gt; book by &lt;a href=&#34;https://twitter.com/unclebobmartin&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Passes all the tests.&lt;/li&gt;
+&lt;li&gt;Expresses every idea that we need to express.&lt;/li&gt;
+&lt;li&gt;Says everything one and only once.&lt;/li&gt;
+&lt;li&gt;Has no superfluous parts.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Looking for brevity, the following rules could work as well:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Tests pass&lt;/li&gt;
+&lt;li&gt;Express Intent&lt;/li&gt;
+&lt;li&gt;No duplication&lt;/li&gt;
+&lt;li&gt;Small&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are 4 statements or commands, presented as a workflow. These 4 rules combine each other with the following one and they should be iterated until we feel our code is clear and simple enough.&lt;/p&gt;
+
+&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
+
+&lt;p&gt;Sometime after that, Kent Beck wrote a book called &lt;a href=&#34;https://www.goodreads.com/book/show/781559.Implementation_Patterns&#34; target=&#34;_blank&#34;&gt;Implementation Patterns&lt;/a&gt;, and he described the values that were behind his 4 rules. These values are consistent with excellence in programming. I&amp;rsquo;m trying to have them in mind when I write software:&lt;/p&gt;
+
+&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
+
+&lt;p&gt;As &lt;a href=&#34;https://www.goodreads.com/quotes/835238-indeed-the-ratio-of-time-spent-reading-versus-writing-is&#34; target=&#34;_blank&#34;&gt;Robert C. Martin said&lt;/a&gt;, we spend more time reading code than writing new one. As a programmer, we should know that we are not only writing code to satisfy a feature. We are also writing code for the programmer that will change that code in the future (maybe ourselves, maybe another programmer).&lt;/p&gt;
+
+&lt;p&gt;For that reason, we need to communicate as much as possible, and we should also break some rules if, breaking that rules, the code communicates better. Who will care in the future if our code is clean code, if nobody understands it?&lt;/p&gt;
+
+&lt;h3 id=&#34;simplicity&#34;&gt;Simplicity&lt;/h3&gt;
+
+&lt;p&gt;In order to understand code, it should be simple. Simple solutions communicate better than complex and smart ones. We need to eliminate complexity of our code. Simplicity should help our code to communicate its purpose. The only reason to keep something more complex should be for the communication.&lt;/p&gt;
+
+&lt;h3 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h3&gt;
+
+&lt;p&gt;Sometimes we write code that tries to satisfy a future feature. We try our software to be flexible to future changes, and sometimes these changes come, but sometimes they never come. That flexibility makes our code complex and hard to maintain.&lt;/p&gt;
+
+&lt;p&gt;Our code should be flexible to allow new changes to come, but not anticipating them. Postponing decisions to the last responsible moment, let you have more information to take into account. Sometimes, when we try to anticipate a feature, we don&amp;rsquo;t have enough information yet. If we postpone the decision until the last possible moment, we have more chance to be successful.&lt;/p&gt;
+
+&lt;h2 id=&#34;learnings&#34;&gt;LEARNINGS&lt;/h2&gt;
+
+&lt;p&gt;I have spent the majority of my professional career as a developer thinking that smart and complex solutions were better. I tried hard to understand code from colleagues that were hard to understand. And I though these developers were awesome and were creating better code than I was.
+These times were time of cowboy coders, with no vision of team membership.&lt;/p&gt;
+
+&lt;p&gt;And at some point, in my professional career, I started to work in a team with strong sense of team, a team with a common and clear purpose. And the code didn&amp;rsquo;t belong to me anymore, the code belonged to the team.&lt;/p&gt;
+
+&lt;p&gt;Having these values and applying these rules helps the team with its purpose: to create amazing new features, modify existing ones, but also allowing any member of the team to work on any part of our codebase. There is no magic, and problems on new feature are still there, but I think we are minimizing problems of readability and maintenance. Our solutions are now simpler than before, and for that reason, our codebase is more flexible and allow us to add new behavior with less effort.&lt;/p&gt;
+
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;I would like to thank &lt;a href=&#34;https://twitter.com/venkat_s&#34; target=&#34;_blank&#34;&gt;Dr. Venkat Subramaniam&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/fran_reyes&#34; target=&#34;_blank&#34;&gt;Fran Reyes&lt;/a&gt; for the inspiration.&lt;/p&gt;
+
+&lt;p&gt;I was attending the Barcelona Java Conference 2017, and the opening key note was &amp;ldquo;The Art of Simplicity&amp;rdquo;, by &lt;a href=&#34;https://twitter.com/venkat_s&#34; target=&#34;_blank&#34;&gt;Dr. Venkat Subramaniam&lt;/a&gt;. You can see the full video &lt;a href=&#34;https://www.youtube.com/watch?v=Z-8ZGgGadHU&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
+The talk was very inspirational, about the art of making things simple. At the end of the talk, I had the feeling that the search of the simplicity, as itself, was a challenge, and it required a lot to practice, in order to be mastered.&lt;/p&gt;
+
+&lt;p&gt;Later on, at the Community of Practice that we are running at our work, we saw the video &amp;ldquo;Values and Principles in Software Design&amp;rdquo; by @fran_reyes. The talk was originally made at CAS2017, it&amp;rsquo;s in Spanish, and you can see the full video &lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. This video talks about Kent Beck&amp;rsquo;s values and principles, and examples and advices about how to apply them.&lt;/p&gt;
+
+&lt;p&gt;That&amp;rsquo;s the tweet I made of that session:
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;: Values and Principles in Software Design by &lt;a href=&#34;https://twitter.com/fran_reyes?ref_src=twsrc%5Etfw&#34;&gt;@fran_reyes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/alwaysLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwaysLearning&lt;/a&gt; &lt;a href=&#34;https://t.co/xwC7sj6F8C&#34;&gt;pic.twitter.com/xwC7sj6F8C&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/961634605576196096?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;kent-beck&#34;&gt;KENT BECK&lt;/h2&gt;
+
+&lt;p&gt;Everything on that post is about Kent Beck&amp;rsquo;s work. He transformed the software development world. He is the creator of &lt;a href=&#34;http://wiki.c2.com/?ExtremeProgramming&#34; target=&#34;_blank&#34;&gt;extreme programming&lt;/a&gt;, one of the original signatories of the &lt;a href=&#34;http://agilemanifesto.org/&#34; target=&#34;_blank&#34;&gt;Agile Manifesto&lt;/a&gt;, and very related to the &lt;a href=&#34;http://wiki.c2.com/?TestDrivenDevelopment&#34; target=&#34;_blank&#34;&gt;TDD&lt;/a&gt; movement.&lt;/p&gt;
+
+&lt;p&gt;If you don&amp;rsquo;t know him, I recommend you start looking for his work.&lt;/p&gt;
+
+&lt;h2 id=&#34;more-info&#34;&gt;More info&lt;/h2&gt;
+
+&lt;p&gt;If you are interested in going further on that topic, here you can find some resources that inspired me, and I recommend you read:&lt;/p&gt;
+
+&lt;p&gt;Books:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/781559.Implementation_Patterns&#34; target=&#34;_blank&#34;&gt;Implementation Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design&#34; target=&#34;_blank&#34;&gt;Understanding the Four Rules of Simple Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34; target=&#34;_blank&#34;&gt;Extreme Programming Explained: Embrace Change&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34; target=&#34;_blank&#34;&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34; target=&#34;_blank&#34;&gt;Xp - Simplicity Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BeckDesignRules.html&#34; target=&#34;_blank&#34;&gt;Beck Design Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.iterate.no/2012/06/20/programming-like-kent-beck/&#34; target=&#34;_blank&#34;&gt;Programming like Kent Beck&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Videos:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z-8ZGgGadHU&#34; target=&#34;_blank&#34;&gt;JBCNConf 2017 - Venkat Subramaniam - The Art of Simplicity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34; target=&#34;_blank&#34;&gt;CAS2017 - Fran Reyes - Values and Principles in Software Design&lt;/a&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+What do you think about Simple Design? Are you trying to create code that communicates, is simple and flexible?
+Any feedback will be very appreciated.&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&#34;https://pixabay.com/en/users/FelixMittermeier-4397258/&#34; target=&#34;_blank&#34;&gt;FelixMittermeier&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Design Principles</title>
       <link>http://magonye.github.io/post/design-principles/</link>
       <pubDate>Fri, 10 Nov 2017 08:48:16 +0100</pubDate>
