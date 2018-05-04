@@ -6,8 +6,29 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 04 May 2018 14:30:56 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>april 2018</title>
+      <link>http://magonye.github.io/post/april-2018/</link>
+      <pubDate>Fri, 04 May 2018 14:30:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/april-2018/</guid>
+      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WlnpKUvuKnI&#34;&gt;JDD 2017: Refactoring in Business World&amp;hellip; for Developers? (Włodek Krakowski)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?time_continue=4&amp;amp;v=z4qvIaJhSkU&#34;&gt;Tic-Tac-Toe Speedrun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/03/31/rereading-the-mythical-man-month/&#34;&gt;Rereading the Mythical Man Month by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://marcus-biel.com/java-beginner-course/&#34;&gt;Java Course for Beginners by Marcus Biel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-04-24-intermediate-step-gilded-rose-kata/&#34;&gt;Intermediate step of Gilded Rose Kata by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>march 2018</title>
@@ -935,62 +956,6 @@ Tech Lunch they did in the past. They told us that if we wanted to learn somethi
 &lt;p&gt;I will talk more about &lt;strong&gt;Culture of Learning&lt;/strong&gt; in following posts. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
 
 &lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>august 2017</title>
-      <link>http://magonye.github.io/post/august-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 15:12:35 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/august-2017/</guid>
-      <description>&lt;p&gt;This month I did the following things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Book Club&lt;/strong&gt;: Actually reading &lt;strong&gt;The Software Craftsman&lt;/strong&gt; by Sandro Mancuso, and &lt;strong&gt;NonViolent Comunication&lt;/strong&gt; by Marshall B. Rosenberg.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Typing training&lt;/strong&gt;: I started doing some typing training at &lt;a href=&#34;https://www.typing.com&#34;&gt;typing.com&lt;/a&gt;. There are other options, like &lt;a href=&#34;http://www.typingstudy.com&#34;&gt;typingstudy.com&lt;/a&gt;, &lt;a href=&#34;https://www.typingclub.com/&#34;&gt;typingclub.com&lt;/a&gt;  or &lt;a href=&#34;https://www.cursomeca.com&#34;&gt;cursomeca.com&lt;/a&gt;. I&amp;rsquo;ll try them soon.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Software design patterns&lt;/strong&gt;: I started reviewing software design patterns at &lt;a href=&#34;https://sourcemaking.com&#34;&gt;sourcemaking.com&lt;/a&gt;. This is something I need to improve, in order to know and understand them better.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Code Smells&lt;/strong&gt;: I&amp;rsquo;m studying code smells, with the help of Rachel, and also at &lt;a href=&#34;https://sourcemaking.com&#34;&gt;sourcemaking.com&lt;/a&gt;. To know when something is wrong, is as important as to know when it&amp;rsquo;s right.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;My blog&lt;/strong&gt;: This month I started publishing some posts on my blog. Now that I started, I have a lot of ideas for new posts. You&amp;rsquo;ll see them soon published!!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I read all these posts and videos during August:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/lobotomy-to-your-object-oriented-thinking-elegant&#34;&gt;Lobotomy to your object-oriented thinking elegant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gshotwell/why-you-should-work-remotely&#34;&gt;Why you should work remotely&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/bob/how-do-you-know-your-code-is-bad&#34;&gt;How do you know your code is bad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.alexbolboaca.ro/software-craftsmanship/for-the-perfect-programmer&#34;&gt;For the perfect programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase&#34;&gt;Squash your commits with git rebase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/07/09/P3-Quality/&#34;&gt;P3 Quality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/multi-module/&#34;&gt;Multi module&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/nathanepstein/what-is-a-10x-programmer/&#34;&gt;What is a 10x programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/steff_br/what-nobody-tells-you-when-you-decide-to-learn-how-to-code&#34;&gt;What nobody tells you when you decide to learn how to code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb&#34;&gt;In defence of software craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/ice_lenor/design-your-code-for-readability&#34;&gt;Design your code readability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/riccardo_cardin/object-oriented-programming-strikes-back&#34;&gt;Object oriented programming strikes back&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/21/avoid-software-outsourcing-disaster.html&#34;&gt;Avoid software outsourcing disaster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/danlebrero/the-tragedy-of-100-code-coverage&#34;&gt;The tragedy of 100% ccode coverage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://m.youtube.com/watch?sns=tw&amp;amp;v=liLqIEMpj-k&#34;&gt;Joaquín Engelmo (@kinisoftware) - La cultura importa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/20/my-first-steps-as-an-embedded-sw-craftswoman/&#34;&gt;My first steps as an embedded sw craftswoman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/hweetty/keyboard-shortcuts&#34;&gt;Keyboard shortcuts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/21/a-reflection-on-software-craftsmanship/&#34;&gt;A reflection on software craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/lpasqualis/11-best-ways-to-improve-your-emotional-intelligence/&#34;&gt;11 best ways to improve your emotional intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/tkeeney/just-a-developer&#34;&gt;Just a developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/mortoray/im-proud-to-be-a-programmer&#34;&gt;I&amp;rsquo;m proud to be a programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/02/light-access-dsl/&#34;&gt;Light access dsl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15&#34;&gt;The most intolerant wins the dictatorship of the small minority&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2017/08/dont-forget-the-second-step.html&#34;&gt;Don&amp;rsquo;t forget the second step&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/yelluw/how-to-do-technical-blogging&#34;&gt;How to do technical blogging&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/chinchang/tools-that-make-me-fast-and-productive&#34;&gt;Tools that make me fast and productive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers&#34;&gt;3 effective ways to maintain high energy levels at work for software engineers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/davidk01/a-day-in-the-life-of-a-programmer&#34;&gt;A day in the life of a programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/0x13a/the-art-of-defensive-programming&#34;&gt;The art of defensive programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/8-ways-to-become-a-better-coder&#34;&gt;8 ways to become a better coder&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
 </description>
     </item>
     
