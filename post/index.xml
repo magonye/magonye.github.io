@@ -6,8 +6,56 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 May 2018 14:30:56 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 08:09:56 +0200</lastBuildDate>
     <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Another step</title>
+      <link>http://magonye.github.io/post/another-step/</link>
+      <pubDate>Tue, 19 Jun 2018 08:09:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/another-step/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from wen8707270&#34;&gt;&lt;img src=&#34;https://magonye.github.io/img/another-step.jpg&#34; /&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+I&amp;rsquo;ve been working almost for 6 years at the same employer. It&amp;rsquo;s been the longest period in my professional career. When you are trying to get features to production quickly within a team, and at the same time learning new things and trying to refactor and improve your architecture, most of the time you don&amp;rsquo;t realize about how fast time happens.&lt;/p&gt;
+
+&lt;p&gt;But then, something happens. Maybe it is a teammate that leave the team (&lt;em&gt;you know who you are, don&amp;rsquo;t you?&lt;/em&gt;), or a book that you are reading about software development, or maybe a talk that you are attending at a conference (&lt;em&gt;I think you also know who you are. The same guy that wrote the book!&lt;/em&gt;) &amp;hellip; then you stop, you look back your shoulder, and you ask yourself: Are you proud of what you&amp;rsquo;ve achieved? Are you in the best place you can be? Are you still learning and enjoying it?&lt;/p&gt;
+
+&lt;h1 id=&#34;past&#34;&gt;Past&lt;/h1&gt;
+
+&lt;p&gt;I started as a software developer more than twenty years ago. I finished Computer Science studies at &lt;a href=&#34;https://www.fib.upc.edu/en&#34; target=&#34;_blank&#34;&gt;Facultat d&amp;rsquo;Informatica de Barcelona&lt;/a&gt;. With almost no knowledge about &amp;ldquo;real&amp;rdquo; software development, I started working with some university mates. It was a time when everything was new to me. And I enjoyed a lot.&lt;/p&gt;
+
+&lt;p&gt;During the following years, I worked on several different projects. All of them started pretty well, but a lot ended as a nightmare. I thought that software development was all about project failures. Was inevitable the frustration of the client and the developer? Why projects never ended well? Why did nobody know how to plan a project that, in the end, the client&amp;rsquo;s needs were successful satisfied?&lt;/p&gt;
+
+&lt;p&gt;I also changed a few times of company. On each one, I left very good friends.&lt;/p&gt;
+
+&lt;h1 id=&#34;present&#34;&gt;Present&lt;/h1&gt;
+
+&lt;p&gt;I finally ended at my current employer. I felt like a senior software developer, with a lot of experience and knowledge. I really felt like I could handle almost every project. And tried hard to break the big monolith we still have here. But it was hard and very difficult. And I couldn&amp;rsquo;t succeed. Neither my team. We were all very experienced software developers, but we lacked a lot of skills. Some of them were obvious, such as TDD or Design. Others were not so obvious, such communication or devops.&lt;/p&gt;
+
+&lt;p&gt;At this point, with a lot of help from &lt;a href=&#34;https://codurance.com/&#34; target=&#34;_blank&#34;&gt;Codurance&lt;/a&gt;, we started a long journey. We started to improve as software developers. And we started to fill the gaps in our skills and the culture of continuous improvement. It was really the best year of my professional career. To summarize, I realized the importance of working with people with the same mindset, and that there are a lot of things to learn and there always will be.&lt;/p&gt;
+
+&lt;p&gt;I also met people to follow as professionals. They were acting as mentors to me. Something that I never had before.&lt;/p&gt;
+
+&lt;h1 id=&#34;future&#34;&gt;Future&lt;/h1&gt;
+
+&lt;p&gt;Nobody knows the future. Our professional careers are plenty of steps, as a ladder, we are climbing (&lt;a href=&#34;https://www.youtube.com/watch?v=Fya3Q3AJyVM&#34; target=&#34;_blank&#34;&gt;see this video&lt;/a&gt;). Each step is risky, but also an opportunity to improve. And as much prepared as you are to take a decision, less afraid you are of being wrong. And there is where I am, right now.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m making another step in my career. And a new challenge is starting. Bye bye comfort zone! I&amp;rsquo;m going to start again, I will meet new developers, with different experiences and background than me. I will be part of a different team. And they will teach me a lot of new things, and I will try to show them something in return. Because, in the end, now I think this is what software development is all about.&lt;/p&gt;
+
+&lt;h1 id=&#34;acknowledges&#34;&gt;Acknowledges&lt;/h1&gt;
+
+&lt;p&gt;My first thoughts are for all the people that were with me from the beginning of this journey: Joaquin (&lt;a href=&#34;https://twitter.com/joaquin_caro&#34; target=&#34;_blank&#34;&gt;@joaquin_caro&lt;/a&gt;), Lau (&lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;@laurentiumarcut&lt;/a&gt;), Victor (&lt;a href=&#34;https://twitter.com/victorandevert&#34; target=&#34;_blank&#34;&gt;@victorandevert&lt;/a&gt;), Jordi (&lt;a href=&#34;https://twitter.com/jordifr&#34; target=&#34;_blank&#34;&gt;@jordifr&lt;/a&gt;) and Marc (&lt;a href=&#34;https://twitter.com/marcvege&#34; target=&#34;_blank&#34;&gt;@marcvege&lt;/a&gt;). They were the &amp;ldquo;original&amp;rdquo; members of my team. It&amp;rsquo;s been my most enjoyable professional experience so far.&lt;/p&gt;
+
+&lt;p&gt;I also would like to thank Sandro (&lt;a href=&#34;https://twitter.com/sandromancuso&#34; target=&#34;_blank&#34;&gt;@sandromancuso&lt;/a&gt;) and Mash (&lt;a href=&#34;https://twitter.com/mashooq&#34; target=&#34;_blank&#34;&gt;@mashooq&lt;/a&gt;). They helped us and guided us at the beginning. With their knowledge, support, advice, and friendship, everything would have been harder.&lt;/p&gt;
+
+&lt;p&gt;Finally, Alvaro (&lt;a href=&#34;https://twitter.com/alvarobiz&#34; target=&#34;_blank&#34;&gt;@alvarobiz&lt;/a&gt;) and Rachel (&lt;a href=&#34;https://twitter.com/bberrycarmen&#34; target=&#34;_blank&#34;&gt;@bberrycarmen&lt;/a&gt;), who followed what Sandro and Mash started. They spent some months with our team, mentoring us and raising up the bar. I hope we could be friends forever. You gave me so much!!&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&#34;ttps://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34;&gt;wen8707270&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>april 2018</title>
@@ -892,68 +940,6 @@ docker run -it my_java9 /bin/jshell
 &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;If you liked this post, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Culture Of Learning: Lunch and Learn</title>
-      <link>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</link>
-      <pubDate>Tue, 19 Sep 2017 08:29:56 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/collunchandlearn.png&#34; alt=&#34;COL: Lunch and Learn&#34; title=&#34;COL: Lunch and Learn&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I&amp;rsquo;ll call &lt;strong&gt;Culture of Learning&lt;/strong&gt;, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.&lt;/p&gt;
-
-&lt;p&gt;So, the first post of this series is about our Lunch and Learn sessions.&lt;/p&gt;
-
-&lt;h1 id=&#34;lunch-and-learn&#34;&gt;Lunch and Learn&lt;/h1&gt;
-
-&lt;p&gt;This is one of the first activities the team started a few months ago. Lunch and Learn (L&amp;amp;L from now) is basically a meal time that we spend together, in a room, and learning some technical stuff, not related to our current tasks.&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
-
-&lt;p&gt;At the beginning  of this year, we had the amazing opportunity of working with &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt;, founders of &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. We spent intensive weeks, reviewing all our applications together, and redesigning how they should be. We got a very close relationship, and we also had to spend lunch time together talking about several things. One of these things was how we could be a better team. They talked us about some kind of
-Tech Lunch they did in the past. They told us that if we wanted to learn something, a good idea is to spend the meal time learning it.&lt;/p&gt;
-
-&lt;p&gt;This activity was very easy to start. If you have an available room and some people with anger to learn, that&amp;rsquo;s all! So, on 19th of April we had the first session of our L&amp;amp;L: it was a kata about Docker. Since then, we have enjoyed 16 sessions, and they have been about several topics, such as &lt;em&gt;Json Web Tokens&lt;/em&gt;, &lt;em&gt;Cucumber&lt;/em&gt;, &lt;em&gt;Clean Architecture&lt;/em&gt;, &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;Tech Debt&lt;/em&gt;, &lt;em&gt;OWASP guide&lt;/em&gt;, &lt;em&gt;Java 8 Streams and Lambdas&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
-
-&lt;p&gt;As I said before, basically you only need a room, and people that want to learn something together. You choose a topic or topics to talk about: a video about some interesting topic, a kata, topics to discuss, a workshop, or any relevant tech.&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t require a big effort to prepare a L&amp;amp;L session, even we had a session with no topic, and we just talked about several subjects, as an open space.&lt;/p&gt;
-
-&lt;p&gt;The activity lasts 2 hours, one is our meal time, and another hour from our work time. We give one personal hour and the company gives the other hour, it&amp;rsquo;s a 50-50 balance.&lt;/p&gt;
-
-&lt;p&gt;We do this activity weekly, every Wednesday, from 13:00 to 15:00. Each session can be facilitated by one or more people, and we try to fix the agenda for the next session one week before.&lt;/p&gt;
-
-&lt;p&gt;We have a page on our Confluence team space, where we track all sessions, speakers, and topics. Some topics can be covered in a single session. Other topics can end with a challenge. It&amp;rsquo;s an exercise for everybody or an exercise for each member. They are totally volunteer, no one in the team is forced neither to assist to a meeting nor to resolve a challenge.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
-
-&lt;p&gt;L&amp;amp;L for us is a safe place where we can:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Learn things&lt;/strong&gt;: It&amp;rsquo;s a good place to start some technology. If someone in the team has curiosity for any topic, no matter which, he can manage a session there. He can be an expert or not, he can be a teacher or a student as the others: the important thing is to learn something together.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Expose your doubts&lt;/strong&gt;: You can talk with your colleagues with humbleness, nobody is judging, there is no managers, only buddies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Train our communicative skills&lt;/strong&gt;: Not everybody is open and talkative, and some programmers are introverts. At the L&amp;amp;L anyone can manage a session, alone or with someone. Every member has facilitated at least one session, and our communicative skills are improving.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Share knowledge&lt;/strong&gt;: If someone learns something, no matter how big or important it is, it could be shared as a session. We have learned and shared a lot of different tech stuff, and it could be very difficult to learn so many things by our own. Sharing is key, in order to be more broad at our learning topics, as different members are interested on different topics.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
-
-&lt;p&gt;I want to thank Mash and Sandro for the inspiration. Without their advice and wise words, this change wouldn&amp;rsquo;t have been possible.&lt;/p&gt;
-
-&lt;p&gt;I also want to thank &lt;a href=&#34;https://codurance.com/publications/author/alvaro-garcia/&#34;&gt;Alvaro García&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, both craftspeople at &lt;a href=&#34;https://codurance.com&#34;&gt;Codurance&lt;/a&gt;, and embedded at our team when L&amp;amp;L was started. They helped us a lot, facilitating our first sessions, and proposing topics for next sessions.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I will talk more about &lt;strong&gt;Culture of Learning&lt;/strong&gt; in following posts. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
 
 &lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
 </description>
