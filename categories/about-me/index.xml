@@ -1,60 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About-me on Learnings and thoughts</title>
-    <link>http://magonye.github.io/categories/about-me/index.xml</link>
-    <description>Recent content in About-me on Learnings and thoughts</description>
+    <title>about-me on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/about-me/</link>
+    <description>Recent content in about-me on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://magonye.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-    <item>
-      <title>Another step</title>
-      <link>http://magonye.github.io/post/another-step/</link>
-      <pubDate>Tue, 19 Jun 2018 08:09:56 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/another-step/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from wen8707270&#34;&gt;&lt;img src=&#34;https://magonye.github.io/img/another-step.jpg&#34; /&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;
-I&amp;rsquo;ve been working almost for 6 years at the same employer. It&amp;rsquo;s been the longest period in my professional career. When you are trying to get features to production quickly within a team, and at the same time learning new things and trying to refactor and improve your architecture, most of the time you don&amp;rsquo;t realize about how fast time happens.&lt;/p&gt;
-
-&lt;p&gt;But then, something happens. Maybe it is a teammate that leave the team (&lt;em&gt;you know who you are, don&amp;rsquo;t you?&lt;/em&gt;), or a book that you are reading about software development, or maybe a talk that you are attending at a conference (&lt;em&gt;I think you also know who you are. The same guy that wrote the book!&lt;/em&gt;) &amp;hellip; then you stop, you look back your shoulder, and you ask yourself: Are you proud of what you&amp;rsquo;ve achieved? Are you in the best place you can be? Are you still learning and enjoying it?&lt;/p&gt;
-
-&lt;h1 id=&#34;past&#34;&gt;Past&lt;/h1&gt;
-
-&lt;p&gt;I started as a software developer more than twenty years ago. I finished Computer Science studies at &lt;a href=&#34;https://www.fib.upc.edu/en&#34; target=&#34;_blank&#34;&gt;Facultat d&amp;rsquo;Informatica de Barcelona&lt;/a&gt;. With almost no knowledge about &amp;ldquo;real&amp;rdquo; software development, I started working with some university mates. It was a time when everything was new to me. And I enjoyed a lot.&lt;/p&gt;
-
-&lt;p&gt;During the following years, I worked on several different projects. All of them started pretty well, but a lot ended as a nightmare. I thought that software development was all about project failures. Was inevitable the frustration of the client and the developer? Why projects never ended well? Why did nobody know how to plan a project that, in the end, the client&amp;rsquo;s needs were successful satisfied?&lt;/p&gt;
-
-&lt;p&gt;I also changed a few times of company. On each one, I left very good friends.&lt;/p&gt;
-
-&lt;h1 id=&#34;present&#34;&gt;Present&lt;/h1&gt;
-
-&lt;p&gt;I finally ended at my current employer. I felt like a senior software developer, with a lot of experience and knowledge. I really felt like I could handle almost every project. And tried hard to break the big monolith we still have here. But it was hard and very difficult. And I couldn&amp;rsquo;t succeed. Neither my team. We were all very experienced software developers, but we lacked a lot of skills. Some of them were obvious, such as TDD or Design. Others were not so obvious, such communication or devops.&lt;/p&gt;
-
-&lt;p&gt;At this point, with a lot of help from &lt;a href=&#34;https://codurance.com/&#34; target=&#34;_blank&#34;&gt;Codurance&lt;/a&gt;, we started a long journey. We started to improve as software developers. And we started to fill the gaps in our skills and the culture of continuous improvement. It was really the best year of my professional career. To summarize, I realized the importance of working with people with the same mindset, and that there are a lot of things to learn and there always will be.&lt;/p&gt;
-
-&lt;p&gt;I also met people to follow as professionals. They were acting as mentors to me. Something that I never had before.&lt;/p&gt;
-
-&lt;h1 id=&#34;future&#34;&gt;Future&lt;/h1&gt;
-
-&lt;p&gt;Nobody knows the future. Our professional careers are plenty of steps, as a ladder, we are climbing (&lt;a href=&#34;https://www.youtube.com/watch?v=Fya3Q3AJyVM&#34; target=&#34;_blank&#34;&gt;see this video&lt;/a&gt;). Each step is risky, but also an opportunity to improve. And as much prepared as you are to take a decision, less afraid you are of being wrong. And there is where I am, right now.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m making another step in my career. And a new challenge is starting. Bye bye comfort zone! I&amp;rsquo;m going to start again, I will meet new developers, with different experiences and background than me. I will be part of a different team. And they will teach me a lot of new things, and I will try to show them something in return. Because, in the end, now I think this is what software development is all about.&lt;/p&gt;
-
-&lt;h1 id=&#34;acknowledges&#34;&gt;Acknowledges&lt;/h1&gt;
-
-&lt;p&gt;My first thoughts are for all the people that were with me from the beginning of this journey: Joaquin (&lt;a href=&#34;https://twitter.com/joaquin_caro&#34; target=&#34;_blank&#34;&gt;@joaquin_caro&lt;/a&gt;), Lau (&lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;@laurentiumarcut&lt;/a&gt;), Victor (&lt;a href=&#34;https://twitter.com/victorandevert&#34; target=&#34;_blank&#34;&gt;@victorandevert&lt;/a&gt;), Jordi (&lt;a href=&#34;https://twitter.com/jordifr&#34; target=&#34;_blank&#34;&gt;@jordifr&lt;/a&gt;) and Marc (&lt;a href=&#34;https://twitter.com/marcvege&#34; target=&#34;_blank&#34;&gt;@marcvege&lt;/a&gt;). They were the &amp;ldquo;original&amp;rdquo; members of my team. It&amp;rsquo;s been my most enjoyable professional experience so far.&lt;/p&gt;
-
-&lt;p&gt;I also would like to thank Sandro (&lt;a href=&#34;https://twitter.com/sandromancuso&#34; target=&#34;_blank&#34;&gt;@sandromancuso&lt;/a&gt;) and Mash (&lt;a href=&#34;https://twitter.com/mashooq&#34; target=&#34;_blank&#34;&gt;@mashooq&lt;/a&gt;). They helped us and guided us at the beginning. With their knowledge, support, advice, and friendship, everything would have been harder.&lt;/p&gt;
-
-&lt;p&gt;Finally, Alvaro (&lt;a href=&#34;https://twitter.com/alvarobiz&#34; target=&#34;_blank&#34;&gt;@alvarobiz&lt;/a&gt;) and Rachel (&lt;a href=&#34;https://twitter.com/bberrycarmen&#34; target=&#34;_blank&#34;&gt;@bberrycarmen&lt;/a&gt;), who followed what Sandro and Mash started. They spent some months with our team, mentoring us and raising up the bar. I hope we could be friends forever. You gave me so much!!&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;ttps://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34;&gt;wen8707270&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://magonye.github.io/categories/about-me/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>About Me</title>
@@ -62,35 +17,9 @@ I&amp;rsquo;ve been working almost for 6 years at the same employer. It&amp;rsqu
       <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>http://magonye.github.io/about/</guid>
-      <description>&lt;p&gt;&lt;span class=&#34;image left&#34;&gt;
-&lt;img src=&#34;http://magonye.github.io/img/main/magonye.png&#34; width=&#34;100px&#34;&gt;
-&lt;/span&gt;
-Mike Gonzalez &lt;br&gt;&lt;br&gt;
-Software Engineer since 2000: I&amp;rsquo;ve been a bored (also boring, I guess&amp;hellip;) Java developer for many many years. I made my job, without caring my methodology or skills. I wasn&amp;rsquo;t concerned about doing my job with professionalism neither enthusiasm.&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Father of two incredible kids: Adrià and Claudia.&lt;/p&gt;
-
-&lt;p&gt;Runner and free athlete: I think we should care also our body and health, as we care our mind and skills. The mix of these two worlds, makes us better humans.&lt;/p&gt;
-
-&lt;p&gt;Software Learner: I&amp;rsquo;ve just realized I was at the wrong path. I&amp;rsquo;ve just change my mindset. Now I found the right path: happiness, proudness, skillness, the will to learn and share, just being inconformist.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m going to learn a lot of things, and this blog will help me: I will share my new learnings, the articles or books I read, the courses I will take, the conferences I will assist&amp;hellip;.   I hope you will enjoy it, but also teach me.&lt;/p&gt;
-
-&lt;p&gt;You also can follow me here:&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;ul class=&#34;icons&#34;&gt;
-&lt;li&gt;&lt;a href=&#34;//github.com/magonye&#34; target=&#34;_blank&#34; title=&#34;GitHub&#34; class=&#34;fa fa-github&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;a href=&#34;//linkedin.com/in/miguel-angel-gonzalez-yepes-11898244&#34; target=&#34;_blank&#34; title=&#34;LinkedIn&#34; class=&#34;fa fa-linkedin&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;a href=&#34;//twitter.com/MikeGonYe&#34; target=&#34;_blank&#34; title=&#34;Twitter&#34; class=&#34;fa fa-twitter&#34;&gt;&lt;/a&gt;&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
+      <description>Father of two incredible kids: Adrià and Claudia.
+Runner and free athlete: I think we should care also our body and health, as we care our mind and skills. The mix of these two worlds, makes us better humans.
+Software Learner: I&amp;rsquo;ve just realized I was at the wrong path. I&amp;rsquo;ve just change my mindset. Now I found the right path: happiness, proudness, skillness, the will to learn and share, just being inconformist.</description>
     </item>
     
   </channel>

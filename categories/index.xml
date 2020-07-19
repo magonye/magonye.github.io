@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/</link>
+    <description>Recent content in Categories on Learnings and thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://magonye.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>monthly</title>
+      <link>http://magonye.github.io/categories/monthly/</link>
+      <pubDate>Tue, 03 Apr 2018 16:56:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/monthly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>http://magonye.github.io/categories/reading/</link>
+      <pubDate>Tue, 03 Apr 2018 16:56:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>http://magonye.github.io/categories/design/</link>
+      <pubDate>Wed, 21 Mar 2018 08:37:49 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>culture-of-learning</title>
+      <link>http://magonye.github.io/categories/culture-of-learning/</link>
+      <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/categories/culture-of-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>http://magonye.github.io/categories/docker/</link>
+      <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jenkins</title>
+      <link>http://magonye.github.io/categories/jenkins/</link>
+      <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/categories/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>team</title>
+      <link>http://magonye.github.io/categories/team/</link>
+      <pubDate>Mon, 23 Oct 2017 08:21:27 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/team/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferences-meetups</title>
+      <link>http://magonye.github.io/categories/conferences-meetups/</link>
+      <pubDate>Mon, 09 Oct 2017 08:21:33 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/conferences-meetups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java-9</title>
+      <link>http://magonye.github.io/categories/java-9/</link>
+      <pubDate>Wed, 27 Sep 2017 08:22:31 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/java-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips</title>
+      <link>http://magonye.github.io/categories/tips/</link>
+      <pubDate>Wed, 27 Sep 2017 08:22:31 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>http://magonye.github.io/categories/security/</link>
+      <pubDate>Thu, 17 Aug 2017 08:26:43 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>http://magonye.github.io/categories/git/</link>
+      <pubDate>Tue, 08 Aug 2017 08:30:46 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about-me</title>
+      <link>http://magonye.github.io/categories/about-me/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://magonye.github.io/categories/about-me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci/cd</title>
+      <link>http://magonye.github.io/categories/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://magonye.github.io/categories/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

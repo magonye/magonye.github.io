@@ -1,19 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://magonye.github.io/post/another-step/</loc>
-    <lastmod>2018-06-19T08:09:56+02:00</lastmod>
+    <loc>http://magonye.github.io/categories/</loc>
+    <lastmod>2018-04-03T16:56:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://magonye.github.io/post/april-2018/</loc>
-    <lastmod>2018-05-04T14:30:56+02:00</lastmod>
+    <loc>http://magonye.github.io/</loc>
+    <lastmod>2018-04-03T16:56:56+02:00</lastmod>
   </url>
   
   <url>
     <loc>http://magonye.github.io/post/march-2018/</loc>
     <lastmod>2018-04-03T16:56:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/monthly/</loc>
+    <lastmod>2018-04-03T16:56:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/post/</loc>
+    <lastmod>2018-04-03T16:56:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/reading/</loc>
+    <lastmod>2018-04-03T16:56:56+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/design/</loc>
+    <lastmod>2018-03-21T08:37:49+01:00</lastmod>
   </url>
   
   <url>
@@ -28,6 +49,21 @@
   
   <url>
     <loc>http://magonye.github.io/post/jenkins-kata/</loc>
+    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/culture-of-learning/</loc>
+    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/docker/</loc>
+    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/jenkins/</loc>
     <lastmod>2018-02-15T08:08:34+01:00</lastmod>
   </url>
   
@@ -57,8 +93,18 @@
   </url>
   
   <url>
-    <loc>http://magonye.github.io/post/CultureOfLearning-BookClub/</loc>
+    <loc>http://magonye.github.io/post/cultureoflearning-bookclub/</loc>
     <lastmod>2017-10-23T08:21:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/team/</loc>
+    <lastmod>2017-10-23T08:21:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/conferences-meetups/</loc>
+    <lastmod>2017-10-09T08:21:33+02:00</lastmod>
   </url>
   
   <url>
@@ -72,12 +118,22 @@
   </url>
   
   <url>
+    <loc>http://magonye.github.io/categories/java-9/</loc>
+    <lastmod>2017-09-27T08:22:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://magonye.github.io/post/java-9-repl/</loc>
     <lastmod>2017-09-27T08:22:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</loc>
+    <loc>http://magonye.github.io/categories/tips/</loc>
+    <lastmod>2017-09-27T08:22:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/post/cultureoflearning-lunchandlearn/</loc>
     <lastmod>2017-09-19T08:29:56+02:00</lastmod>
   </url>
   
@@ -94,6 +150,16 @@
   <url>
     <loc>http://magonye.github.io/post/password-manager/</loc>
     <lastmod>2017-08-17T08:26:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/security/</loc>
+    <lastmod>2017-08-17T08:26:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://magonye.github.io/categories/git/</loc>
+    <lastmod>2017-08-08T08:30:46+02:00</lastmod>
   </url>
   
   <url>
@@ -133,103 +199,19 @@
   
   <url>
     <loc>http://magonye.github.io/categories/about-me/</loc>
-    <lastmod>2018-06-19T08:09:56+02:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2017-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://magonye.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>http://magonye.github.io/cv/</loc>
   </url>
   
   <url>
     <loc>http://magonye.github.io/categories/ci/cd/</loc>
-    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://magonye.github.io/categories/conferences-meetups/</loc>
-    <lastmod>2017-10-09T08:21:33+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/culture-of-learning/</loc>
-    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/design/</loc>
-    <lastmod>2018-03-21T08:37:49+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/docker/</loc>
-    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/git/</loc>
-    <lastmod>2017-08-08T08:30:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/java-9/</loc>
-    <lastmod>2017-09-27T08:22:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/jenkins/</loc>
-    <lastmod>2018-02-15T08:08:34+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/</loc>
-    <lastmod>2018-06-19T08:09:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/monthly/</loc>
-    <lastmod>2018-05-04T14:30:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/post/</loc>
-    <lastmod>2018-06-19T08:09:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/reading/</loc>
-    <lastmod>2018-05-04T14:30:56+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/security/</loc>
-    <lastmod>2017-08-17T08:26:43+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/team/</loc>
-    <lastmod>2017-10-23T08:21:27+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://magonye.github.io/categories/tips/</loc>
-    <lastmod>2017-09-27T08:22:31+02:00</lastmod>
-    <priority>0</priority>
+    <loc>http://magonye.github.io/tags/</loc>
   </url>
   
 </urlset>

@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conferences-meetups on Learnings and thoughts</title>
-    <link>http://magonye.github.io/categories/conferences-meetups/index.xml</link>
-    <description>Recent content in Conferences-meetups on Learnings and thoughts</description>
+    <title>conferences-meetups on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/conferences-meetups/</link>
+    <description>Recent content in conferences-meetups on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://magonye.github.io/categories/conferences-meetups/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2017 08:21:33 +0200</lastBuildDate>
+    
+	<atom:link href="http://magonye.github.io/categories/conferences-meetups/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Software Craftsmanship Barcelona 2017</title>
@@ -14,128 +17,9 @@
       <pubDate>Mon, 09 Oct 2017 08:21:33 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/scbcn2017/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/scbcn2017-min.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!&lt;/p&gt;
-
-&lt;h2 id=&#34;software-craftsmanship&#34;&gt;Software Craftsmanship&lt;/h2&gt;
-
-&lt;p&gt;There are really a lot of definitions of what is Software Craftsmanship, on &lt;em&gt;Wikipedia&lt;/em&gt; there is a extensive &lt;a href=&#34;https://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;definition&lt;/a&gt;, but I would like to write what &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mash&lt;/a&gt; told me once:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Software Craftsmanship is all about learning and teaching&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you are interested on this movement, you could read the &lt;strong&gt;&lt;a href=&#34;http://manifesto.softwarecraftsmanship.org/&#34;&gt;manifesto&lt;/a&gt;&lt;/strong&gt;, and if you want to go deeper, maybe you should read the following books: &lt;a href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;&gt;The Pragmatic Programmer&lt;/a&gt; by &lt;a href=&#34;https://toolshed.com/&#34;&gt;Andy Hunt&lt;/a&gt; and &lt;a href=&#34;https://pragdave.me/contact&#34;&gt;Dave Thomas&lt;/a&gt;, &lt;a href=&#34;https://www.goodreads.com/book/show/1035377.Software_Craftsmanship&#34;&gt;Software Craftsmanship: The New Imperative&lt;/a&gt; by &lt;a href=&#34;http://www.mcbreen.ab.ca/&#34;&gt;Pete McBreen&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;software-craftsmanship-barcelona&#34;&gt;Software Craftsmanship Barcelona&lt;/h2&gt;
-
-&lt;p&gt;The Software Craftsmanship Barcelona group was founded on 16th december of 2013, and now they are almost 1.500 members. You can follow them on their &lt;em&gt;Meetup&lt;/em&gt; &lt;a href=&#34;https://www.meetup.com/es/Barcelona-Software-Craftsmanship/&#34;&gt;page&lt;/a&gt;, their &lt;em&gt;Twitter&lt;/em&gt; &lt;a href=&#34;https://twitter.com/bcnswcraft/&#34;&gt;account&lt;/a&gt; and the &lt;a href=&#34;http://scbcn.github.io/&#34;&gt;web page&lt;/a&gt; for the event.&lt;/p&gt;
-
-&lt;p&gt;They regularly organize coding katas, usually on monday, and they are really great. You can meet other developers, it&amp;rsquo;s a good opportunity to do pair programming, and they are a very open community.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-conference&#34;&gt;The conference&lt;/h2&gt;
-
-&lt;p&gt;SCBCN is a two day event, made by and for software developers who are very passionate about software. They had 4 tracks, and full of talks and some workshops. On saturday night, it was an optional dinner, and there was also an open space and a final retrospective on sunday afternoon.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-talks&#34;&gt;The talks&lt;/h2&gt;
-
-&lt;p&gt;As many conferences, there are so many talks, that you need to choose which ones you want to attend. If you are with some friend or colleague, the decision is easier, as you can fork in some of them.&lt;/p&gt;
-
-&lt;p&gt;These are the talks I chose (I&amp;rsquo;m giving more details about the three I liked most):&lt;/p&gt;
-
-&lt;h3 id=&#34;microservices-lifecycle-explained-through-docker-and-continuous-deployment&#34;&gt;Microservices LifeCycle Explained Through Docker And Continuous Deployment&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/viktor_farcic.jpg&#34; alt=&#34;Viktor Farcic&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Viktor Farcic&lt;/strong&gt; is Senior Consultant at &lt;a href=&#34;https://www.cloudbees.com/&#34;&gt;CloudBees&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/vfarcic&#34;&gt;@vfarcic&lt;/a&gt; and at &lt;a href=&#34;https://technologyconversations.com/&#34;&gt;technologyconversations.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The talk was about how to design a fully automated continuous deployment pipeline with Docker images in a Microservices application.&lt;/p&gt;
-
-&lt;p&gt;It was a very nice talk, Viktor really masters this topic, and as I saw him on the Barcelona Java Conference 2016, he has a very good sense of humor and he is interested in teaching and advocate the adoption of DevOps culture.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/dYQZKdQrNLs&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;property-based-testing&#34;&gt;Property Based Testing&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/pedro_santos.jpg&#34; alt=&#34;Pedro Santos&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pedro Moreira Santos&lt;/strong&gt; is Software Craftsman at &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/pedromsantos&#34;&gt;@pedromsantos&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/pedro-santos/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It was an introduction to Random Testing, or Property Based Testing. I didn&amp;rsquo;t know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/gqM6DTzhD0M&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;software-craftsmanship-8-years&#34;&gt;Software Craftsmanship - 8 years&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/sandro-mancuso.jpg&#34; alt=&#34;Sandro Mancuso&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sandro Mancuso&lt;/strong&gt; is Software Craftsman and founder at &lt;a href=&#34;http://codurance.com/&#34;&gt;Codurance&lt;/a&gt;, author of &lt;a href=&#34;http://www.amazon.co.uk/dp/0134052501&#34;&gt;&lt;em&gt;The Software Craftsman&lt;/em&gt;&lt;/a&gt;, and founder of the &lt;a href=&#34;http://londonswcraft.com/&#34;&gt;London Software Craftsmanship Community&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/sandromancuso&#34;&gt;@sandromancuso&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Excellent talk about Software Craftsmanship, since its beginnings on 2008, through what is Software Craftsmanship today, and finally what it should be in the future. Sandro was amazing, as always, very passionate and inspiring. It&amp;rsquo;s a pitty this talks wasn&amp;rsquo;t the opening keynote with all tha audience. This talk was scheduled with other talks at the same time.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/m_Kc0cO-078&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;tdd-mi-cuaderno-de-recetas-tdd-my-recipe-book&#34;&gt;TDD: Mi cuaderno de recetas (TDD: My recipe book)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Modesto San Juan&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/@msanjuan&#34;&gt;@msanjuan&lt;/a&gt; and &lt;a href=&#34;http://www.modestosanjuan.com/&#34;&gt;modestosanjuan.com&lt;/a&gt;.&lt;br&gt;
-The approach that Modesto uses when he does TDD.&lt;/p&gt;
-
-&lt;h3 id=&#34;simplicidad-para-desarrolladores-simplicity-for-developers&#34;&gt;Simplicidad para desarrolladores (Simplicity for developers)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Eduardo Ferro Aldama&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eferro&#34;&gt;@eferro&lt;/a&gt; and &lt;a href=&#34;http://www.eferro.net/&#34;&gt;eferro.net&lt;/a&gt;.&lt;br&gt;
-The rules of simple design, and why it&amp;rsquo;s so important. Keep it Simple!&lt;/p&gt;
-
-&lt;h3 id=&#34;css-craftsmanship&#34;&gt;CSS Craftsmanship&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Joan León&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nucliweb&#34;&gt;@nucliweb&lt;/a&gt; and &lt;a href=&#34;http://nucliweb.net/&#34;&gt;nucliweb.net&lt;/a&gt;.&lt;br&gt;
-Why is so important the development methodology on CSS. Lots of guides and advices.&lt;/p&gt;
-
-&lt;h3 id=&#34;tackling-transactions-in-microservices-applications&#34;&gt;Tackling transactions in Microservices applications&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Rubén Pérez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/bakwrau&#34;&gt;@bakwrau&lt;/a&gt;.&lt;br&gt;
-How SAGA pattern can help in managing transactions on a microservices system.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-economics-of-continuous-delivery&#34;&gt;The Economics of Continuous Delivery&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Adrian Perreau de Pinninck&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eidrien&#34;&gt;@eidrien&lt;/a&gt;.&lt;br&gt;
-Why should you invest in Continuous Delivery?&lt;/p&gt;
-
-&lt;h3 id=&#34;cómo-vender-un-proyecto-de-refactoring-how-to-sell-a-refactoring-project&#34;&gt;Cómo vender un proyecto de refactoring (How to sell a refactoring project)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Ana Carmona&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nhan_bcn&#34;&gt;@nhan_bcn&lt;/a&gt;.
-&lt;strong&gt;Manel Ibáñez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/codingmonky&#34;&gt;@codingmonky&lt;/a&gt;.&lt;br&gt;
-How, when and why could be necessary to do a refactoring project.&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-
-&lt;p&gt;I liked a lot the conference, it had very interesting speakers and talks, and 200 attendees. The organization was very kind, and they did a very good work.&lt;/p&gt;
-
-&lt;p&gt;Sadly I wasn&amp;rsquo;t able to attend to the open space and retrospective. I think that I probably lost the best part of the conference. I hope I won&amp;rsquo;t miss the opportunity next year. So, there are only a few things I would like to suggest for the next editions: non-weekend event and a main keynote talk (like Sandro&amp;rsquo;s one).&lt;/p&gt;
-
-&lt;p&gt;This has been my second developer conference this year (you can see &lt;a href=&#34;../jbcnconf2017/&#34;&gt;here&lt;/a&gt; my JBCNConf2017 post). There are several reasons to be an attendee on that kind of events, for me the main reasons are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To know what other developers are working on.&lt;/li&gt;
-&lt;li&gt;To stay tuned about new methodologies and practices.&lt;/li&gt;
-&lt;li&gt;To meet other professionals that feel passion about software.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It&amp;rsquo;s very important that you go outside your job, and meet other developers and know other points of view.&lt;/p&gt;
-
-&lt;p&gt;Finally I want to thank the organization, without their effort, a conference like this wouldn&amp;rsquo;t be possible. Keep going!!!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Did you assist to any conference? Do you think every developer should assist to them? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
-</description>
+      <description>On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!
+Software Craftsmanship There are really a lot of definitions of what is Software Craftsmanship, on Wikipedia there is a extensive definition, but I would like to write what Mash told me once:
+ Software Craftsmanship is all about learning and teaching</description>
     </item>
     
     <item>
@@ -144,184 +28,9 @@ Did you assist to any conference? Do you think every developer should assist to 
       <pubDate>Wed, 23 Aug 2017 12:55:48 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/jbcnconf2017/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/Optimized-jbcnconf2017.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On 19th, 20th and 21st of June, I assisted to JBCNConf2017 with two colleagues. For me was the second time, as I assisted to JBCNConf last year.&lt;/p&gt;
-
-&lt;p&gt;In this post, I will try to explain you a little &lt;em&gt;what&lt;/em&gt; is JBCNConf, &lt;em&gt;why&lt;/em&gt; it&amp;rsquo;s important to assist to conferences, and &lt;em&gt;how&lt;/em&gt; was my experience at this conference.&lt;/p&gt;
-
-&lt;p&gt;I know that I&amp;rsquo;m late, because I&amp;rsquo;m writing this on August and the conference was on June, but I didn&amp;rsquo;t want to miss the opportunity to write about JBCNConf, and payback something to the conference in return, as I learned a lot of things there.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-is-jbcnconf&#34;&gt;What is JBCNConf?&lt;/h1&gt;
-
-&lt;p&gt;This is an event organized by Barcelona JUG. This year was the third edition.&lt;/p&gt;
-
-&lt;p&gt;JUG stands for &lt;a href=&#34;https://en.wikipedia.org/wiki/Java_User_Group&#34;&gt;Java User Group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There are several talks about Java world and related technologies, as JVM languages (like Scala, Clojure, Groovy, etc&amp;hellip;), functional programming, micro-services, Docker, TDD, etc..&lt;/p&gt;
-
-&lt;p&gt;There are also some workshops, related to Java world too.&lt;/p&gt;
-
-&lt;p&gt;This year the conference was on a great venue: a multi theater building. The seats were amazing, full visibility, great screens, excellent audio, &amp;hellip; but if I had to say something negative, maybe the place for the breakfast and lunch was small, as there were a lot of people attending.&lt;/p&gt;
-
-&lt;p&gt;The workshops took place at a nearby hotel, so we were very comfortable with our laptops. At the workshops, there were problems with the wifi. I think the hotel was not ready to have so many people searching for some wifi.&lt;/p&gt;
-
-&lt;p&gt;The organization was great, they were assisting any kind of doubts and problems, and helping all the speakers. They did a really good work!&lt;/p&gt;
-
-&lt;h3 id=&#34;some-data&#34;&gt;Some data&lt;/h3&gt;
-
-&lt;p&gt;Here some data information about the numbers of the three editions (As you can see, the evolution is impressive.):&lt;/p&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;2015&lt;/th&gt;
-&lt;th&gt;2016&lt;/th&gt;
-&lt;th&gt;2017&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;2 days&lt;/td&gt;
-&lt;td&gt;3 days&lt;/td&gt;
-&lt;td&gt;3 days&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;3 tracks&lt;/td&gt;
-&lt;td&gt;4 tracks&lt;/td&gt;
-&lt;td&gt;4 tracks&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;41 talks &amp;amp; workshops&lt;/td&gt;
-&lt;td&gt;50 talks &amp;amp; workshops&lt;/td&gt;
-&lt;td&gt;58 talks &amp;amp; workshops&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;210 assistants&lt;/td&gt;
-&lt;td&gt;320 assistants&lt;/td&gt;
-&lt;td&gt;450 assistants&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h1 id=&#34;why-i-should-assist&#34;&gt;Why I should assist?&lt;/h1&gt;
-
-&lt;p&gt;There are several reasons why you should assist to the JBCNConf, here are the main ones (&lt;em&gt;IMHO&lt;/em&gt;):&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You can know what&amp;rsquo;s trending topic on Java world.&lt;/li&gt;
-&lt;li&gt;Known Java developers from all around the world talk about their knowledge, innovation and developments during this year.&lt;/li&gt;
-&lt;li&gt;It&amp;rsquo;s an opportunity to interact with others Java enthusiast.&lt;/li&gt;
-&lt;li&gt;The organization does a really great work: good speakers and talks, moderate price, great venue, very enthusiastic people.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;opening-keynote&#34;&gt;Opening Keynote&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/venkat-subramaniam.jpg&#34; alt=&#34;Dr. Venkat Subramaniam&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;The Opening Keynote was performed by &lt;strong&gt;Dr. Venkat Subramaniam&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=venkat&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/venkat_s&#34;&gt;@venkat_s&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Agile Developer founder, creator of &lt;a href=&#34;https://www.agilelearner.com/&#34;&gt;agilelearner.com&lt;/a&gt;, and professor at the University of Houston.
-Author of books, as &lt;a href=&#34;https://www.amazon.co.uk/dp/1937785467&#34;&gt;&lt;em&gt;Functional Programming in Java&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://www.amazon.co.uk/dp/8184041896&#34;&gt;&lt;em&gt;Practices of an Agile Developer&lt;/em&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.amazon.co.uk/dp/B01M1DHQJ7&#34;&gt;&lt;em&gt;Pragmatic Scala&lt;/em&gt;&lt;/a&gt;, among others.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-art-of-simplicity&#34;&gt;The Art of Simplicity&lt;/h3&gt;
-
-&lt;p&gt;This talk was very inspirational, about the art of making things simple: as developers we are very used to do things in a complex way, because simple things are not so funny&amp;hellip; but also not so easy!!!
-Can we distinguish simple things from complex ones? The search of the simplicity, as itself, is a challenge, and it requires a lot to practice, in order to be a master.&lt;/p&gt;
-
-&lt;p&gt;You can find the same talk &lt;a href=&#34;https://www.youtube.com/watch?v=I4wuMV8N6Iw&#34;&gt;here&lt;/a&gt;, for the DevDay Conference on 2015.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/Z-8ZGgGadHU&#34;&gt;Video&lt;/a&gt; from the JBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;closing-note&#34;&gt;Closing note&lt;/h1&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/sandro-mancuso.jpg&#34; alt=&#34;Sandro Mancuso&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;The Closing Note was performed by &lt;strong&gt;Sandro Mancuso&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=sandro&#34;&gt;here&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/sandromancuso&#34;&gt;@sandromancuso&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Software craftsman and founder at &lt;a href=&#34;http://codurance.com/&#34;&gt;Codurance&lt;/a&gt;, author of &lt;a href=&#34;http://www.amazon.co.uk/dp/0134052501&#34;&gt;&lt;em&gt;The Software Craftsman&lt;/em&gt;&lt;/a&gt;, and founder of the &lt;a href=&#34;http://londonswcraft.com/&#34;&gt;London Software Craftsmanship Community&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-long-road&#34;&gt;The Long Road&lt;/h3&gt;
-
-&lt;p&gt;A very inspirational talk about developers careers. Developers must take the ownership of their own careers, and see it as a whole. If we look our career as a ladder, every job change is a single step that make us go forward .
-Are we the owners of our career? Do we know where we want to go? If we look backwards, are we proud of what we have done?&lt;/p&gt;
-
-&lt;p&gt;You can find the same talk &lt;a href=&#34;https://vimeo.com/167722761&#34;&gt;here&lt;/a&gt;, for the NEWCRAFTS Conferences on 2016.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/Fya3Q3AJyVM&#34;&gt;Video&lt;/a&gt; from the JBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;other-talks-and-workshops&#34;&gt;Other talks and workshops&lt;/h1&gt;
-
-&lt;p&gt;I went to many talks and workshops. All of them were great, but I would to talk in detail about two of them, the ones that impressed me more.&lt;/p&gt;
-
-&lt;h3 id=&#34;clean-lambdas&#34;&gt;Clean Lambdas&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/victor-rentea.jpg&#34; alt=&#34;Victor Rentea&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;A talk by &lt;strong&gt;Victor Rentea&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=victor-rentea&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/victorrentea&#34;&gt;@victorrentea‏&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It was a kind of workshop, but he did it as a talk.&lt;/p&gt;
-
-&lt;p&gt;This talk was amazing to me. To be honest, I didn&amp;rsquo;t expect too much, as it was the first talk, and the topic wasn&amp;rsquo;t one of my favourites.&lt;/p&gt;
-
-&lt;p&gt;The talk was about java8 lambdas and streams, and how we can write them in a clean way. The usage of this java8 feature is growing, but not everybody knows how to use them well, so it&amp;rsquo;s easy to have bad code with them. The talk was funny, Victor was all the time writing code to us, showing us many refactors we can apply to lambdas.&lt;/p&gt;
-
-&lt;p&gt;Some weeks after, on my team, we practiced the same workshop of Clean Lambdas, I must admit my level of knowledge about streams and lambdas increased a lot since then.&lt;/p&gt;
-
-&lt;p&gt;You can find Victor Rentea&amp;rsquo;s Clean Lambdas repository &lt;a href=&#34;https://github.com/victorrentea/java8-voxxed&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=uH9A37k2QkU&#34;&gt;Here&lt;/a&gt; a video of the same workshop, he did before.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slideshare.net/VictorRentea/clean-lambdas-streams-in-java8&#34;&gt;Here&lt;/a&gt; the slides of the workshop.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/qcIiufH_u7c&#34;&gt;Video&lt;/a&gt; from the JBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;test-refactoring&#34;&gt;Test Refactoring&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/wlodek.jpg&#34; alt=&#34;Wlodek Krakowski&#34; style=&#34;margin-bottom:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;A workshop by &lt;strong&gt;Wlodek Krakowski&lt;/strong&gt; (more info &lt;a href=&#34;http://www.jbcnconf.com/2017/infoSpeaker.html?ref=wlodek&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Twitter: &lt;strong&gt;&lt;a href=&#34;https://twitter.com/wlodekkr&#34;&gt;@wlodekkr&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This workshop was about the importance to maintain your test in a good shape, and why you should do some refactoring also on your tests, not only on your production code. This may be something obvious when you hear of it, but not always you do refactoring on your test as your daily work.&lt;/p&gt;
-
-&lt;p&gt;Wlodek also talked about mastering your IDE, and knowing all the shortcuts and options your IDE gives you in order to do refactors with security and very quick.&lt;/p&gt;
-
-&lt;p&gt;I tried to follow the workshop, but Wlodek was so fast and I was so slow, that I finally gave up the workshop, and I decided to enjoy watching Wlodek working on a huge test refactoring. It was amazing the ability of Wlodek, and how he masters tdd and refactoring.&lt;/p&gt;
-
-&lt;p&gt;You can know more about Wlodek &lt;a href=&#34;http://refactoring.pl/en/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://www.youtube.com/playlist?list=PLo0fJV3LkR3whj3OOO6xV71FUerVAQDo8&#34;&gt;Here&lt;/a&gt; you can find the full list of videos from the JBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-I will repeat next year with no doubt!!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Did you assist to any conference? Do you think every developer should assist to them? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
-</description>
+      <description>On 19th, 20th and 21st of June, I assisted to JBCNConf2017 with two colleagues. For me was the second time, as I assisted to JBCNConf last year.
+In this post, I will try to explain you a little what is JBCNConf, why it&amp;rsquo;s important to assist to conferences, and how was my experience at this conference.
+I know that I&amp;rsquo;m late, because I&amp;rsquo;m writing this on August and the conference was on June, but I didn&amp;rsquo;t want to miss the opportunity to write about JBCNConf, and payback something to the conference in return, as I learned a lot of things there.</description>
     </item>
     
   </channel>

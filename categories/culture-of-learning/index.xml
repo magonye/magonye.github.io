@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Culture-of-learning on Learnings and thoughts</title>
-    <link>http://magonye.github.io/categories/culture-of-learning/index.xml</link>
-    <description>Recent content in Culture-of-learning on Learnings and thoughts</description>
+    <title>culture-of-learning on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/culture-of-learning/</link>
+    <description>Recent content in culture-of-learning on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://magonye.github.io/categories/culture-of-learning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2018 08:08:34 +0100</lastBuildDate>
+    
+	<atom:link href="http://magonye.github.io/categories/culture-of-learning/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>CI/CD Pipeline Kata</title>
@@ -14,229 +17,26 @@
       <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/jenkins-kata/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/pipeline.jpg&#34; /&gt;
-&lt;a style=&#34;margin:.50em; float: right; background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;&#34; href=&#34;https://pixabay.com/en/users/Tama66-1032521/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Tama66&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;&lt;/title&gt;&lt;path d=&#34;M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;Tama66&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Some time ago other team was managing the pipeline of my team&amp;rsquo;s applications, and they were also testing and deploying our applications.&lt;/p&gt;
-
-&lt;p&gt;This separation of responsibility between creating the software and making it run was leading us to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;No ownership of the deployment process&lt;/strong&gt;: feeling of non responsibility within the team.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Errors on environments&lt;/strong&gt;: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;No knowledge of AWS&lt;/strong&gt;: the team had no much knowledge of the cloud platform our applications were being running. This was no motivating and frustrating.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;No autonomy&lt;/strong&gt;: Some projects or tasks required the synchronization and help of other teams.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That&amp;rsquo;s why my team started the DevOps journey.&lt;/p&gt;
-
-&lt;p&gt;One of our firsts problems was our knowledge about some tools needed to create a pipeline.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;Lau Marcut&lt;/a&gt;, a terrific team colleague, made a push on this topic, and started learning everything he could about DevOps, and in a few time, he became a referent in this area. He prepared an exercise, very similar to the well-know coding katas, to train us to build a non complex pipeline.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;DISCLAIMER&lt;/strong&gt;: Jenkins is the tool we chose, but there are other good tools, such as CircleCI, Travis, &amp;hellip; It&amp;rsquo;s up to you to choose the most convenient tool for your purpose.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-kata&#34;&gt;The Kata&lt;/h1&gt;
-
-&lt;p&gt;The CI/CD Pipeline Kata was divided in two parts. You can find them in the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Marcut-Laurentiu/kata-jenkins&#34; target=&#34;_blank&#34;&gt;Jenkins Kata - part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Marcut-Laurentiu/kata-jenkins-part-2&#34; target=&#34;_blank&#34;&gt;Jenkins Kata - part 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;first-part&#34;&gt;First part&lt;/h3&gt;
-
-&lt;p&gt;The first part tries to get you familiar with &lt;a href=&#34;https://jenkins.io/&#34; target=&#34;_blank&#34;&gt;Jenkins&lt;/a&gt; and &lt;code&gt;Jenkinsfile&lt;/code&gt;, that is a file where all your pipeline script is stored, allowing you to use source control, code review and audit trail. In the exercise there is no Jenkins local installation, and everything is run from a &lt;a href=&#34;https://docs.docker.com/&#34; target=&#34;_blank&#34;&gt;Docker&lt;/a&gt; container.&lt;/p&gt;
-
-&lt;p&gt;Through this exercise, you will need to install some plugins in Jenkins, in order to build your application in a JAR file and upload it to an AWS S3 bucket, publish the jUnit results, and send a notifications to a Slack channel.&lt;/p&gt;
-
-&lt;p&gt;We ran this exercise in our Community of Practice, so we could share this experience with members of other teams. Here you can see the tweet of this event:
-&lt;center&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;: &lt;a href=&#34;https://twitter.com/hashtag/jenkins?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#jenkins&lt;/a&gt; pipeline kata by &lt;a href=&#34;https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw&#34;&gt;@laurentiumarcut&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/continuousdelivery?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#continuousdelivery&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/alwayslearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwayslearning&lt;/a&gt; &lt;a href=&#34;https://t.co/Rr9R6nSjjr&#34;&gt;pic.twitter.com/Rr9R6nSjjr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/920978985412104192?ref_src=twsrc%5Etfw&#34;&gt;October 19, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;/center&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;second-part&#34;&gt;Second part&lt;/h3&gt;
-
-&lt;p&gt;The second part is a more challenging exercise. Some knowledge about Jenkins and building a pipeline is required. The first part of the Jenkins kata is an excellent introduction to the second part, so I suggest you to do it first!!&lt;/p&gt;
-
-&lt;p&gt;We will learn how to use &lt;a href=&#34;https://jenkins.io/doc/book/pipeline/docker/&#34; target=&#34;_blank&#34;&gt;Docker with Pipeline&lt;/a&gt;, an incredible way to run dependencies, as Maven or AWS client, without installation needed. You just run it from a docker image, just this way:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker.image(&amp;quot;maven:3.5.0&amp;quot;).inside() {
-    sh &amp;quot;mvn -version&amp;quot;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;We will also learn how to use parallelism at stage level, with &lt;a href=&#34;https://jenkins.io/blog/2017/09/25/declarative-1/&#34; target=&#34;_blank&#34;&gt;Parallel stages&lt;/a&gt;, how to use an input to implement a manual confirmation before run some steps with &lt;a href=&#34;https://jenkins.io/doc/pipeline/steps/pipeline-input-step/&#34; target=&#34;_blank&#34;&gt;Pipeline: Input Step&lt;/a&gt; and other great features to enrich your pipeline, such as &lt;a href=&#34;https://jenkins.io/projects/blueocean/&#34; target=&#34;_blank&#34;&gt;BlueOcean&lt;/a&gt;, &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Lockable Resource plugin&lt;/a&gt;, &lt;a href=&#34;https://wiki.jenkins.io/display/JENKINS/Pipeline+Milestone+Step+Plugin&#34; target=&#34;_blank&#34;&gt;Pipeline Milestone Step plugin&lt;/a&gt;, &lt;a href=&#34;https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/#code-timeout-code-enforce-time-limit&#34; target=&#34;_blank&#34;&gt;Timeout step&lt;/a&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Here you can see the tweet of this event:&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/jenkis?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#jenkis&lt;/a&gt; kata part 2 by &lt;a href=&#34;https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw&#34;&gt;@laurentiumarcut&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/alwayslearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwayslearning&lt;/a&gt; &lt;a href=&#34;https://t.co/fgbGqOrF35&#34;&gt;pic.twitter.com/fgbGqOrF35&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/933681376959827968?ref_src=twsrc%5Etfw&#34;&gt;November 23, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-learning&#34;&gt;The Learning&lt;/h1&gt;
-
-&lt;p&gt;The best way to learn how to use some tool or technique is by using. That&amp;rsquo;s why coding katas became so popular. The repetition of some exercises, repeating the process again and again, in a safe environment, helps to acquire the expertice, by experiencing rather than reading.&lt;/p&gt;
-
-&lt;p&gt;We tend to think some tool or tech is difficult, but in fact, it should be simple but not familiar for us. The usage and try by our own, can turn this unfamiliarity to more comfortable knowledge. That&amp;rsquo;s one of the more important learning we got on the DevOps journey, and on this kata in particular.&lt;/p&gt;
-
-&lt;p&gt;Running a workshop is also a good experience for the facilitator:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You get feedback from colleagues, and it helps you to improve your skills.&lt;/li&gt;
-&lt;li&gt;You go one step forward in the topic, as need to have all concepts deeply learned to explain them clearly to a less experienced people.&lt;/li&gt;
-&lt;li&gt;You can interact with people that usually you don&amp;rsquo;t work with. It can improve your relationship with other team&amp;rsquo;s members.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Finally, I would like to thanks again to &lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;Lau Marcut&lt;/a&gt; for helping the team to achieve knowledge about Continuous Delivery so quickly, and also for being so amazing and stunning team mate.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-What do you think about the Jenkins kata? Are you building your own pipeline?
-Any feedback will be very appreciated.&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;https://pixabay.com/en/users/Tama66-1032521/&#34; target=&#34;_blank&#34;&gt;Tama66&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>slslslsl</description>
     </item>
     
     <item>
       <title>Culture Of Learning: Book Club</title>
-      <link>http://magonye.github.io/post/CultureOfLearning-BookClub/</link>
+      <link>http://magonye.github.io/post/cultureoflearning-bookclub/</link>
       <pubDate>Mon, 23 Oct 2017 08:21:27 +0200</pubDate>
       
-      <guid>http://magonye.github.io/post/CultureOfLearning-BookClub/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/colbookclub.jpg&#34; alt=&#34;COL: BookClub&#34; title=&#34;COL: Book Club&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Reading books is one of the activities everyone who is interested in software should do. It&amp;rsquo;s a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it&amp;rsquo;s difficult to get time to read it, you  aren&amp;rsquo;t motivated enough, or even if you are reading the book, the book is hard to understand.&lt;/p&gt;
-
-&lt;p&gt;By reading a book in a Book Club, you will discover a new way of learning from a book. Let’s see how we’re organizing our book club.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Definition of Book Club&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;Book Club&lt;/strong&gt; is a group of people that is reading the same book at the same time. There are regular meetings, and a list of chapters to read for the next scheduled meeting. You can read more about book clubs &lt;a href=&#34;https://en.wikipedia.org/wiki/Book_discussion_club&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
-
-&lt;p&gt;I tried with no success to read several tech books in the past. Most of them where very famous, as &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt; by &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34;&gt;Robert C. Martin&lt;/a&gt;, or &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/kentbeck&#34;&gt;Kent Beck&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I never finished &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt;, although I tried three times. I didn&amp;rsquo;t find the motivation to read it, although I think it&amp;rsquo;s a brilliant book.&lt;/p&gt;
-
-&lt;p&gt;I didn&amp;rsquo;t finish &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt;. I thought I wasn&amp;rsquo;t really getting everything from the book. I was missing something.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d heard about book clubs, a different way to read a book. I talked with some fellows, and starting this activity was easy: we picked a book everyone wanted to read (the first one was &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
-
-&lt;p&gt;We choose a book to read, and find people interested on read this book. We start with the first 2 or 3 chapters, depending the length of them, and we schedule a meeting to review the chapters. The meeting is regular, every two weeks usually. On the meeting, everybody talks about the chapters. There is no agenda for the meeting, just trying to share our thoughts and doubts about the book. At the end of the meeting, we choose the next chapters, and we schedule the next meeting.&lt;/p&gt;
-
-&lt;p&gt;Now, I&amp;rsquo;m happily reading two books at the same time within a book club: &lt;a href=&#34;https://www.goodreads.com/book/show/560861.Non_Violent_Communication&#34;&gt;Non Violent Communication&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Marshall_Rosenberg&#34;&gt;Marshall B. Rosenberg&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month: Essays on Software Engineering&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Fred_Brooks&#34;&gt;Frederick P. Brooks Jr&lt;/a&gt;. And we have a huge list of &amp;ldquo;want-to-read&amp;rdquo; books.&lt;/p&gt;
-
-&lt;p&gt;I have to admit that we didn&amp;rsquo;t start any &amp;ldquo;really&amp;rdquo; technical book. I&amp;rsquo;m not sure this kind of books will work with a book club as we are doing. Besides the book club, we are reading &lt;a href=&#34;https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests&#34;&gt;Growing Object-Oriented Software, Guided by Tests&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/sf105&#34;&gt;Steve Freeman&lt;/a&gt; and &lt;a href=&#34;http://www.natpryce.com/&#34;&gt;Nat Pryce&lt;/a&gt;. But we&amp;rsquo;re reading separate chapters, and guided by &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, a Software Craftsperson embedded in our team. This kind of books, that every single page is really full of concepts, need a different &amp;ldquo;tempo&amp;rdquo;, and you need to digest and understand what is inside every page.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
-
-&lt;p&gt;The Book Club is growing my list of read software books. I&amp;rsquo;ve read some books within the club, that I wouldn&amp;rsquo;t have read by myself. And that&amp;rsquo;s this way because the Book Club has amazing things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It gives you the motivation of reading a book.&lt;/li&gt;
-&lt;li&gt;It allows you to ask questions about the book to other readers.&lt;/li&gt;
-&lt;li&gt;It gives you different points of view about the same topic.&lt;/li&gt;
-&lt;li&gt;It makes you feel part of a community, with a same purpose.&lt;/li&gt;
-&lt;li&gt;It gives you a pace to read a book, neither slower nor faster.&lt;/li&gt;
-&lt;li&gt;Someone can bring you light on a part of the book that maybe you read too fast or you didn&amp;rsquo;t understand so deep.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are more reasons, but the above written, for me are good enough to start a Book Club at your company, or with a group of people you know.&lt;/p&gt;
-
-&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
-
-&lt;p&gt;I would like to thank &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt; for the tremendous motivation they gave us at the beginning of this year.&lt;/p&gt;
-
-&lt;p&gt;Also I want to thank my first partners at our book club, without you, this wouldn&amp;rsquo;t have been possible: Jordi Farré, Joaquín Caro, Marc Villagrasa, Erik Torres, Alvaro García and Joan Carles Pallás. Thank you, I love you all!&lt;/p&gt;
-
-&lt;p&gt;Finally I want to thank &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt; for her patience, guidance, mentoring, revision and correction of my posts.
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m writing a series of posts about &lt;a href=&#34;../../categories/culture-of-learning/&#34;&gt;&lt;strong&gt;Culture of Learning&lt;/strong&gt;&lt;/a&gt;. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
+      <guid>http://magonye.github.io/post/cultureoflearning-bookclub/</guid>
+      <description>Reading books is one of the activities everyone who is interested in software should do. It&amp;rsquo;s a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it&amp;rsquo;s difficult to get time to read it, you aren&amp;rsquo;t motivated enough, or even if you are reading the book, the book is hard to understand.
+By reading a book in a Book Club, you will discover a new way of learning from a book.</description>
     </item>
     
     <item>
       <title>Culture Of Learning: Lunch and Learn</title>
-      <link>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</link>
+      <link>http://magonye.github.io/post/cultureoflearning-lunchandlearn/</link>
       <pubDate>Tue, 19 Sep 2017 08:29:56 +0200</pubDate>
       
-      <guid>http://magonye.github.io/post/CultureOfLearning-LunchAndLearn/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/collunchandlearn.png&#34; alt=&#34;COL: Lunch and Learn&#34; title=&#34;COL: Lunch and Learn&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I&amp;rsquo;ll call &lt;strong&gt;Culture of Learning&lt;/strong&gt;, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.&lt;/p&gt;
-
-&lt;p&gt;So, the first post of this series is about our Lunch and Learn sessions.&lt;/p&gt;
-
-&lt;h1 id=&#34;lunch-and-learn&#34;&gt;Lunch and Learn&lt;/h1&gt;
-
-&lt;p&gt;This is one of the first activities the team started a few months ago. Lunch and Learn (L&amp;amp;L from now) is basically a meal time that we spend together, in a room, and learning some technical stuff, not related to our current tasks.&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
-
-&lt;p&gt;At the beginning  of this year, we had the amazing opportunity of working with &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt;, founders of &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. We spent intensive weeks, reviewing all our applications together, and redesigning how they should be. We got a very close relationship, and we also had to spend lunch time together talking about several things. One of these things was how we could be a better team. They talked us about some kind of
-Tech Lunch they did in the past. They told us that if we wanted to learn something, a good idea is to spend the meal time learning it.&lt;/p&gt;
-
-&lt;p&gt;This activity was very easy to start. If you have an available room and some people with anger to learn, that&amp;rsquo;s all! So, on 19th of April we had the first session of our L&amp;amp;L: it was a kata about Docker. Since then, we have enjoyed 16 sessions, and they have been about several topics, such as &lt;em&gt;Json Web Tokens&lt;/em&gt;, &lt;em&gt;Cucumber&lt;/em&gt;, &lt;em&gt;Clean Architecture&lt;/em&gt;, &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;Tech Debt&lt;/em&gt;, &lt;em&gt;OWASP guide&lt;/em&gt;, &lt;em&gt;Java 8 Streams and Lambdas&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
-
-&lt;p&gt;As I said before, basically you only need a room, and people that want to learn something together. You choose a topic or topics to talk about: a video about some interesting topic, a kata, topics to discuss, a workshop, or any relevant tech.&lt;/p&gt;
-
-&lt;p&gt;It doesn&amp;rsquo;t require a big effort to prepare a L&amp;amp;L session, even we had a session with no topic, and we just talked about several subjects, as an open space.&lt;/p&gt;
-
-&lt;p&gt;The activity lasts 2 hours, one is our meal time, and another hour from our work time. We give one personal hour and the company gives the other hour, it&amp;rsquo;s a 50-50 balance.&lt;/p&gt;
-
-&lt;p&gt;We do this activity weekly, every Wednesday, from 13:00 to 15:00. Each session can be facilitated by one or more people, and we try to fix the agenda for the next session one week before.&lt;/p&gt;
-
-&lt;p&gt;We have a page on our Confluence team space, where we track all sessions, speakers, and topics. Some topics can be covered in a single session. Other topics can end with a challenge. It&amp;rsquo;s an exercise for everybody or an exercise for each member. They are totally volunteer, no one in the team is forced neither to assist to a meeting nor to resolve a challenge.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
-
-&lt;p&gt;L&amp;amp;L for us is a safe place where we can:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Learn things&lt;/strong&gt;: It&amp;rsquo;s a good place to start some technology. If someone in the team has curiosity for any topic, no matter which, he can manage a session there. He can be an expert or not, he can be a teacher or a student as the others: the important thing is to learn something together.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Expose your doubts&lt;/strong&gt;: You can talk with your colleagues with humbleness, nobody is judging, there is no managers, only buddies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Train our communicative skills&lt;/strong&gt;: Not everybody is open and talkative, and some programmers are introverts. At the L&amp;amp;L anyone can manage a session, alone or with someone. Every member has facilitated at least one session, and our communicative skills are improving.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Share knowledge&lt;/strong&gt;: If someone learns something, no matter how big or important it is, it could be shared as a session. We have learned and shared a lot of different tech stuff, and it could be very difficult to learn so many things by our own. Sharing is key, in order to be more broad at our learning topics, as different members are interested on different topics.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
-
-&lt;p&gt;I want to thank Mash and Sandro for the inspiration. Without their advice and wise words, this change wouldn&amp;rsquo;t have been possible.&lt;/p&gt;
-
-&lt;p&gt;I also want to thank &lt;a href=&#34;https://codurance.com/publications/author/alvaro-garcia/&#34;&gt;Alvaro García&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, both craftspeople at &lt;a href=&#34;https://codurance.com&#34;&gt;Codurance&lt;/a&gt;, and embedded at our team when L&amp;amp;L was started. They helped us a lot, facilitating our first sessions, and proposing topics for next sessions.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I will talk more about &lt;strong&gt;Culture of Learning&lt;/strong&gt; in following posts. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
+      <guid>http://magonye.github.io/post/cultureoflearning-lunchandlearn/</guid>
+      <description>During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I&amp;rsquo;ll call Culture of Learning, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.</description>
     </item>
     
   </channel>

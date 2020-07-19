@@ -2,6 +2,32 @@
 
 <html>
     <head>
+        <script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "BlogPosting",
+        "mainEntityOfPage": {
+             "@type": "WebPage",
+             "@id": "http:\/\/magonye.github.io\/"
+        },
+        "articleSection" : "post",
+        "name" : "CI\/CD Pipeline Kata",
+        "headline" : "CI\/CD Pipeline Kata",
+        "description" : "Training how to build a pipeline for continuous delivery",
+        "inLanguage" : "en",
+        "author" : "",
+        "creator" : "",
+        "publisher": "",
+        "accountablePerson" : "",
+        "copyrightHolder" : "",
+        "copyrightYear" : "2018",
+        "datePublished": "2018-02-15 08:08:34 \u002b0100 \u002b0100",
+        "dateModified" : "2018-02-15 08:08:34 \u002b0100 \u002b0100",
+        "url" : "http:\/\/magonye.github.io\/post\/jenkins-kata\/",
+        "wordCount" : "742",
+        "keywords" : [ "Blog" ]
+    }
+    </script>
         
             
                 <title>CI/CD Pipeline Kata</title>
@@ -10,21 +36,22 @@
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="generator" content="Hugo 0.19" />
+        <meta name="generator" content="Hugo 0.74.2" />
         
+  
     
-        
-    
+  
 
-    
+  
 
-    <link rel="apple-touch-icon-precomposed"
-        href='/favicon/apple-touch-icon-precomposed.png'>
-    <link rel="icon" href='/favicon/favicon.png'>
-    
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage"
-        content='/favicon/mstile.png'>
+  <link rel="apple-touch-icon-precomposed" href='/favicon/apple-touch-icon-precomposed.png'>
+  <link rel="icon" href='/favicon/favicon.png'>
+  
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content='/favicon/mstile.png'>
+  <meta name="application-name" content="Learnings and thoughts">
+  <meta name="msapplication-tooltip" content="Learning how to code good applications. How to be a better software developer. Sharing my thoughts and doubts">
+  <meta name="msapplication-config" content='/favicon/ieconfig.xml'>
 
 
 
@@ -33,15 +60,9 @@
             <meta name="description" content="Training how to build a pipeline for continuous delivery">
         
 
-        
+        <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://magonye.github.io/img/pipeline.jpg"/>
 
-
-  <meta name="twitter:card" content="summary_large_image"/>
-  <meta name="twitter:image:src" content="https://magonye.github.io/img/pipeline.jpg"/>
-
-
-
-<meta name="twitter:text:title" content="CI/CD Pipeline Kata"/>
 <meta name="twitter:title" content="CI/CD Pipeline Kata"/>
 <meta name="twitter:description" content="Training how to build a pipeline for continuous delivery"/>
 <meta name="twitter:site" content="@MikeGonYe"/>
@@ -50,84 +71,71 @@
 <meta property="og:description" content="Training how to build a pipeline for continuous delivery" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="http://magonye.github.io/post/jenkins-kata/" />
+<meta property="og:image" content="https://magonye.github.io/img/pipeline.jpg" />
+<meta property="article:published_time" content="2018-02-15T08:08:34+01:00" />
+<meta property="article:modified_time" content="2018-02-15T08:08:34+01:00" />
 
-  <meta property="og:image" content="https://magonye.github.io/img/pipeline.jpg" />
-
-
-
-<meta property="article:published_time" content="2018-02-15T08:08:34&#43;01:00"/>
-<meta property="article:modified_time" content="2018-02-15T08:08:34&#43;01:00"/>
-
-
-
-
-
-
-
-
-
-
-
-        
-<meta itemprop="name" content="CI/CD Pipeline Kata">
+        <meta property="og:image" content="http://magonye.github.io//images/logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="512">
+        <meta property="og:image:height" content="512">
+        <meta itemprop="name" content="CI/CD Pipeline Kata">
 <meta itemprop="description" content="Training how to build a pipeline for continuous delivery">
-
-
+<meta itemprop="datePublished" content="2018-02-15T08:08:34&#43;01:00" />
 <meta itemprop="dateModified" content="2018-02-15T08:08:34&#43;01:00" />
-<meta itemprop="wordCount" content="792">
-
-  <meta itemprop="image" content="https://magonye.github.io/img/pipeline.jpg">
-
+<meta itemprop="wordCount" content="742">
+<meta itemprop="image" content="https://magonye.github.io/img/pipeline.jpg">
 
 
-<meta itemprop="keywords" content="about-me,ci/cd,conferences-meetups,culture-of-learning,design,docker,git,java-9,jenkins,monthly,reading,security,team,tips," />
 
+<meta itemprop="keywords" content="" />
         
 
-        
-
-        
         
             
         
 
         
         
-            <link rel="stylesheet" href="/css/google-font.css" />
-            <link rel="stylesheet" href="/css/font-awesome.min.css" />
-            <link rel="stylesheet" href="/css/main.css" />
-            <link rel="stylesheet" href="/css/add-on.css" />
-            <link rel="stylesheet" href="/css/monokai-sublime.css">
-        
 
-        
-
-        
-        
         
             
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                
+                    <link rel="stylesheet" href="/css/main.min.css">
+                
+            
+        
 
-ga('create', 'UA-96529972-1', 'auto');
-ga('send', 'pageview');
+
+  
+    
+
+
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-96529972-1', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
-        
     </head>
     <body>
 
-        
-        <div id="wrapper">
+      
+      <div id="wrapper">
 
     
     
 <header id="header">
     
-        <h2><a href="/">Learnings and thoughts</i></a></h2>
+      <h1><a href="/">Learnings and thoughts</a></h1>
     
 
     <nav class="links">
@@ -135,20 +143,19 @@ ga('send', 'pageview');
             
                 <li>
                     <a href="/post/">
-                        
                             <i class="fa fa-newspaper-o">&nbsp;</i>Blog
                     </a>
                 </li>
             
                 <li>
                     <a href="/categories">
-                        Categories
+                            <i class="">&nbsp;</i>Categories
                     </a>
                 </li>
             
                 <li>
                     <a href="/about">
-                        About
+                            <i class="">&nbsp;</i>About
                     </a>
                 </li>
             
@@ -165,7 +172,7 @@ ga('send', 'pageview');
                 <a class="fa-search" href="#search">Search</a>
                 <form id="search" method="get" action="//google.com/search">
                     <input type="text" name="q" placeholder="Search" />
-                    <input type="hidden" name="q" value="site:http://magonye.github.io/">
+                    <input type="hidden" name="as_sitesearch" value="http://magonye.github.io/">
                 </form>
             </li>
             <li class="menu">
@@ -182,7 +189,7 @@ ga('send', 'pageview');
         <section>
             <form class="search" method="get" action="//google.com/search">
                 <input type="text" name="q" placeholder="Search" />
-                <input type="hidden" name="q" value="site:http://magonye.github.io/">
+                <input type="hidden" name="as_sitesearch" value="http://magonye.github.io/">
             </form>
         </section>
 
@@ -193,10 +200,7 @@ ga('send', 'pageview');
                     <li>
                         <a href="/post/">
                             <h3>
-                                
-                                    <i class="fa fa-newspaper-o">&nbsp;</i>
-                                
-                                Blog
+                                <i class="fa fa-newspaper-o">&nbsp;</i>Blog
                             </h3>
                         </a>
                     </li>
@@ -204,8 +208,7 @@ ga('send', 'pageview');
                     <li>
                         <a href="/categories">
                             <h3>
-                                
-                                Categories
+                                <i class="">&nbsp;</i>Categories
                             </h3>
                         </a>
                     </li>
@@ -213,8 +216,7 @@ ga('send', 'pageview');
                     <li>
                         <a href="/about">
                             <h3>
-                                
-                                About
+                                <i class="">&nbsp;</i>About
                             </h3>
                         </a>
                     </li>
@@ -223,25 +225,51 @@ ga('send', 'pageview');
         </section>
 
     
-        <section>
-            <ul class="links">
+        <section class="recent-posts">
+            <div class="mini-posts">
                 <header>
                     <h3>Recent Posts</h3>
                 </header>
+                
+
                 
                     
                 
 
                 
-                    <li>
-                        <a href="http://magonye.github.io/post/another-step/"><p>Another step</p></a>
-                    </li>
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/post/march-2018/">march 2018</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-04-03'>
+                                    April 3, 2018</time>
+                            </header>
+                            
+
+                        </article>
                 
-                    <li>
-                        <a href="http://magonye.github.io/post/april-2018/"><p>april 2018</p></a>
-                    </li>
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/post/">Posts</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-04-03'>
+                                    April 3, 2018</time>
+                            </header>
+                            
+
+                        </article>
                 
-            </ul>
+
+                
+                    <a href=
+                        
+                            /post/
+                        
+                        class="button">View more posts</a>
+                
+            </div>
         </section>
 
     
@@ -257,46 +285,85 @@ ga('send', 'pageview');
             
 
 
-<li><a href="//twitter.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&text=CI%2fCD%20Pipeline%20Kata&via=MikeGonYe" target="_blank" class="share-btn twitter">
+
+<li>
+  <a href="//twitter.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&amp;text=CI%2fCD%20Pipeline%20Kata&amp;via=MikeGonYe" target="_blank" class="share-btn twitter">
     <i class="fa fa-twitter"></i>
     <p>Twitter</p>
-</a></li>
+    </a>
+</li>
 
 
-<li><a href="//plus.google.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn google-plus">
+
+
+<li>
+  <a href="//plus.google.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn google-plus">
     <i class="fa fa-google-plus"></i>
     <p>Google+</p>
-</a></li>
+  </a>
+</li>
 
 
-<li><a href="//www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn facebook">
+
+
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn facebook">
     <i class="fa fa-facebook"></i>
     <p>Facebook</p>
-</a></li>
+    </a>
+</li>
 
 
-<li><a href="//reddit.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn reddit">
+
+
+<li>
+  <a href="//reddit.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&amp;title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn reddit">
     <i class="fa fa-reddit-alien"></i>
     <p>Reddit</p>
-</a></li>
+  </a>
+</li>
 
 
-<li><a href="//www.linkedin.com/shareArticle?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn linkedin">
-    <i class="fa fa-linkedin"></i>
-    <p>LinkedIn</p>
-</a></li>
 
 
-<li><a href="//www.stumbleupon.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn stumbleupon">
+<li>
+  <a href="//www.linkedin.com/shareArticle?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&amp;title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin"></i>
+      <p>LinkedIn</p>
+    </a>
+</li>
+
+
+
+
+<li>
+  <a href="//www.stumbleupon.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&amp;title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn stumbleupon">
     <i class="fa fa-stumbleupon"></i>
     <p>StumbleUpon</p>
-</a></li>
+  </a>
+</li>
 
 
-<li><a href="mailto:?subject=Check out this post by &body=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn email">
+
+
+<li>
+  <a href="//www.pinterest.com/pin/create/button/?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&amp;description=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn pinterest">
+    <i class="fa fa-pinterest-p"></i>
+    <p>Pinterest</p>
+  </a>
+</li>
+
+
+
+
+<li>
+  <a href="mailto:?subject=Check out this post by &amp;body=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn email">
     <i class="fa fa-envelope"></i>
     <p>Email</p>
-</a></li>
+  </a>
+</li>
+
 
         </ul>
     </section>
@@ -307,10 +374,10 @@ ga('send', 'pageview');
         
         
         <article class="post">
-    <header>
+  <header>
     <div class="title">
         
-            <h1><a href="http://magonye.github.io/post/jenkins-kata/">CI/CD Pipeline Kata</a></h1>
+            <h1><a href="/post/jenkins-kata/">CI/CD Pipeline Kata</a></h1>
             
         
         
@@ -318,8 +385,6 @@ ga('send', 'pageview');
         
     </div>
     <div class="meta">
-        
-            
         
 
         <time class="published"
@@ -334,526 +399,346 @@ ga('send', 'pageview');
 </header>
 
 
-    <section id="social-share">
-        <ul class="icons">
-            
+  
 
+  
 
-<li><a href="//twitter.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&text=CI%2fCD%20Pipeline%20Kata&via=MikeGonYe" target="_blank" class="share-btn twitter">
-    <i class="fa fa-twitter"></i>
-    <p>Twitter</p>
-</a></li>
-
-
-<li><a href="//plus.google.com/share?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn google-plus">
-    <i class="fa fa-google-plus"></i>
-    <p>Google+</p>
-</a></li>
-
-
-<li><a href="//www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn facebook">
-    <i class="fa fa-facebook"></i>
-    <p>Facebook</p>
-</a></li>
-
-
-<li><a href="//reddit.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn reddit">
-    <i class="fa fa-reddit-alien"></i>
-    <p>Reddit</p>
-</a></li>
-
-
-<li><a href="//www.linkedin.com/shareArticle?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn linkedin">
-    <i class="fa fa-linkedin"></i>
-    <p>LinkedIn</p>
-</a></li>
-
-
-<li><a href="//www.stumbleupon.com/submit?url=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f&title=CI%2fCD%20Pipeline%20Kata" target="_blank" class="share-btn stumbleupon">
-    <i class="fa fa-stumbleupon"></i>
-    <p>StumbleUpon</p>
-</a></li>
-
-
-<li><a href="mailto:?subject=Check out this post by &body=http%3a%2f%2fmagonye.github.io%2fpost%2fjenkins-kata%2f" target="_blank" class="share-btn email">
-    <i class="fa fa-envelope"></i>
-    <p>Email</p>
-</a></li>
-
-        </ul>
-    </section>
-    
-
-    <div id="content">
-        
-
-<p><img src="https://magonye.github.io/img/pipeline.jpg" />
-<a style="margin:.50em; float: right; background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;" href="https://pixabay.com/en/users/Tama66-1032521/" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Tama66"><span style="display:inline-block;padding:2px 3px;"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;" viewBox="0 0 32 32"><title></title><path d="M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z"></path></svg></span><span style="display:inline-block;padding:2px 3px;">Tama66</span></a>
-<br><br><br></p>
-
+  <div id="content">
+    <p><!-- raw HTML omitted -->
+<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted -->Tama66<!-- raw HTML omitted --><!-- raw HTML omitted -->
+<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <p>Some time ago other team was managing the pipeline of my team&rsquo;s applications, and they were also testing and deploying our applications.</p>
-
 <p>This separation of responsibility between creating the software and making it run was leading us to:</p>
-
 <ul>
 <li><strong>No ownership of the deployment process</strong>: feeling of non responsibility within the team.</li>
 <li><strong>Errors on environments</strong>: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.</li>
 <li><strong>No knowledge of AWS</strong>: the team had no much knowledge of the cloud platform our applications were being running. This was no motivating and frustrating.</li>
 <li><strong>No autonomy</strong>: Some projects or tasks required the synchronization and help of other teams.</li>
 </ul>
-
 <p>That&rsquo;s why my team started the DevOps journey.</p>
-
 <p>One of our firsts problems was our knowledge about some tools needed to create a pipeline.</p>
-
-<p><a href="https://twitter.com/laurentiumarcut" target="_blank">Lau Marcut</a>, a terrific team colleague, made a push on this topic, and started learning everything he could about DevOps, and in a few time, he became a referent in this area. He prepared an exercise, very similar to the well-know coding katas, to train us to build a non complex pipeline.</p>
-
+<p><!-- raw HTML omitted -->Lau Marcut<!-- raw HTML omitted -->, a terrific team colleague, made a push on this topic, and started learning everything he could about DevOps, and in a few time, he became a referent in this area. He prepared an exercise, very similar to the well-know coding katas, to train us to build a non complex pipeline.</p>
 <p><em><strong>DISCLAIMER</strong>: Jenkins is the tool we chose, but there are other good tools, such as CircleCI, Travis, &hellip; It&rsquo;s up to you to choose the most convenient tool for your purpose.</em></p>
-
 <h1 id="the-kata">The Kata</h1>
-
 <p>The CI/CD Pipeline Kata was divided in two parts. You can find them in the following links:</p>
-
 <ul>
-<li><a href="https://github.com/Marcut-Laurentiu/kata-jenkins" target="_blank">Jenkins Kata - part 1</a></li>
-<li><a href="https://github.com/Marcut-Laurentiu/kata-jenkins-part-2" target="_blank">Jenkins Kata - part 2</a></li>
+<li><!-- raw HTML omitted -->Jenkins Kata - part 1<!-- raw HTML omitted --></li>
+<li><!-- raw HTML omitted -->Jenkins Kata - part 2<!-- raw HTML omitted --></li>
 </ul>
-
-<p><br></p>
-
-<h3 id="first-part">First part</h3>
-
-<p>The first part tries to get you familiar with <a href="https://jenkins.io/" target="_blank">Jenkins</a> and <code>Jenkinsfile</code>, that is a file where all your pipeline script is stored, allowing you to use source control, code review and audit trail. In the exercise there is no Jenkins local installation, and everything is run from a <a href="https://docs.docker.com/" target="_blank">Docker</a> container.</p>
-
+<!-- raw HTML omitted -->
+<p>The first part tries to get you familiar with <!-- raw HTML omitted -->Jenkins<!-- raw HTML omitted --> and <code>Jenkinsfile</code>, that is a file where all your pipeline script is stored, allowing you to use source control, code review and audit trail. In the exercise there is no Jenkins local installation, and everything is run from a <!-- raw HTML omitted -->Docker<!-- raw HTML omitted --> container.</p>
 <p>Through this exercise, you will need to install some plugins in Jenkins, in order to build your application in a JAR file and upload it to an AWS S3 bucket, publish the jUnit results, and send a notifications to a Slack channel.</p>
-
-<p>We ran this exercise in our Community of Practice, so we could share this experience with members of other teams. Here you can see the tweet of this event:
-<center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Community of Practice at <a href="https://twitter.com/Mango?ref_src=twsrc%5Etfw">@Mango</a>: <a href="https://twitter.com/hashtag/jenkins?src=hash&amp;ref_src=twsrc%5Etfw">#jenkins</a> pipeline kata by <a href="https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw">@laurentiumarcut</a>. <a href="https://twitter.com/hashtag/continuousdelivery?src=hash&amp;ref_src=twsrc%5Etfw">#continuousdelivery</a>  <a href="https://twitter.com/hashtag/alwayslearning?src=hash&amp;ref_src=twsrc%5Etfw">#alwayslearning</a> <a href="https://t.co/Rr9R6nSjjr">pic.twitter.com/Rr9R6nSjjr</a></p>&mdash; Mike Gonzalez (@MikeGonYe) <a href="https://twitter.com/MikeGonYe/status/920978985412104192?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-</center>
-<br></p>
-
+<p>We ran this exercise in our Community of Practice, so we could share this experience with members of other teams. Here you can see the tweet of this event:</p>
+<!-- raw HTML omitted -->
 <h3 id="second-part">Second part</h3>
-
 <p>The second part is a more challenging exercise. Some knowledge about Jenkins and building a pipeline is required. The first part of the Jenkins kata is an excellent introduction to the second part, so I suggest you to do it first!!</p>
-
-<p>We will learn how to use <a href="https://jenkins.io/doc/book/pipeline/docker/" target="_blank">Docker with Pipeline</a>, an incredible way to run dependencies, as Maven or AWS client, without installation needed. You just run it from a docker image, just this way:</p>
-
+<p>We will learn how to use <!-- raw HTML omitted -->Docker with Pipeline<!-- raw HTML omitted -->, an incredible way to run dependencies, as Maven or AWS client, without installation needed. You just run it from a docker image, just this way:</p>
 <pre><code>docker.image(&quot;maven:3.5.0&quot;).inside() {
     sh &quot;mvn -version&quot;
 }
 </code></pre>
-
-<p>We will also learn how to use parallelism at stage level, with <a href="https://jenkins.io/blog/2017/09/25/declarative-1/" target="_blank">Parallel stages</a>, how to use an input to implement a manual confirmation before run some steps with <a href="https://jenkins.io/doc/pipeline/steps/pipeline-input-step/" target="_blank">Pipeline: Input Step</a> and other great features to enrich your pipeline, such as <a href="https://jenkins.io/projects/blueocean/" target="_blank">BlueOcean</a>, <a href="" target="_blank">Lockable Resource plugin</a>, <a href="https://wiki.jenkins.io/display/JENKINS/Pipeline+Milestone+Step+Plugin" target="_blank">Pipeline Milestone Step plugin</a>, <a href="https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/#code-timeout-code-enforce-time-limit" target="_blank">Timeout step</a>&hellip;</p>
-
+<p>We will also learn how to use parallelism at stage level, with <!-- raw HTML omitted -->Parallel stages<!-- raw HTML omitted -->, how to use an input to implement a manual confirmation before run some steps with <!-- raw HTML omitted -->Pipeline: Input Step<!-- raw HTML omitted --> and other great features to enrich your pipeline, such as <!-- raw HTML omitted -->BlueOcean<!-- raw HTML omitted -->, <!-- raw HTML omitted -->Lockable Resource plugin<!-- raw HTML omitted -->, <!-- raw HTML omitted -->Pipeline Milestone Step plugin<!-- raw HTML omitted -->, <!-- raw HTML omitted -->Timeout step<!-- raw HTML omitted -->&hellip;</p>
 <p>Here you can see the tweet of this event:</p>
-
-<p><center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Community of Practice at <a href="https://twitter.com/Mango?ref_src=twsrc%5Etfw">@Mango</a>. <a href="https://twitter.com/hashtag/jenkis?src=hash&amp;ref_src=twsrc%5Etfw">#jenkis</a> kata part 2 by <a href="https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw">@laurentiumarcut</a>. <a href="https://twitter.com/hashtag/alwayslearning?src=hash&amp;ref_src=twsrc%5Etfw">#alwayslearning</a> <a href="https://t.co/fgbGqOrF35">pic.twitter.com/fgbGqOrF35</a></p>&mdash; Mike Gonzalez (@MikeGonYe) <a href="https://twitter.com/MikeGonYe/status/933681376959827968?ref_src=twsrc%5Etfw">November 23, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center></p>
-
-<p><br></p>
-
-<h1 id="the-learning">The Learning</h1>
-
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
 <p>The best way to learn how to use some tool or technique is by using. That&rsquo;s why coding katas became so popular. The repetition of some exercises, repeating the process again and again, in a safe environment, helps to acquire the expertice, by experiencing rather than reading.</p>
-
 <p>We tend to think some tool or tech is difficult, but in fact, it should be simple but not familiar for us. The usage and try by our own, can turn this unfamiliarity to more comfortable knowledge. That&rsquo;s one of the more important learning we got on the DevOps journey, and on this kata in particular.</p>
-
 <p>Running a workshop is also a good experience for the facilitator:</p>
-
 <ul>
 <li>You get feedback from colleagues, and it helps you to improve your skills.</li>
 <li>You go one step forward in the topic, as need to have all concepts deeply learned to explain them clearly to a less experienced people.</li>
 <li>You can interact with people that usually you don&rsquo;t work with. It can improve your relationship with other team&rsquo;s members.</li>
 </ul>
-
-<p>Finally, I would like to thanks again to <a href="https://twitter.com/laurentiumarcut" target="_blank">Lau Marcut</a> for helping the team to achieve knowledge about Continuous Delivery so quickly, and also for being so amazing and stunning team mate.</p>
-
-<p><br><br>
+<p>Finally, I would like to thanks again to <!-- raw HTML omitted -->Lau Marcut<!-- raw HTML omitted --> for helping the team to achieve knowledge about Continuous Delivery so quickly, and also for being so amazing and stunning team mate.</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted -->
 What do you think about the Jenkins kata? Are you building your own pipeline?
 Any feedback will be very appreciated.</p>
+<p>Photo by <!-- raw HTML omitted -->Tama66<!-- raw HTML omitted --> on <!-- raw HTML omitted -->Pixabay<!-- raw HTML omitted --></p>
 
-<p>Photo by <a href="https://pixabay.com/en/users/Tama66-1032521/" target="_blank">Tama66</a> on <a href="https://pixabay.com/" target="_blank">Pixabay</a></p>
+  </div>
 
-    </div>
-
-    <footer>
-        <ul class="stats">
-    
+  <footer>
+    <ul class="stats">
+  <li class="categories">
+    <ul>
         
-
-        
-        
-            <li>
+            
+            
+                <i class="fa fa-folder"></i>
                 
                 
-                    
-
-                    
-                        Categories
-                    
+                <li><a class="article-category-link" href="http://magonye.github.io/categories/docker">docker</a></li>
                 
-            </li>
+                
+                <li><a class="article-category-link" href="http://magonye.github.io/categories/culture-of-learning">culture-of-learning</a></li>
+                
+                
+                <li><a class="article-category-link" href="http://magonye.github.io/categories/jenkins">jenkins</a></li>
+                
+                
+                <li><a class="article-category-link" href="http://magonye.github.io/categories/ci/cd">ci/cd</a></li>
+                
+            
         
-    
-
-    
-    
-        <li><a href='/categories/docker'>docker</a></li>
-    
-        <li><a href='/categories/culture-of-learning'>culture-of-learning</a></li>
-    
-        <li><a href='/categories/jenkins'>jenkins</a></li>
-    
-        <li><a href='/categories/ci/cd'>ci/cd</a></li>
-    
+    </ul>
+  </li>
+  <li class="tags">
+    <ul>
+        
+    </ul>
+  </li>
 </ul>
 
-    </footer>
+  </footer>
+
 </article>
+
+    <article class="post">
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "learnings-and-thoughts" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </article>
+
+
 <ul class="actions pagination">
     
-        <li><a href="http://magonye.github.io/post/january-2018/"
+        <li><a href="/post/january-2018/"
                 class="button big previous">january 2018</a></li>
     
 
     
-        <li><a href="http://magonye.github.io/post/february-2018/"
+        <li><a href="/post/february-2018/"
                 class="button big next">february 2018</a></li>
     
 </ul>
-
-
-
-    
-        <article class="post">
-            <div id="disqus_thread"></div>
-<script type="text/javascript">
-    var disqus_shortname = 'learnings-and-thoughts';
-    var disqus_identifier = 'http:\/\/magonye.github.io\/post\/jenkins-kata\/';
-    var disqus_title = 'CI\/CD Pipeline Kata';
-    var disqus_url = 'http:\/\/magonye.github.io\/post\/jenkins-kata\/';
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-        </article>
-    
 
 
     </div>
     
 <section id="sidebar">
 
-    
-        <section id="intro">
-            
-            
-                
-                    <img src="/img/main/magonye.png" class="intro-circle" width="100px" alt="Learnings and thoughts" />
-                
-            
-            
-                <header>
-                    <h2>Learnings and thoughts</h2>
-                    <p>A place to share my learnings, thoughts and knowledge about coding, software, and being as much professional as possible.</p>
-                </header>
-            
-            <ul class="icons">
-                
-                
-                    
-<li><a href="//github.com/magonye" target="_blank" title="GitHub" class="fa fa-github"></a></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="//linkedin.com/in/miguel-angel-gonzalez-yepes-11898244" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="//twitter.com/MikeGonYe" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
-
-
-
-
-                
-            </ul>
-        </section>
-
-    
-        <section id="recent-posts">
-            <ul class="posts">
-                <header>
-                    <h3>Recent Posts</h3>
-                </header>
-                
-                    
-                
-
-                
-                    
-                
-
-                
-                    <li>
-                        <article>
-                            <header>
-                                <h3><a href="http://magonye.github.io/post/another-step/">Another step</a></h3>
-                                
-                                    
-                                
-                                <time class="published" datetime=
-                                    '2018-06-19'>
-                                    June 19, 2018</time>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <h3><a href="http://magonye.github.io/post/april-2018/">april 2018</a></h3>
-                                
-                                    
-                                
-                                <time class="published" datetime=
-                                    '2018-05-04'>
-                                    May 4, 2018</time>
-                            </header>
-                        </article>
-                    </li>
-                
-
-                
-                    <li>
-                        <ul class="actions">
-                            <li><a href=
-                            
-                                /post/
-                            
-                            class="button">View more posts</a></li>
-                        </ul>
-                    </li>
-                
-            </ul>
-        </section>
-
+  
+  <section id="intro">
     
     
+      
+        <a href='/'><img src="/img/main/magonye.png" class="intro-circle" width="100px" alt="Learnings and thoughts" /></a>
+      
     
     
-        <section id="categories">
-            <ul class="posts">
-                <header>
-                    <h3><a href="/categories/">Categories</a></h3>
-                </header>
-
-                
-                    
-                
-
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/monthly/">monthly</a>
-                                <span style="float:right;">13</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/reading/">reading</a>
-                                <span style="float:right;">13</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/culture-of-learning/">culture-of-learning</a>
-                                <span style="float:right;">3</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/about-me/">about-me</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/conferences-meetups/">conferences-meetups</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/design/">design</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/docker/">docker</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/team/">team</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/tips/">tips</a>
-                                <span style="float:right;">2</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/ci/cd/">ci/cd</a>
-                                <span style="float:right;">1</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/git/">git</a>
-                                <span style="float:right;">1</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/java-9/">java-9</a>
-                                <span style="float:right;">1</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/jenkins/">jenkins</a>
-                                <span style="float:right;">1</span>
-                            </header>
-                        </article>
-                    </li>
-                
-                    <li>
-                        <article>
-                            <header>
-                                <a href="/categories/security/">security</a>
-                                <span style="float:right;">1</span>
-                            </header>
-                        </article>
-                    </li>
-                
-            </ul>
-        </section>
+      <header>
+        <h2>Learnings and thoughts</h2>
+        <p>A place to share my learnings, thoughts and knowledge about coding, software, and being as much professional as possible.</p>
+      </header>
     
-
     
+      <ul class="icons">
         
-        <section class="blurb">
-            <h2>About</h2>
-            <p>This blog is about to learn how to be a better professional and a better developer, and share my path to achieve it. Also my choices, sometimes right, sometimes wrong.</p>
+        
+  <li><a href="//github.com/magonye" target="_blank" title="GitHub" class="fa fa-github"></a></li>
 
-            <ul class="actions">
-                <li><a href="/about/" class="button">Learn More</a></li>
-            </ul>
-        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//linkedin.com/in/miguel-angel-gonzalez-yepes-11898244" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//twitter.com/MikeGonYe" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </ul>
+    
+  </section>
+
+  
+  <section class="recent-posts">
+    <div class="mini-posts">
+      <header>
+        <h3>Recent Posts</h3>
+      </header>
+      <div class="posts-container">
         
 
+        
+          
+        
+
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/post/march-2018/">march 2018</a>
+              </h3>
+              
+              <time class="published" datetime='2018-04-03'>
+                April 3, 2018
+              </time>
+            </header>
+            
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/post/">Posts</a>
+              </h3>
+              
+              <time class="published" datetime='2018-04-03'>
+                April 3, 2018
+              </time>
+            </header>
+            
+
+          </article>
+        
+      </div>
+
+      
+        <a href=
+          
+            /post/
+          
+        class="button">View more posts</a>
+      
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+  
+    <section id="mini-bio">
+      <h3>About</h3>
+      <p>This blog is about to learn how to be a better professional and a better developer, and share my path to achieve it. Also my choices, sometimes right, sometimes wrong.</p>
+      <a href="/about/" class="button">Learn More</a>
+    </section>
+  
+
+  
+  <section id="footer">
     
-        <section id="footer">
-            <ul class="icons">
-                
-                
-                    
-<li><a href="//github.com/magonye" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+      <ul class="icons">
+        
+        
+  <li><a href="//github.com/magonye" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//linkedin.com/in/miguel-angel-gonzalez-yepes-11898244" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
 
 
 
@@ -889,7 +774,7 @@ Any feedback will be very appreciated.</p>
 
 
 
-<li><a href="//linkedin.com/in/miguel-angel-gonzalez-yepes-11898244" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+  <li><a href="//twitter.com/MikeGonYe" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
 
 
 
@@ -905,43 +790,63 @@ Any feedback will be very appreciated.</p>
 
 
 
-<li><a href="//twitter.com/MikeGonYe" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
 
 
 
 
-                
-            </ul>
 
-            <p class="copyright">&copy; Learnings and thoughts. Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>. Ported by <a href="//github.com/jpescador" target="_blank">Julio Pescador</a>. Powered by <a href="//gohugo.io" target="_blank">Hugo</a></p>
-        </section>
-
+      </ul>
+    
+    <p class="copyright">
+      
+        &copy; 2018
+        
+          Learnings and thoughts
+        
+      .
+      Powered by <a href="//gohugo.io" target="_blank">Hugo</a>
+    </p>
+  </section>
 </section>
 
-            </div>
-        <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
-        
+    </div>
+    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
+    
 
-        
-        
-            
-        
+    
+      
+    
 
+    
+      
+      
+      
+        <script src="//cdn.bootcss.com/highlight.js//highlight.min.js"></script>
         
         
-            <script src="/js/jquery.min.js"></script>
-            <script src="/js/skel.min.js"></script>
-            <script src="/js/util.js"></script>
-            <script src="/js/main.js"></script>
-            <script src="/js/backToTop.js"></script>
-            <script src="/js/highlight.pack.js"></script>
         
+        <script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+      
+    
+    
+    
 
+    
+      
         
+          <script src="/js/main.min.js"></script>
+        
+      
+    
 
-            
-            <script>hljs.initHighlightingOnLoad();</script>
-            
-    </body>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+      <script src="//yihui.name/js/math-code.js"></script>
+<script async
+src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+  </body>
 </html>
 

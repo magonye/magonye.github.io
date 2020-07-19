@@ -1,33 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monthly on Learnings and thoughts</title>
-    <link>http://magonye.github.io/categories/monthly/index.xml</link>
-    <description>Recent content in Monthly on Learnings and thoughts</description>
+    <title>monthly on Learnings and thoughts</title>
+    <link>http://magonye.github.io/categories/monthly/</link>
+    <description>Recent content in monthly on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate>
     
-    <item>
-      <title>april 2018</title>
-      <link>http://magonye.github.io/post/april-2018/</link>
-      <pubDate>Fri, 04 May 2018 14:30:56 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/april-2018/</guid>
-      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WlnpKUvuKnI&#34;&gt;JDD 2017: Refactoring in Business World&amp;hellip; for Developers? (Włodek Krakowski)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?time_continue=4&amp;amp;v=z4qvIaJhSkU&#34;&gt;Tic-Tac-Toe Speedrun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/03/31/rereading-the-mythical-man-month/&#34;&gt;Rereading the Mythical Man Month by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://marcus-biel.com/java-beginner-course/&#34;&gt;Java Course for Beginners by Marcus Biel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-04-24-intermediate-step-gilded-rose-kata/&#34;&gt;Intermediate step of Gilded Rose Kata by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>march 2018</title>
@@ -35,28 +17,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Tue, 03 Apr 2018 16:56:56 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/march-2018/</guid>
-      <description>&lt;p&gt;This month I finished the book &lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34;&gt;Extreme Programming Explained&lt;/a&gt;. And I&amp;rsquo;m starting reading the book &lt;a href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;&gt;The Pragmatic Programmer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codemanship.co.uk/backtobasics.pdf&#34;&gt;Back To The Basics by Jason Gorman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/12/08/introducing-idd/&#34;&gt;Introduction to IDD by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/03/07/growing-your-career/&#34;&gt;Growing your career by Nacho&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/02/27/duplication-you-are-welcome/&#34;&gt;Duplication, you&amp;rsquo;re welcome by Rachel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34;&gt;XP Simplicity Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BeckDesignRules.html&#34;&gt;Kent Beck Design Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.iterate.no/2012/06/20/programming-like-kent-beck/&#34;&gt;Programming like Kent Beck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/the-last-responsible-moment/&#34;&gt;The last responsible moment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/pedromsantos/should-code-have-an-expiry-date-4i0p&#34;&gt;Should code have an expiry date?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.oracle.com/java-platform-group/introducing-java-se-10&#34;&gt;Introducing Java SE 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?feature=youtu.be&amp;amp;v=X0tjziAQfNQ&amp;amp;app=desktop&#34;&gt;10 Tips for failing badly at Microservices by David Schmitz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.monterail.com/blog/solid-principles-cheatsheet-printable&#34;&gt;Solid Principles cheatsheet printable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>This month I finished the book Extreme Programming Explained. And I&amp;rsquo;m starting reading the book The Pragmatic Programmer.
+I read all these post and watched these videos during this month:
+ Back To The Basics by Jason Gorman Introduction to IDD by Sandro Mancuso Growing your career by Nacho Duplication, you&amp;rsquo;re welcome by Rachel M. Carmena XP Simplicity Rules Kent Beck Design Rules Programming like Kent Beck The last responsible moment Should code have an expiry date?</description>
     </item>
     
     <item>
@@ -65,29 +28,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Sun, 04 Mar 2018 11:34:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/february-2018/</guid>
-      <description>&lt;p&gt;This month I read the book &lt;a href=&#34;https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design&#34;&gt;Understanding the Four Rules of Simple Design&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@benleitmanis/who-is-jordan-peterson-71e0b4b1a2ae&#34;&gt;Who is Jordan Peterson?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937&#34;&gt;Dr. Jordan Peterson&amp;rsquo;s 10 step guide to clearer thinking through essay writing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective&#34;&gt;The 12 Factor App: a java developers perspective&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/&#34;&gt;12 Factor App in plain english&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adictosaltrabajo.com/tutoriales/el-manifiesto-the-twelve-factor-app/&#34;&gt;El manifiesto the Twelve Factor App&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://12factor.net/&#34;&gt;12 Factor App&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alvinalexander.com/scala/what-does-three-question-marks-in-scala-mean&#34;&gt;What does three question marks in scala mean&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hbggtXmQcf8&#34;&gt;Continuous Delivery: Germinando una cultura Agile moderna - by Edu Ferro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/practical-test-pyramid.html&#34;&gt;Practical Test Pyramid by Martin Fowler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-02-23-software-as-a-craft/&#34;&gt;Software as a Craft by Rachel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@Empanado/process-driven-rest-api-design-75ca88917582&#34;&gt;Process Driven Rest Api Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;MVC Delivery Mechanism by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/23/outside-in-design/&#34;&gt;Outside-in Design by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>This month I read the book Understanding the Four Rules of Simple Design.
+I read all these post and watched these videos during this month:
+ Who is Jordan Peterson? Dr. Jordan Peterson&amp;rsquo;s 10 step guide to clearer thinking through essay writing The 12 Factor App: a java developers perspective 12 Factor App in plain english El manifiesto the Twelve Factor App 12 Factor App What does three question marks in scala mean Continuous Delivery: Germinando una cultura Agile moderna - by Edu Ferro Practical Test Pyramid by Martin Fowler Software as a Craft by Rachel M.</description>
     </item>
     
     <item>
@@ -96,19 +39,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Mon, 05 Feb 2018 08:24:53 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/january-2018/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve started two new books: &lt;a href=&#34;https://www.goodreads.com/book/show/36453393-functional-programming-simplified&#34;&gt;Functional Programming, Simplified: (Scala edition)&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34;&gt;Extreme Programming Explained: Embrace Change (The XP Series)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://go.divante.co/microservices-architecture-ecommerce/&#34;&gt;Microservices Architecture for eCommerce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34;&gt;Valores y principios en el diseño del software - Fran Reyes #CAS2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7EVXypZDOos&#34;&gt;Kotlin for Java Programmers by Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve started two new books: Functional Programming, Simplified: (Scala edition) and Extreme Programming Explained: Embrace Change (The XP Series).
+I read all these post and watched these videos during this month:
+ Microservices Architecture for eCommerce Valores y principios en el diseño del software - Fran Reyes #CAS2017 Kotlin for Java Programmers by Venkat Subramaniam  Always learning!! Always improving!! Always sharing!!</description>
     </item>
     
     <item>
@@ -117,24 +50,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Tue, 09 Jan 2018 08:13:49 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/december-2017/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m actualy doing the &lt;a href=&#34;https://www.coursera.org/specializations/scala&#34;&gt;Coursera&lt;/a&gt; course &amp;ldquo;&lt;strong&gt;Functional Programming Principles in Scala&lt;/strong&gt;&amp;rdquo; by &lt;em&gt;École Polytechnique Fédérale de Lausanne&lt;/em&gt;. This course is part of the Functional Programming in Scala Specialization. This course is taught by &lt;a href=&#34;https://www.coursera.org/instructor/~672627&#34;&gt;Martin Odersky&lt;/a&gt;, and it&amp;rsquo;s a great way to discover functional programming in Scala. I recommend it!&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joantolos.com/blog/kata/&#34;&gt;Joan Tolos: Social Networking kata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ustream.tv/recorded/61480606&#34;&gt;Sandro Mancuso: IDD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/matchilling/pragmatically-storing-security-sensitive-data-using-aws-kms-5e5b&#34;&gt;Pragmatically storing security sensitive data using AWS KMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/security/how-to-help-protect-sensitive-data-with-aws-kms/&#34;&gt;How to help protect sensitive data with AWS KMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=e95dtPPUfVY&#34;&gt;Codemotion 2017: Node.js para Javeros. Conoce a tu enemigo (Micael Gallego)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-x127e6T2Zg&#34;&gt;Codemotion 2017: Creating a culture of learning at Tuenti (Joaquin Engelmo Moriche, Fina Perez)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=grvvKURwGNg&#34;&gt;Scala for the Intrigued by Venkat Subramaniam&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3jg1AheF4n0&#34;&gt;OSCON Java 2011: Working Hard to Keep It Simple by Martin Odersky&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m actualy doing the Coursera course &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; by École Polytechnique Fédérale de Lausanne. This course is part of the Functional Programming in Scala Specialization. This course is taught by Martin Odersky, and it&amp;rsquo;s a great way to discover functional programming in Scala. I recommend it!
+I read all these post and watched these videos during this month:
+ Joan Tolos: Social Networking kata Sandro Mancuso: IDD Pragmatically storing security sensitive data using AWS KMS How to help protect sensitive data with AWS KMS Codemotion 2017: Node.</description>
     </item>
     
     <item>
@@ -143,25 +61,8 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Mon, 04 Dec 2017 08:10:01 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/november-2017/</guid>
-      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/syLjjmRgTsE&#34;&gt;LSCConf 2017 Nat Pryce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/gNmsWP1LKKs&#34;&gt;LSCConf 2017 Alex Bolboaca&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/4-rules-simple-design&#34;&gt;4 Rules for Simple Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34;&gt;XP Simplicity Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-think-red-green-refactor-episode-1/&#34;&gt;Adi Bolboaca: TDD as if you meant it 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-i-care-about-behavior-and-not-about-representation-episode-2/&#34;&gt;Adi Bolboaca: TDD as if you meant it 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-primitives-to-concepts-episode-3/&#34;&gt;Adi Bolboaca: TDD as if you meant it 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-to-a-new-class-episode-4/&#34;&gt;Adi Bolboaca: TDD as if you meant it 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactoring-to-builder-episode-5/&#34;&gt;Adi Bolboaca: TDD as if you meant it 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-rsome-traditional-tdd-part-1-episode-6/&#34;&gt;Adi Bolboaca: TDD as if you meant it 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/10/tdd-as-if-you-meant-it-some-traditional-tdd-part-2-episode-7/&#34;&gt;Adi Bolboaca: TDD as if you meant it 7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I read all these post and watched these videos during this month:
+ LSCConf 2017 Nat Pryce LSCConf 2017 Alex Bolboaca 4 Rules for Simple Design XP Simplicity Rules Adi Bolboaca: TDD as if you meant it 1 Adi Bolboaca: TDD as if you meant it 2 Adi Bolboaca: TDD as if you meant it 3 Adi Bolboaca: TDD as if you meant it 4 Adi Bolboaca: TDD as if you meant it 5 Adi Bolboaca: TDD as if you meant it 6 Adi Bolboaca: TDD as if you meant it 7  Always learning!</description>
     </item>
     
     <item>
@@ -170,27 +71,11 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Fri, 10 Nov 2017 08:05:53 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/october-2017/</guid>
-      <description>&lt;p&gt;This month I started a new book: &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month&lt;/a&gt;, within a Book Club.&lt;/p&gt;
-
-&lt;p&gt;I also stated watching the vide episodes by &lt;a href=&#34;https://twitter.com/adibolb&#34;&gt;Adrian Balboaca&lt;/a&gt; about &lt;a href=&#34;http://blog.adrianbolboaca.ro/evolutionary-design/&#34;&gt;TDD as if you meant it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, I also added videos to my conferences videos, so, please, watch them and enjoy them as much as I did. You can find them &lt;a href=&#34;../categories/conferences-meetups/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/&#34;&gt;docker health check instruction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/why-isnt-agile-working-d7127af1c552&#34;&gt;why isn’t agile working&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yegor256.com/2017/03/28/solid.html&#34;&gt;SOLID by yegor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/stop-aliasing-core-git-commands&#34;&gt;stop aliasing core git commands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://michaelfeathers.silvrback.com/knowing-what-is-there&#34;&gt;Knowing what is there&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/programacion-en-la-nube/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas&#34;&gt;entendiendo la nube: el significado de saas, paas y iaas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/amit_merchant/how-products-got-their-name-c6d&#34;&gt;How products got their names&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/30/lambda-world-conference/&#34;&gt;Lambda World Conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312&#34;&gt;Crafting better code reviews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/AjDcPOydSM8&#34;&gt;Craft thinking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This month I started a new book: The Mythical Man-Month, within a Book Club.
+I also stated watching the vide episodes by Adrian Balboaca about TDD as if you meant it.
+Finally, I also added videos to my conferences videos, so, please, watch them and enjoy them as much as I did. You can find them here.
+I read all these post and watched these videos during this month:
+ docker health check instruction why isn’t agile working SOLID by yegor stop aliasing core git commands Knowing what is there entendiendo la nube: el significado de saas, paas y iaas How products got their names Lambda World Conference Crafting better code reviews Craft thinking  </description>
     </item>
     
     <item>
@@ -199,32 +84,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Sun, 01 Oct 2017 08:29:31 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/september-2017/</guid>
-      <description>&lt;p&gt;I finished &lt;strong&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/strong&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;. It&amp;rsquo;s an incredible book, very inspirational and plenty of good advices. I will review and publish it soon.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/01/do-we-have-a-good-safety-net-to-change-this-legacy-code/&#34;&gt;do we have a good safety net to change this legacy code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/jonstodle/its-not-just-someone-elses-computer&#34;&gt;its not just someone else&amp;rsquo;s computer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/aditichaudhry92/what-is-blockchain&#34;&gt;what is blockchain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/iriskatastic/6-tools-to-boost-your-development-workflow&#34;&gt;6 tools to boost your development workflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vanesatejada.com/2017/09/10/como-gestionar-tu-blog-con-trello/&#34;&gt;como gestionar tu blog con trello&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/oyink/how-disobedience-made-me-better&#34;&gt;how disobedience made me better&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career&#34;&gt;heres what you can learn in 10 minutes that will be useful for the rest of your programming career&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rominirani.com/docker-swarm-tutorial-b67470cf8872&#34;&gt;docker swarm tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@_purukaushik/start-using-java-9-shell-jshell-with-docker-888c91ff742c&#34;&gt;Start using Java 9 shell jshell with docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.oracle.com/java-platform-group/java-se-support-for-docker-cpu-and-memory-limits&#34;&gt;java se support for docker cpu and memory limits&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/blog/2017/03/14/java-inside-docker/&#34;&gt;java inside docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jshelltutorial.com/jshell-editing&#34;&gt;jshell tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/agisilaosts/the-insecure-developer&#34;&gt;the insecure developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;mvc delievery mechanism dm &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/12/life-at-codurance-robert-firek/&#34;&gt;life at codurance by robert firek&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2017-09-05-mars-rover/&#34;&gt;Mars Rover kata by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I finished The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso. It&amp;rsquo;s an incredible book, very inspirational and plenty of good advices. I will review and publish it soon.
+I read all these post and watched these videos during this month:
+ do we have a good safety net to change this legacy code its not just someone else&amp;rsquo;s computer what is blockchain 6 tools to boost your development workflow como gestionar tu blog con trello how disobedience made me better heres what you can learn in 10 minutes that will be useful for the rest of your programming career docker swarm tutorial Start using Java 9 shell jshell with docker java se support for docker cpu and memory limits java inside docker jshell tutorial the insecure developer mvc delievery mechanism dm  life at codurance by robert firek Mars Rover kata by Sandro Mancuso  Always learning!</description>
     </item>
     
     <item>
@@ -233,54 +95,8 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Fri, 01 Sep 2017 15:12:35 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/august-2017/</guid>
-      <description>&lt;p&gt;This month I did the following things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Book Club&lt;/strong&gt;: Actually reading &lt;strong&gt;The Software Craftsman&lt;/strong&gt; by Sandro Mancuso, and &lt;strong&gt;NonViolent Comunication&lt;/strong&gt; by Marshall B. Rosenberg.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Typing training&lt;/strong&gt;: I started doing some typing training at &lt;a href=&#34;https://www.typing.com&#34;&gt;typing.com&lt;/a&gt;. There are other options, like &lt;a href=&#34;http://www.typingstudy.com&#34;&gt;typingstudy.com&lt;/a&gt;, &lt;a href=&#34;https://www.typingclub.com/&#34;&gt;typingclub.com&lt;/a&gt;  or &lt;a href=&#34;https://www.cursomeca.com&#34;&gt;cursomeca.com&lt;/a&gt;. I&amp;rsquo;ll try them soon.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Software design patterns&lt;/strong&gt;: I started reviewing software design patterns at &lt;a href=&#34;https://sourcemaking.com&#34;&gt;sourcemaking.com&lt;/a&gt;. This is something I need to improve, in order to know and understand them better.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Code Smells&lt;/strong&gt;: I&amp;rsquo;m studying code smells, with the help of Rachel, and also at &lt;a href=&#34;https://sourcemaking.com&#34;&gt;sourcemaking.com&lt;/a&gt;. To know when something is wrong, is as important as to know when it&amp;rsquo;s right.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;My blog&lt;/strong&gt;: This month I started publishing some posts on my blog. Now that I started, I have a lot of ideas for new posts. You&amp;rsquo;ll see them soon published!!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I read all these posts and videos during August:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/lobotomy-to-your-object-oriented-thinking-elegant&#34;&gt;Lobotomy to your object-oriented thinking elegant&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gshotwell/why-you-should-work-remotely&#34;&gt;Why you should work remotely&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/bob/how-do-you-know-your-code-is-bad&#34;&gt;How do you know your code is bad&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.alexbolboaca.ro/software-craftsmanship/for-the-perfect-programmer&#34;&gt;For the perfect programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://coderwall.com/p/5_cjhw/squash-your-commits-with-git-rebase&#34;&gt;Squash your commits with git rebase&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/07/09/P3-Quality/&#34;&gt;P3 Quality&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://spring.io/guides/gs/multi-module/&#34;&gt;Multi module&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/nathanepstein/what-is-a-10x-programmer/&#34;&gt;What is a 10x programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/steff_br/what-nobody-tells-you-when-you-decide-to-learn-how-to-code&#34;&gt;What nobody tells you when you decide to learn how to code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@d_ir/in-defence-of-software-craftsmanship-f484a0c646bb&#34;&gt;In defence of software craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/ice_lenor/design-your-code-for-readability&#34;&gt;Design your code readability&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/riccardo_cardin/object-oriented-programming-strikes-back&#34;&gt;Object oriented programming strikes back&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yegor256.com/2015/05/21/avoid-software-outsourcing-disaster.html&#34;&gt;Avoid software outsourcing disaster&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/danlebrero/the-tragedy-of-100-code-coverage&#34;&gt;The tragedy of 100% ccode coverage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://m.youtube.com/watch?sns=tw&amp;amp;v=liLqIEMpj-k&#34;&gt;Joaquín Engelmo (@kinisoftware) - La cultura importa&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/20/my-first-steps-as-an-embedded-sw-craftswoman/&#34;&gt;My first steps as an embedded sw craftswoman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/hweetty/keyboard-shortcuts&#34;&gt;Keyboard shortcuts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/21/a-reflection-on-software-craftsmanship/&#34;&gt;A reflection on software craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/lpasqualis/11-best-ways-to-improve-your-emotional-intelligence/&#34;&gt;11 best ways to improve your emotional intelligence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/tkeeney/just-a-developer&#34;&gt;Just a developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/mortoray/im-proud-to-be-a-programmer&#34;&gt;I&amp;rsquo;m proud to be a programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/08/02/light-access-dsl/&#34;&gt;Light access dsl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15&#34;&gt;The most intolerant wins the dictatorship of the small minority&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://sethgodin.typepad.com/seths_blog/2017/08/dont-forget-the-second-step.html&#34;&gt;Don&amp;rsquo;t forget the second step&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/yelluw/how-to-do-technical-blogging&#34;&gt;How to do technical blogging&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/chinchang/tools-that-make-me-fast-and-productive&#34;&gt;Tools that make me fast and productive&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/msscohen/3-effective-ways-to-maintain-high-energy-levels-at-work-for-software-engineers&#34;&gt;3 effective ways to maintain high energy levels at work for software engineers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/davidk01/a-day-in-the-life-of-a-programmer&#34;&gt;A day in the life of a programmer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/0x13a/the-art-of-defensive-programming&#34;&gt;The art of defensive programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/8-ways-to-become-a-better-coder&#34;&gt;8 ways to become a better coder&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>This month I did the following things:
+ Book Club: Actually reading The Software Craftsman by Sandro Mancuso, and NonViolent Comunication by Marshall B. Rosenberg. Typing training: I started doing some typing training at typing.com. There are other options, like typingstudy.com, typingclub.com or cursomeca.com. I&amp;rsquo;ll try them soon. Software design patterns: I started reviewing software design patterns at sourcemaking.com. This is something I need to improve, in order to know and understand them better.</description>
     </item>
     
     <item>
@@ -289,57 +105,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Sat, 05 Aug 2017 09:33:07 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/july-2017/</guid>
-      <description>&lt;p&gt;It was a very challenging month!&lt;/p&gt;
-
-&lt;p&gt;We started a Community of Practice at my work. It&amp;rsquo;s very exciting to share and learn things with other colleagues. We&amp;rsquo;re doing some katas and lighting talks. It&amp;rsquo;s only the beginning, but I think we can improve a lot with these meetings.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also reading some books. I&amp;rsquo;m reading two of them (Sandro Mancuso&amp;rsquo;s &lt;strong&gt;The Software Craftsman&lt;/strong&gt; and &lt;strong&gt;Growing Object Oriented Software&lt;/strong&gt;) with other people. It&amp;rsquo;s very interesting to read a book with some other people. When talking about the book, you can see another point of view about the same chapters, and ask or share thoughts.&lt;/p&gt;
-
-&lt;p&gt;I also started the Intro to TDD by &lt;a href=&#34;http://www.jbrains.ca/&#34;&gt;J.BRains&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these posts during July:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/0x13a/why-null-references-are-a-bad-idea&#34;&gt;Why null references are a bad idea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/paradigmas-de-programacion/el-resurgir-de-la-programacion-funcional&#34;&gt;El resurgir de la programación funcional&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/formacion/pattern-matching&#34;&gt;Pattern matching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/suhas_chatekar/why-should-you-use-standard-http-methods-while-designing-rest-apis&#34;&gt;Why should you use standard http methods while designing rest apis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://culto.latercera.com/2017/03/15/deje-de-leer/&#34;&gt;Dejé de leer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.freecodecamp.org/finding-time-to-become-a-better-developer-eebc154881b2&#34;&gt;Finding time to become a better developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/andreasklinger/comments-explain-why-not-what-and-2-more-rules-on-writing-good-comments&#34;&gt;Comments explain why not what and 2 more rules on writing good comments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/raulavila/my-experience-with-pair-programming&#34;&gt;My experience with pair programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.takipi.com/5-step-recipe-everything-you-need-to-know-for-staying-up-to-date-in-java/&#34;&gt;5 step recipe everything you need to know for staying up to date in java&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/pbeekums/you-cant-learn-everything&#34;&gt;You can&amp;rsquo;t learn everything&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/storage/assets/5776001-dzone-rc241-declarativepipelinewithjenkins.pdf&#34;&gt;Declarative pipeline with Jenkins&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/notes/kent-beck/mastering-programming/1184427814923414&#34;&gt;Mastering programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/ben/my-three-tips-for-maintaining-fitness-and-a-healthy-lifestyle-as-a-software-developer&#34;&gt;My three tips for maintaining fitness and a healthy lifestyle as a software developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/scalawilliam/unit-testing-is-simple&#34;&gt;Unit testing is simple&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/binarforge/seven-useful-programming-habits&#34;&gt;Seven useful programming habits&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gazebo_c/making-and-taking-babysteps&#34;&gt;Making and taking babysteps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/samjarman/how-to-get-started-with-public-speaking&#34;&gt;How to get started with public speaking&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.samjarman.co.nz/blog/code-reviews&#34;&gt;Code reviews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/hitman666/git-branching-done-right-with-gitflow--improving-code-quality-with-code-reviews&#34;&gt;Git branching done right with gitflow: improving code quality with code reviews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/pbeekums/the-problem-with-heroes-in-software-development&#34;&gt;The problem with heroes in software development&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/mohamed3on/brief-introduction-to-salts-in-hashing&#34;&gt;Brief introduction to salts in hashing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/jmourtada/a-quick-introduction-to-git&#34;&gt;A quick introduction to git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@mike_acton/12-tips-for-making-the-best-use-of-your-time-909be33398b4&#34;&gt;12 tips for making the best use of your time&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://langui.sh/2010/11/14/pbpaste-pbcopy-in-mac-os-x-or-terminal-clipboard-fun/&#34;&gt;pbpaste-pbcopy in mac os x or terminal clipboard fun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/bormod/how-to-choose-an-open-source-project-to-contribute-to&#34;&gt;How to choose an open source project to contribute to&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.cleancoder.com/uncle-bob/2017/07/11/PragmaticFunctionalProgramming.html&#34;&gt;Pragmatic Functional Programming&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/you-changed-the-code-you-didnt-refactor-the-code&#34;&gt;You changed the code, you didn&amp;rsquo;t refactor the code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/samjarman/how-to-supercharge-your-learning-of-new-technologies&#34;&gt;How to supercharge your learning of new technologies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/schreiber_chris/the-benefits-of-having-a-craftsman-in-your-team&#34;&gt;The benefits of having a craftsman in your team&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/optional-anti-patterns&#34;&gt;Optional: anti-patterns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/nishparadox/builder-design-pattern&#34;&gt;Builder design pattern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.agustinperalt.es/volver-estudiar/&#34;&gt;Volver a estudiar&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/my-journey-towards-software-craftsmanship-3efdd53ac9fb&#34;&gt;My journey towards software craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/maurobringolf/open-source-9-steps-to-my-first-feature-contribution-in-babel&#34;&gt;Open source: 9 steps to my first feature contribution in Babel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.targetprocess.com/articles/speed-in-software-development/&#34;&gt;Speed in software development&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/tamrrat/blogging-driven-learning&#34;&gt;Blogging driven learning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/git---command-line-vs-guis&#34;&gt;Git: command line vs guis&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/jackmarchant/no-excuses-write-unit-tests&#34;&gt;No excuses write unit tests&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>It was a very challenging month!
+We started a Community of Practice at my work. It&amp;rsquo;s very exciting to share and learn things with other colleagues. We&amp;rsquo;re doing some katas and lighting talks. It&amp;rsquo;s only the beginning, but I think we can improve a lot with these meetings.
+I&amp;rsquo;m also reading some books. I&amp;rsquo;m reading two of them (Sandro Mancuso&amp;rsquo;s The Software Craftsman and Growing Object Oriented Software) with other people.</description>
     </item>
     
     <item>
@@ -348,24 +116,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Fri, 30 Jun 2017 20:43:32 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/june-2017/</guid>
-      <description>&lt;p&gt;This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: &lt;strong&gt;Clean Code&lt;/strong&gt; [&lt;em&gt;Uncle Bob&lt;/em&gt;], &lt;strong&gt;Test Driven Development by Example&lt;/strong&gt; [&lt;em&gt;Kent Beck&lt;/em&gt;] and &lt;strong&gt;The Software Craftsman&lt;/strong&gt; [&lt;em&gt;Sandro Mancuso&lt;/em&gt;].&lt;/p&gt;
-
-&lt;p&gt;Besides the books, I&amp;rsquo;ve read the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vimeo.com/130256611&#34;&gt;INTERACTION DRIVEN DESIGN - Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dDofYAOkpts&#34;&gt;Introduction to DDD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wecodesignpodcast.com/2017/06/06/toma-de-requisitos/&#34;&gt;Toma-de-requisitos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying&#34;&gt;Logs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.koalite.com/2017/05/evitar-la-deuda-tecnica-es-un-error/&#34;&gt;Technical debt&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://programar.cloud/post/demo-del-api-gateway-kong/&#34;&gt;Security on APIs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://ronjeffries.com/xprog/articles/refactoring-not-on-the-backlog/&#34;&gt;Ron Jeffries&amp;rsquo; Refactoring&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/nishparadox/builder-design-pattern&#34;&gt;Builder design pattern&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/06/13/how-do-I-convince/&#34;&gt;Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Chapter 22 of Growing Object-Oriented Software (Goos)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.msdn.microsoft.com/ericgu/2017/06/22/notdd/&#34;&gt;NoTDD&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: Clean Code [Uncle Bob], Test Driven Development by Example [Kent Beck] and The Software Craftsman [Sandro Mancuso].
+Besides the books, I&amp;rsquo;ve read the following links:
+ INTERACTION DRIVEN DESIGN - Sandro Mancuso Introduction to DDD Toma-de-requisitos Logs Technical debt Security on APIs Ron Jeffries&amp;rsquo; Refactoring Builder design pattern Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip; Chapter 22 of Growing Object-Oriented Software (Goos) NoTDD  </description>
     </item>
     
     <item>
@@ -374,14 +127,10 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Sat, 24 Jun 2017 01:06:03 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/may-2017/</guid>
-      <description>&lt;p&gt;This month has been a very quiet month. No much reading.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ve just finished the &amp;ldquo;&lt;a href=&#34;https://www.coursera.org/learn/aprendiendo-a-aprender/home/welcome&#34;&gt;Learning how to learn&lt;/a&gt;&amp;rdquo; course at Coursera.&lt;/p&gt;
-
-&lt;p&gt;I also finished a very interesting course at Udemy: &amp;ldquo;&lt;a href=&#34;https://www.udemy.com/how-to-become-a-better-developer/&#34;&gt;How to become a better developer&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I would recommend both courses to everybody. They are clear, very well explained, and the topics are very helpfull. If you want to be a better developer and you have a lot of things to learn, you may consider to take these courses.&lt;/p&gt;
-</description>
+      <description>This month has been a very quiet month. No much reading.
+I&amp;rsquo;ve just finished the &amp;ldquo;Learning how to learn&amp;rdquo; course at Coursera.
+I also finished a very interesting course at Udemy: &amp;ldquo;How to become a better developer&amp;rdquo;.
+I would recommend both courses to everybody. They are clear, very well explained, and the topics are very helpfull. If you want to be a better developer and you have a lot of things to learn, you may consider to take these courses.</description>
     </item>
     
     <item>
@@ -390,27 +139,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Sun, 30 Apr 2017 18:07:02 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/april-2017/</guid>
-      <description>&lt;p&gt;My current read book is Clean Code, by Robert C. Martin. This is a MUST book, and it&amp;rsquo;s some kind embarrassing I didn&amp;rsquo;t read it before.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also attending the &amp;ldquo;&lt;a href=&#34;https://www.coursera.org/learn/aprendiendo-a-aprender/home/welcome&#34;&gt;Learning how to learn&lt;/a&gt;&amp;rdquo; course at Coursera.&lt;/p&gt;
-
-&lt;p&gt;With the book, I&amp;rsquo;m trying to fix my fault, and with the course I&amp;rsquo;m trying to pave the road. If I want to learn a lot of things, I need to know how to become efficient.&lt;/p&gt;
-
-&lt;p&gt;These are all my readings in this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://12factor.net/&#34;&gt;The Twelve Factor Apps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/introduction-to-docker&#34;&gt;Introduction to Docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/docker-fundamentals&#34;&gt;Docker fundamentals&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://training.docker.com/docker-operations&#34;&gt;Docker Operations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://rogerdudler.github.io/git-guide/&#34;&gt;Simple Git command guide&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=KsVWdGOnHZU&#34;&gt;IntelliJ IDEA Tips and Tricks Part I&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EvXpgL2iho4&#34;&gt;IntelliJ IDEA Tips and Tricks Part II&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2015/03/16/installing-zprezto-a-quick-guide/&#34;&gt;How to install Prezto with zsh for your OS X terminal&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/&#34;&gt;Spotify Engineering Culture Part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/&#34;&gt;Spotify Engineering Culture Part 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>My current read book is Clean Code, by Robert C. Martin. This is a MUST book, and it&amp;rsquo;s some kind embarrassing I didn&amp;rsquo;t read it before.
+I&amp;rsquo;m also attending the &amp;ldquo;Learning how to learn&amp;rdquo; course at Coursera.
+With the book, I&amp;rsquo;m trying to fix my fault, and with the course I&amp;rsquo;m trying to pave the road. If I want to learn a lot of things, I need to know how to become efficient.</description>
     </item>
     
   </channel>

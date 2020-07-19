@@ -1,82 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Learnings and thoughts</title>
-    <link>http://magonye.github.io/post/index.xml</link>
+    <link>http://magonye.github.io/post/</link>
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jun 2018 08:09:56 +0200</lastBuildDate>
-    <atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate>
     
-    <item>
-      <title>Another step</title>
-      <link>http://magonye.github.io/post/another-step/</link>
-      <pubDate>Tue, 19 Jun 2018 08:09:56 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/another-step/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from wen8707270&#34;&gt;&lt;img src=&#34;https://magonye.github.io/img/another-step.jpg&#34; /&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;
-I&amp;rsquo;ve been working almost for 6 years at the same employer. It&amp;rsquo;s been the longest period in my professional career. When you are trying to get features to production quickly within a team, and at the same time learning new things and trying to refactor and improve your architecture, most of the time you don&amp;rsquo;t realize about how fast time happens.&lt;/p&gt;
-
-&lt;p&gt;But then, something happens. Maybe it is a teammate that leave the team (&lt;em&gt;you know who you are, don&amp;rsquo;t you?&lt;/em&gt;), or a book that you are reading about software development, or maybe a talk that you are attending at a conference (&lt;em&gt;I think you also know who you are. The same guy that wrote the book!&lt;/em&gt;) &amp;hellip; then you stop, you look back your shoulder, and you ask yourself: Are you proud of what you&amp;rsquo;ve achieved? Are you in the best place you can be? Are you still learning and enjoying it?&lt;/p&gt;
-
-&lt;h1 id=&#34;past&#34;&gt;Past&lt;/h1&gt;
-
-&lt;p&gt;I started as a software developer more than twenty years ago. I finished Computer Science studies at &lt;a href=&#34;https://www.fib.upc.edu/en&#34; target=&#34;_blank&#34;&gt;Facultat d&amp;rsquo;Informatica de Barcelona&lt;/a&gt;. With almost no knowledge about &amp;ldquo;real&amp;rdquo; software development, I started working with some university mates. It was a time when everything was new to me. And I enjoyed a lot.&lt;/p&gt;
-
-&lt;p&gt;During the following years, I worked on several different projects. All of them started pretty well, but a lot ended as a nightmare. I thought that software development was all about project failures. Was inevitable the frustration of the client and the developer? Why projects never ended well? Why did nobody know how to plan a project that, in the end, the client&amp;rsquo;s needs were successful satisfied?&lt;/p&gt;
-
-&lt;p&gt;I also changed a few times of company. On each one, I left very good friends.&lt;/p&gt;
-
-&lt;h1 id=&#34;present&#34;&gt;Present&lt;/h1&gt;
-
-&lt;p&gt;I finally ended at my current employer. I felt like a senior software developer, with a lot of experience and knowledge. I really felt like I could handle almost every project. And tried hard to break the big monolith we still have here. But it was hard and very difficult. And I couldn&amp;rsquo;t succeed. Neither my team. We were all very experienced software developers, but we lacked a lot of skills. Some of them were obvious, such as TDD or Design. Others were not so obvious, such communication or devops.&lt;/p&gt;
-
-&lt;p&gt;At this point, with a lot of help from &lt;a href=&#34;https://codurance.com/&#34; target=&#34;_blank&#34;&gt;Codurance&lt;/a&gt;, we started a long journey. We started to improve as software developers. And we started to fill the gaps in our skills and the culture of continuous improvement. It was really the best year of my professional career. To summarize, I realized the importance of working with people with the same mindset, and that there are a lot of things to learn and there always will be.&lt;/p&gt;
-
-&lt;p&gt;I also met people to follow as professionals. They were acting as mentors to me. Something that I never had before.&lt;/p&gt;
-
-&lt;h1 id=&#34;future&#34;&gt;Future&lt;/h1&gt;
-
-&lt;p&gt;Nobody knows the future. Our professional careers are plenty of steps, as a ladder, we are climbing (&lt;a href=&#34;https://www.youtube.com/watch?v=Fya3Q3AJyVM&#34; target=&#34;_blank&#34;&gt;see this video&lt;/a&gt;). Each step is risky, but also an opportunity to improve. And as much prepared as you are to take a decision, less afraid you are of being wrong. And there is where I am, right now.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m making another step in my career. And a new challenge is starting. Bye bye comfort zone! I&amp;rsquo;m going to start again, I will meet new developers, with different experiences and background than me. I will be part of a different team. And they will teach me a lot of new things, and I will try to show them something in return. Because, in the end, now I think this is what software development is all about.&lt;/p&gt;
-
-&lt;h1 id=&#34;acknowledges&#34;&gt;Acknowledges&lt;/h1&gt;
-
-&lt;p&gt;My first thoughts are for all the people that were with me from the beginning of this journey: Joaquin (&lt;a href=&#34;https://twitter.com/joaquin_caro&#34; target=&#34;_blank&#34;&gt;@joaquin_caro&lt;/a&gt;), Lau (&lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;@laurentiumarcut&lt;/a&gt;), Victor (&lt;a href=&#34;https://twitter.com/victorandevert&#34; target=&#34;_blank&#34;&gt;@victorandevert&lt;/a&gt;), Jordi (&lt;a href=&#34;https://twitter.com/jordifr&#34; target=&#34;_blank&#34;&gt;@jordifr&lt;/a&gt;) and Marc (&lt;a href=&#34;https://twitter.com/marcvege&#34; target=&#34;_blank&#34;&gt;@marcvege&lt;/a&gt;). They were the &amp;ldquo;original&amp;rdquo; members of my team. It&amp;rsquo;s been my most enjoyable professional experience so far.&lt;/p&gt;
-
-&lt;p&gt;I also would like to thank Sandro (&lt;a href=&#34;https://twitter.com/sandromancuso&#34; target=&#34;_blank&#34;&gt;@sandromancuso&lt;/a&gt;) and Mash (&lt;a href=&#34;https://twitter.com/mashooq&#34; target=&#34;_blank&#34;&gt;@mashooq&lt;/a&gt;). They helped us and guided us at the beginning. With their knowledge, support, advice, and friendship, everything would have been harder.&lt;/p&gt;
-
-&lt;p&gt;Finally, Alvaro (&lt;a href=&#34;https://twitter.com/alvarobiz&#34; target=&#34;_blank&#34;&gt;@alvarobiz&lt;/a&gt;) and Rachel (&lt;a href=&#34;https://twitter.com/bberrycarmen&#34; target=&#34;_blank&#34;&gt;@bberrycarmen&lt;/a&gt;), who followed what Sandro and Mash started. They spent some months with our team, mentoring us and raising up the bar. I hope we could be friends forever. You gave me so much!!&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;ttps://pixabay.com/en/users/wen8707270-612284/&#34; target=&#34;_blank&#34;&gt;wen8707270&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>april 2018</title>
-      <link>http://magonye.github.io/post/april-2018/</link>
-      <pubDate>Fri, 04 May 2018 14:30:56 +0200</pubDate>
-      
-      <guid>http://magonye.github.io/post/april-2018/</guid>
-      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=WlnpKUvuKnI&#34;&gt;JDD 2017: Refactoring in Business World&amp;hellip; for Developers? (Włodek Krakowski)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?time_continue=4&amp;amp;v=z4qvIaJhSkU&#34;&gt;Tic-Tac-Toe Speedrun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/03/31/rereading-the-mythical-man-month/&#34;&gt;Rereading the Mythical Man Month by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://marcus-biel.com/java-beginner-course/&#34;&gt;Java Course for Beginners by Marcus Biel&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-04-24-intermediate-step-gilded-rose-kata/&#34;&gt;Intermediate step of Gilded Rose Kata by Raquel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>march 2018</title>
@@ -84,28 +17,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Tue, 03 Apr 2018 16:56:56 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/march-2018/</guid>
-      <description>&lt;p&gt;This month I finished the book &lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34;&gt;Extreme Programming Explained&lt;/a&gt;. And I&amp;rsquo;m starting reading the book &lt;a href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;&gt;The Pragmatic Programmer&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.codemanship.co.uk/backtobasics.pdf&#34;&gt;Back To The Basics by Jason Gorman&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/12/08/introducing-idd/&#34;&gt;Introduction to IDD by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/03/07/growing-your-career/&#34;&gt;Growing your career by Nacho&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2018/02/27/duplication-you-are-welcome/&#34;&gt;Duplication, you&amp;rsquo;re welcome by Rachel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34;&gt;XP Simplicity Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BeckDesignRules.html&#34;&gt;Kent Beck Design Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.iterate.no/2012/06/20/programming-like-kent-beck/&#34;&gt;Programming like Kent Beck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.codinghorror.com/the-last-responsible-moment/&#34;&gt;The last responsible moment&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/pedromsantos/should-code-have-an-expiry-date-4i0p&#34;&gt;Should code have an expiry date?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.oracle.com/java-platform-group/introducing-java-se-10&#34;&gt;Introducing Java SE 10&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?feature=youtu.be&amp;amp;v=X0tjziAQfNQ&amp;amp;app=desktop&#34;&gt;10 Tips for failing badly at Microservices by David Schmitz&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.monterail.com/blog/solid-principles-cheatsheet-printable&#34;&gt;Solid Principles cheatsheet printable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>This month I finished the book Extreme Programming Explained. And I&amp;rsquo;m starting reading the book The Pragmatic Programmer.
+I read all these post and watched these videos during this month:
+ Back To The Basics by Jason Gorman Introduction to IDD by Sandro Mancuso Growing your career by Nacho Duplication, you&amp;rsquo;re welcome by Rachel M. Carmena XP Simplicity Rules Kent Beck Design Rules Programming like Kent Beck The last responsible moment Should code have an expiry date?</description>
     </item>
     
     <item>
@@ -114,126 +28,7 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Wed, 21 Mar 2018 08:37:49 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/simple-design/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;https://pixabay.com/en/users/FelixMittermeier-4397258/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from FelixMittermeier&#34;&gt;&lt;img src=&#34;https://magonye.github.io/img/simple-design.jpg&#34; /&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;
-Several months ago, I wrote about some known design principles: SOLID, YAGNI, DRY, &amp;hellip;.. (you can read the full post &lt;a href=&#34;../../post/design-principles/&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;). I was looking to understand and follow these principles for a goal: to write better code. And when I talk about &amp;ldquo;better&amp;rdquo; code, I mean readable and maintainable code. Code that every developer in a company should be able to maintain in a future. No matter if I&amp;rsquo;m still in the company or not.&lt;/p&gt;
-
-&lt;p&gt;I have to admit that some of the principles that I wrote about were tough to understand to me. And they were tougher to apply on my daily basis work. In fact, sometimes, when applying some of the SOLID principles in our code, it can look more unreadable and unmaintainable than before. What the hell!!! What was happening here?&lt;/p&gt;
-
-&lt;p&gt;It could be that design patterns are good, when they apply to a concrete scenario. So, I thought that it was needed some higher-level rules, not so specific, that I might apply, if not always, most of the times. The following post tries to explain some rules I started to follow in order to achieve that better design that we all are looking for.&lt;/p&gt;
-
-&lt;h2 id=&#34;rules-of-simple-design&#34;&gt;Rules of Simple Design&lt;/h2&gt;
-
-&lt;p&gt;Design should be a constant in our work, an improvement process that make us to have a Better Design, instead of a Good Design. There is no formula for that Good Design.&lt;/p&gt;
-
-&lt;p&gt;In order to achieve this improvement, what has sense to me is to think in a Simple Design, easy to change, and that fits in what I think a Better Design should be.&lt;/p&gt;
-
-&lt;p&gt;For that purpose, Kent Beck created the &lt;strong&gt;4 Rules of Simplicity&lt;/strong&gt;, and they became tremendous known when they appeared on &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34; target=&#34;_blank&#34;&gt;Clean Code&lt;/a&gt; book by &lt;a href=&#34;https://twitter.com/unclebobmartin&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Passes all the tests.&lt;/li&gt;
-&lt;li&gt;Expresses every idea that we need to express.&lt;/li&gt;
-&lt;li&gt;Says everything one and only once.&lt;/li&gt;
-&lt;li&gt;Has no superfluous parts.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Looking for brevity, the following rules could work as well:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Tests pass&lt;/li&gt;
-&lt;li&gt;Express Intent&lt;/li&gt;
-&lt;li&gt;No duplication&lt;/li&gt;
-&lt;li&gt;Small&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;These are 4 statements or commands, presented as a workflow. These 4 rules combine each other with the following one and they should be iterated until we feel our code is clear and simple enough.&lt;/p&gt;
-
-&lt;h2 id=&#34;values&#34;&gt;Values&lt;/h2&gt;
-
-&lt;p&gt;Sometime after that, Kent Beck wrote a book called &lt;a href=&#34;https://www.goodreads.com/book/show/781559.Implementation_Patterns&#34; target=&#34;_blank&#34;&gt;Implementation Patterns&lt;/a&gt;, and he described the values that were behind his 4 rules. These values are consistent with excellence in programming. I&amp;rsquo;m trying to have them in mind when I write software:&lt;/p&gt;
-
-&lt;h3 id=&#34;communication&#34;&gt;Communication&lt;/h3&gt;
-
-&lt;p&gt;As &lt;a href=&#34;https://www.goodreads.com/quotes/835238-indeed-the-ratio-of-time-spent-reading-versus-writing-is&#34; target=&#34;_blank&#34;&gt;Robert C. Martin said&lt;/a&gt;, we spend more time reading code than writing new one. As a programmer, we should know that we are not only writing code to satisfy a feature. We are also writing code for the programmer that will change that code in the future (maybe ourselves, maybe another programmer).&lt;/p&gt;
-
-&lt;p&gt;For that reason, we need to communicate as much as possible, and we should also break some rules if, breaking that rules, the code communicates better. Who will care in the future if our code is clean code, if nobody understands it?&lt;/p&gt;
-
-&lt;h3 id=&#34;simplicity&#34;&gt;Simplicity&lt;/h3&gt;
-
-&lt;p&gt;In order to understand code, it should be simple. Simple solutions communicate better than complex and smart ones. We need to eliminate complexity of our code. Simplicity should help our code to communicate its purpose. The only reason to keep something more complex should be for the communication.&lt;/p&gt;
-
-&lt;h3 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h3&gt;
-
-&lt;p&gt;Sometimes we write code that tries to satisfy a future feature. We try our software to be flexible to future changes, and sometimes these changes come, but sometimes they never come. That flexibility makes our code complex and hard to maintain.&lt;/p&gt;
-
-&lt;p&gt;Our code should be flexible to allow new changes to come, but not anticipating them. Postponing decisions to the last responsible moment, let you have more information to take into account. Sometimes, when we try to anticipate a feature, we don&amp;rsquo;t have enough information yet. If we postpone the decision until the last possible moment, we have more chance to be successful.&lt;/p&gt;
-
-&lt;h2 id=&#34;learnings&#34;&gt;LEARNINGS&lt;/h2&gt;
-
-&lt;p&gt;I have spent the majority of my professional career as a developer thinking that smart and complex solutions were better. I tried hard to understand code from colleagues that were hard to understand. And I though these developers were awesome and were creating better code than I was.
-These times were time of cowboy coders, with no vision of team membership.&lt;/p&gt;
-
-&lt;p&gt;And at some point, in my professional career, I started to work in a team with strong sense of team, a team with a common and clear purpose. And the code didn&amp;rsquo;t belong to me anymore, the code belonged to the team.&lt;/p&gt;
-
-&lt;p&gt;Having these values and applying these rules helps the team with its purpose: to create amazing new features, modify existing ones, but also allowing any member of the team to work on any part of our codebase. There is no magic, and problems on new feature are still there, but I think we are minimizing problems of readability and maintenance. Our solutions are now simpler than before, and for that reason, our codebase is more flexible and allow us to add new behavior with less effort.&lt;/p&gt;
-
-&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-
-&lt;p&gt;I would like to thank &lt;a href=&#34;https://twitter.com/venkat_s&#34; target=&#34;_blank&#34;&gt;Dr. Venkat Subramaniam&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/fran_reyes&#34; target=&#34;_blank&#34;&gt;Fran Reyes&lt;/a&gt; for the inspiration.&lt;/p&gt;
-
-&lt;p&gt;I was attending the Barcelona Java Conference 2017, and the opening key note was &amp;ldquo;The Art of Simplicity&amp;rdquo;, by &lt;a href=&#34;https://twitter.com/venkat_s&#34; target=&#34;_blank&#34;&gt;Dr. Venkat Subramaniam&lt;/a&gt;. You can see the full video &lt;a href=&#34;https://www.youtube.com/watch?v=Z-8ZGgGadHU&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
-The talk was very inspirational, about the art of making things simple. At the end of the talk, I had the feeling that the search of the simplicity, as itself, was a challenge, and it required a lot to practice, in order to be mastered.&lt;/p&gt;
-
-&lt;p&gt;Later on, at the Community of Practice that we are running at our work, we saw the video &amp;ldquo;Values and Principles in Software Design&amp;rdquo; by @fran_reyes. The talk was originally made at CAS2017, it&amp;rsquo;s in Spanish, and you can see the full video &lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. This video talks about Kent Beck&amp;rsquo;s values and principles, and examples and advices about how to apply them.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s the tweet I made of that session:
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;: Values and Principles in Software Design by &lt;a href=&#34;https://twitter.com/fran_reyes?ref_src=twsrc%5Etfw&#34;&gt;@fran_reyes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/alwaysLearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwaysLearning&lt;/a&gt; &lt;a href=&#34;https://t.co/xwC7sj6F8C&#34;&gt;pic.twitter.com/xwC7sj6F8C&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/961634605576196096?ref_src=twsrc%5Etfw&#34;&gt;February 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&#34;kent-beck&#34;&gt;KENT BECK&lt;/h2&gt;
-
-&lt;p&gt;Everything on that post is about Kent Beck&amp;rsquo;s work. He transformed the software development world. He is the creator of &lt;a href=&#34;http://wiki.c2.com/?ExtremeProgramming&#34; target=&#34;_blank&#34;&gt;extreme programming&lt;/a&gt;, one of the original signatories of the &lt;a href=&#34;http://agilemanifesto.org/&#34; target=&#34;_blank&#34;&gt;Agile Manifesto&lt;/a&gt;, and very related to the &lt;a href=&#34;http://wiki.c2.com/?TestDrivenDevelopment&#34; target=&#34;_blank&#34;&gt;TDD&lt;/a&gt; movement.&lt;/p&gt;
-
-&lt;p&gt;If you don&amp;rsquo;t know him, I recommend you start looking for his work.&lt;/p&gt;
-
-&lt;h2 id=&#34;more-info&#34;&gt;More info&lt;/h2&gt;
-
-&lt;p&gt;If you are interested in going further on that topic, here you can find some resources that inspired me, and I recommend you read:&lt;/p&gt;
-
-&lt;p&gt;Books:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/781559.Implementation_Patterns&#34; target=&#34;_blank&#34;&gt;Implementation Patterns&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design&#34; target=&#34;_blank&#34;&gt;Understanding the Four Rules of Simple Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34; target=&#34;_blank&#34;&gt;Extreme Programming Explained: Embrace Change&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34; target=&#34;_blank&#34;&gt;Clean Code: A Handbook of Agile Software Craftsmanship&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34; target=&#34;_blank&#34;&gt;Xp - Simplicity Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/bliki/BeckDesignRules.html&#34; target=&#34;_blank&#34;&gt;Beck Design Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.iterate.no/2012/06/20/programming-like-kent-beck/&#34; target=&#34;_blank&#34;&gt;Programming like Kent Beck&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Videos:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Z-8ZGgGadHU&#34; target=&#34;_blank&#34;&gt;JBCNConf 2017 - Venkat Subramaniam - The Art of Simplicity&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34; target=&#34;_blank&#34;&gt;CAS2017 - Fran Reyes - Values and Principles in Software Design&lt;/a&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-What do you think about Simple Design? Are you trying to create code that communicates, is simple and flexible?
-Any feedback will be very appreciated.&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;https://pixabay.com/en/users/FelixMittermeier-4397258/&#34; target=&#34;_blank&#34;&gt;FelixMittermeier&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Several months ago, I wrote about some known design principles: SOLID, YAGNI, DRY, &amp;hellip;.. (you can read the full post here). I was looking to understand and follow these principles for a goal: to write better code. And when I talk about &amp;ldquo;better&amp;rdquo; code, I mean readable and maintainable code. Code that every developer in a company should be able to maintain in a future. No matter if I&amp;rsquo;m still in the company or not.</description>
     </item>
     
     <item>
@@ -242,29 +37,9 @@ Any feedback will be very appreciated.&lt;/p&gt;
       <pubDate>Sun, 04 Mar 2018 11:34:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/february-2018/</guid>
-      <description>&lt;p&gt;This month I read the book &lt;a href=&#34;https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design&#34;&gt;Understanding the Four Rules of Simple Design&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@benleitmanis/who-is-jordan-peterson-71e0b4b1a2ae&#34;&gt;Who is Jordan Peterson?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/practicecomesfirst/dr-jordan-b-petersons-10-step-guide-to-clearer-thinking-through-essay-writing-1ab79a94937&#34;&gt;Dr. Jordan Peterson&amp;rsquo;s 10 step guide to clearer thinking through essay writing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective&#34;&gt;The 12 Factor App: a java developers perspective&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.clearlytech.com/2014/01/04/12-factor-apps-plain-english/&#34;&gt;12 Factor App in plain english&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.adictosaltrabajo.com/tutoriales/el-manifiesto-the-twelve-factor-app/&#34;&gt;El manifiesto the Twelve Factor App&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://12factor.net/&#34;&gt;12 Factor App&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://alvinalexander.com/scala/what-does-three-question-marks-in-scala-mean&#34;&gt;What does three question marks in scala mean&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hbggtXmQcf8&#34;&gt;Continuous Delivery: Germinando una cultura Agile moderna - by Edu Ferro&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://martinfowler.com/articles/practical-test-pyramid.html&#34;&gt;Practical Test Pyramid by Martin Fowler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2018-02-23-software-as-a-craft/&#34;&gt;Software as a Craft by Rachel M. Carmena&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@Empanado/process-driven-rest-api-design-75ca88917582&#34;&gt;Process Driven Rest Api Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;MVC Delivery Mechanism by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/23/outside-in-design/&#34;&gt;Outside-in Design by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>This month I read the book Understanding the Four Rules of Simple Design.
+I read all these post and watched these videos during this month:
+ Who is Jordan Peterson? Dr. Jordan Peterson&amp;rsquo;s 10 step guide to clearer thinking through essay writing The 12 Factor App: a java developers perspective 12 Factor App in plain english El manifiesto the Twelve Factor App 12 Factor App What does three question marks in scala mean Continuous Delivery: Germinando una cultura Agile moderna - by Edu Ferro Practical Test Pyramid by Martin Fowler Software as a Craft by Rachel M.</description>
     </item>
     
     <item>
@@ -273,99 +48,7 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/jenkins-kata/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/pipeline.jpg&#34; /&gt;
-&lt;a style=&#34;margin:.50em; float: right; background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;&#34; href=&#34;https://pixabay.com/en/users/Tama66-1032521/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Tama66&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;&lt;/title&gt;&lt;path d=&#34;M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;Tama66&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;Some time ago other team was managing the pipeline of my team&amp;rsquo;s applications, and they were also testing and deploying our applications.&lt;/p&gt;
-
-&lt;p&gt;This separation of responsibility between creating the software and making it run was leading us to:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;No ownership of the deployment process&lt;/strong&gt;: feeling of non responsibility within the team.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Errors on environments&lt;/strong&gt;: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;No knowledge of AWS&lt;/strong&gt;: the team had no much knowledge of the cloud platform our applications were being running. This was no motivating and frustrating.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;No autonomy&lt;/strong&gt;: Some projects or tasks required the synchronization and help of other teams.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That&amp;rsquo;s why my team started the DevOps journey.&lt;/p&gt;
-
-&lt;p&gt;One of our firsts problems was our knowledge about some tools needed to create a pipeline.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;Lau Marcut&lt;/a&gt;, a terrific team colleague, made a push on this topic, and started learning everything he could about DevOps, and in a few time, he became a referent in this area. He prepared an exercise, very similar to the well-know coding katas, to train us to build a non complex pipeline.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;DISCLAIMER&lt;/strong&gt;: Jenkins is the tool we chose, but there are other good tools, such as CircleCI, Travis, &amp;hellip; It&amp;rsquo;s up to you to choose the most convenient tool for your purpose.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-kata&#34;&gt;The Kata&lt;/h1&gt;
-
-&lt;p&gt;The CI/CD Pipeline Kata was divided in two parts. You can find them in the following links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Marcut-Laurentiu/kata-jenkins&#34; target=&#34;_blank&#34;&gt;Jenkins Kata - part 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Marcut-Laurentiu/kata-jenkins-part-2&#34; target=&#34;_blank&#34;&gt;Jenkins Kata - part 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;first-part&#34;&gt;First part&lt;/h3&gt;
-
-&lt;p&gt;The first part tries to get you familiar with &lt;a href=&#34;https://jenkins.io/&#34; target=&#34;_blank&#34;&gt;Jenkins&lt;/a&gt; and &lt;code&gt;Jenkinsfile&lt;/code&gt;, that is a file where all your pipeline script is stored, allowing you to use source control, code review and audit trail. In the exercise there is no Jenkins local installation, and everything is run from a &lt;a href=&#34;https://docs.docker.com/&#34; target=&#34;_blank&#34;&gt;Docker&lt;/a&gt; container.&lt;/p&gt;
-
-&lt;p&gt;Through this exercise, you will need to install some plugins in Jenkins, in order to build your application in a JAR file and upload it to an AWS S3 bucket, publish the jUnit results, and send a notifications to a Slack channel.&lt;/p&gt;
-
-&lt;p&gt;We ran this exercise in our Community of Practice, so we could share this experience with members of other teams. Here you can see the tweet of this event:
-&lt;center&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;: &lt;a href=&#34;https://twitter.com/hashtag/jenkins?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#jenkins&lt;/a&gt; pipeline kata by &lt;a href=&#34;https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw&#34;&gt;@laurentiumarcut&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/continuousdelivery?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#continuousdelivery&lt;/a&gt;  &lt;a href=&#34;https://twitter.com/hashtag/alwayslearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwayslearning&lt;/a&gt; &lt;a href=&#34;https://t.co/Rr9R6nSjjr&#34;&gt;pic.twitter.com/Rr9R6nSjjr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/920978985412104192?ref_src=twsrc%5Etfw&#34;&gt;October 19, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
-&lt;/center&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;second-part&#34;&gt;Second part&lt;/h3&gt;
-
-&lt;p&gt;The second part is a more challenging exercise. Some knowledge about Jenkins and building a pipeline is required. The first part of the Jenkins kata is an excellent introduction to the second part, so I suggest you to do it first!!&lt;/p&gt;
-
-&lt;p&gt;We will learn how to use &lt;a href=&#34;https://jenkins.io/doc/book/pipeline/docker/&#34; target=&#34;_blank&#34;&gt;Docker with Pipeline&lt;/a&gt;, an incredible way to run dependencies, as Maven or AWS client, without installation needed. You just run it from a docker image, just this way:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker.image(&amp;quot;maven:3.5.0&amp;quot;).inside() {
-    sh &amp;quot;mvn -version&amp;quot;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;We will also learn how to use parallelism at stage level, with &lt;a href=&#34;https://jenkins.io/blog/2017/09/25/declarative-1/&#34; target=&#34;_blank&#34;&gt;Parallel stages&lt;/a&gt;, how to use an input to implement a manual confirmation before run some steps with &lt;a href=&#34;https://jenkins.io/doc/pipeline/steps/pipeline-input-step/&#34; target=&#34;_blank&#34;&gt;Pipeline: Input Step&lt;/a&gt; and other great features to enrich your pipeline, such as &lt;a href=&#34;https://jenkins.io/projects/blueocean/&#34; target=&#34;_blank&#34;&gt;BlueOcean&lt;/a&gt;, &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;Lockable Resource plugin&lt;/a&gt;, &lt;a href=&#34;https://wiki.jenkins.io/display/JENKINS/Pipeline+Milestone+Step+Plugin&#34; target=&#34;_blank&#34;&gt;Pipeline Milestone Step plugin&lt;/a&gt;, &lt;a href=&#34;https://jenkins.io/doc/pipeline/steps/workflow-basic-steps/#code-timeout-code-enforce-time-limit&#34; target=&#34;_blank&#34;&gt;Timeout step&lt;/a&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Here you can see the tweet of this event:&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Community of Practice at &lt;a href=&#34;https://twitter.com/Mango?ref_src=twsrc%5Etfw&#34;&gt;@Mango&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/jenkis?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#jenkis&lt;/a&gt; kata part 2 by &lt;a href=&#34;https://twitter.com/laurentiumarcut?ref_src=twsrc%5Etfw&#34;&gt;@laurentiumarcut&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/alwayslearning?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#alwayslearning&lt;/a&gt; &lt;a href=&#34;https://t.co/fgbGqOrF35&#34;&gt;pic.twitter.com/fgbGqOrF35&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mike Gonzalez (@MikeGonYe) &lt;a href=&#34;https://twitter.com/MikeGonYe/status/933681376959827968?ref_src=twsrc%5Etfw&#34;&gt;November 23, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;the-learning&#34;&gt;The Learning&lt;/h1&gt;
-
-&lt;p&gt;The best way to learn how to use some tool or technique is by using. That&amp;rsquo;s why coding katas became so popular. The repetition of some exercises, repeating the process again and again, in a safe environment, helps to acquire the expertice, by experiencing rather than reading.&lt;/p&gt;
-
-&lt;p&gt;We tend to think some tool or tech is difficult, but in fact, it should be simple but not familiar for us. The usage and try by our own, can turn this unfamiliarity to more comfortable knowledge. That&amp;rsquo;s one of the more important learning we got on the DevOps journey, and on this kata in particular.&lt;/p&gt;
-
-&lt;p&gt;Running a workshop is also a good experience for the facilitator:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;You get feedback from colleagues, and it helps you to improve your skills.&lt;/li&gt;
-&lt;li&gt;You go one step forward in the topic, as need to have all concepts deeply learned to explain them clearly to a less experienced people.&lt;/li&gt;
-&lt;li&gt;You can interact with people that usually you don&amp;rsquo;t work with. It can improve your relationship with other team&amp;rsquo;s members.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Finally, I would like to thanks again to &lt;a href=&#34;https://twitter.com/laurentiumarcut&#34; target=&#34;_blank&#34;&gt;Lau Marcut&lt;/a&gt; for helping the team to achieve knowledge about Continuous Delivery so quickly, and also for being so amazing and stunning team mate.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-What do you think about the Jenkins kata? Are you building your own pipeline?
-Any feedback will be very appreciated.&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;https://pixabay.com/en/users/Tama66-1032521/&#34; target=&#34;_blank&#34;&gt;Tama66&lt;/a&gt; on &lt;a href=&#34;https://pixabay.com/&#34; target=&#34;_blank&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>slslslsl</description>
     </item>
     
     <item>
@@ -374,19 +57,9 @@ Any feedback will be very appreciated.&lt;/p&gt;
       <pubDate>Mon, 05 Feb 2018 08:24:53 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/january-2018/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve started two new books: &lt;a href=&#34;https://www.goodreads.com/book/show/36453393-functional-programming-simplified&#34;&gt;Functional Programming, Simplified: (Scala edition)&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/67833.Extreme_Programming_Explained&#34;&gt;Extreme Programming Explained: Embrace Change (The XP Series)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://go.divante.co/microservices-architecture-ecommerce/&#34;&gt;Microservices Architecture for eCommerce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=sXLCBcELu5Y&#34;&gt;Valores y principios en el diseño del software - Fran Reyes #CAS2017&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=7EVXypZDOos&#34;&gt;Kotlin for Java Programmers by Venkat Subramaniam&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;ve started two new books: Functional Programming, Simplified: (Scala edition) and Extreme Programming Explained: Embrace Change (The XP Series).
+I read all these post and watched these videos during this month:
+ Microservices Architecture for eCommerce Valores y principios en el diseño del software - Fran Reyes #CAS2017 Kotlin for Java Programmers by Venkat Subramaniam  Always learning!! Always improving!! Always sharing!!</description>
     </item>
     
     <item>
@@ -395,24 +68,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Tue, 09 Jan 2018 08:13:49 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/december-2017/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m actualy doing the &lt;a href=&#34;https://www.coursera.org/specializations/scala&#34;&gt;Coursera&lt;/a&gt; course &amp;ldquo;&lt;strong&gt;Functional Programming Principles in Scala&lt;/strong&gt;&amp;rdquo; by &lt;em&gt;École Polytechnique Fédérale de Lausanne&lt;/em&gt;. This course is part of the Functional Programming in Scala Specialization. This course is taught by &lt;a href=&#34;https://www.coursera.org/instructor/~672627&#34;&gt;Martin Odersky&lt;/a&gt;, and it&amp;rsquo;s a great way to discover functional programming in Scala. I recommend it!&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.joantolos.com/blog/kata/&#34;&gt;Joan Tolos: Social Networking kata&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ustream.tv/recorded/61480606&#34;&gt;Sandro Mancuso: IDD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/matchilling/pragmatically-storing-security-sensitive-data-using-aws-kms-5e5b&#34;&gt;Pragmatically storing security sensitive data using AWS KMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://aws.amazon.com/blogs/security/how-to-help-protect-sensitive-data-with-aws-kms/&#34;&gt;How to help protect sensitive data with AWS KMS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=e95dtPPUfVY&#34;&gt;Codemotion 2017: Node.js para Javeros. Conoce a tu enemigo (Micael Gallego)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-x127e6T2Zg&#34;&gt;Codemotion 2017: Creating a culture of learning at Tuenti (Joaquin Engelmo Moriche, Fina Perez)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=grvvKURwGNg&#34;&gt;Scala for the Intrigued by Venkat Subramaniam&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=3jg1AheF4n0&#34;&gt;OSCON Java 2011: Working Hard to Keep It Simple by Martin Odersky&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m actualy doing the Coursera course &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; by École Polytechnique Fédérale de Lausanne. This course is part of the Functional Programming in Scala Specialization. This course is taught by Martin Odersky, and it&amp;rsquo;s a great way to discover functional programming in Scala. I recommend it!
+I read all these post and watched these videos during this month:
+ Joan Tolos: Social Networking kata Sandro Mancuso: IDD Pragmatically storing security sensitive data using AWS KMS How to help protect sensitive data with AWS KMS Codemotion 2017: Node.</description>
     </item>
     
     <item>
@@ -421,25 +79,8 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Mon, 04 Dec 2017 08:10:01 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/november-2017/</guid>
-      <description>&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/syLjjmRgTsE&#34;&gt;LSCConf 2017 Nat Pryce&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/gNmsWP1LKKs&#34;&gt;LSCConf 2017 Alex Bolboaca&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dzone.com/articles/4-rules-simple-design&#34;&gt;4 Rules for Simple Design&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://wiki.c2.com/?XpSimplicityRules&#34;&gt;XP Simplicity Rules&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-think-red-green-refactor-episode-1/&#34;&gt;Adi Bolboaca: TDD as if you meant it 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/08/tdd-as-if-you-meant-it-i-care-about-behavior-and-not-about-representation-episode-2/&#34;&gt;Adi Bolboaca: TDD as if you meant it 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-primitives-to-concepts-episode-3/&#34;&gt;Adi Bolboaca: TDD as if you meant it 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactor-to-a-new-class-episode-4/&#34;&gt;Adi Bolboaca: TDD as if you meant it 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-refactoring-to-builder-episode-5/&#34;&gt;Adi Bolboaca: TDD as if you meant it 5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/09/tdd-as-if-you-meant-it-rsome-traditional-tdd-part-1-episode-6/&#34;&gt;Adi Bolboaca: TDD as if you meant it 6&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://blog.adrianbolboaca.ro/2017/10/tdd-as-if-you-meant-it-some-traditional-tdd-part-2-episode-7/&#34;&gt;Adi Bolboaca: TDD as if you meant it 7&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I read all these post and watched these videos during this month:
+ LSCConf 2017 Nat Pryce LSCConf 2017 Alex Bolboaca 4 Rules for Simple Design XP Simplicity Rules Adi Bolboaca: TDD as if you meant it 1 Adi Bolboaca: TDD as if you meant it 2 Adi Bolboaca: TDD as if you meant it 3 Adi Bolboaca: TDD as if you meant it 4 Adi Bolboaca: TDD as if you meant it 5 Adi Bolboaca: TDD as if you meant it 6 Adi Bolboaca: TDD as if you meant it 7  Always learning!</description>
     </item>
     
     <item>
@@ -448,120 +89,9 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Fri, 10 Nov 2017 08:48:16 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/design-principles/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/design-principles.jpg&#34; /&gt;
-&lt;a style=&#34;margin:.50em; float: right; background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Ubuntu, Roboto, Noto, &amp;quot;Segoe UI&amp;quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px;&#34; href=&#34;https://unsplash.com/@yer_a_wizard?utm_medium=referral&amp;amp;utm_campaign=photographer-credit&amp;amp;utm_content=creditBadge&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34; title=&#34;Download free do whatever you want high-resolution photos from Fleur Treurniet&#34;&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; style=&#34;height:12px;width:auto;position:relative;vertical-align:middle;top:-1px;fill:white;&#34; viewBox=&#34;0 0 32 32&#34;&gt;&lt;title&gt;&lt;/title&gt;&lt;path d=&#34;M20.8 18.1c0 2.7-2.2 4.8-4.8 4.8s-4.8-2.1-4.8-4.8c0-2.7 2.2-4.8 4.8-4.8 2.7.1 4.8 2.2 4.8 4.8zm11.2-7.4v14.9c0 2.3-1.9 4.3-4.3 4.3h-23.4c-2.4 0-4.3-1.9-4.3-4.3v-15c0-2.3 1.9-4.3 4.3-4.3h3.7l.8-2.3c.4-1.1 1.7-2 2.9-2h8.6c1.2 0 2.5.9 2.9 2l.8 2.4h3.7c2.4 0 4.3 1.9 4.3 4.3zm-8.6 7.5c0-4.1-3.3-7.5-7.5-7.5-4.1 0-7.5 3.4-7.5 7.5s3.3 7.5 7.5 7.5c4.2-.1 7.5-3.4 7.5-7.5z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span style=&#34;display:inline-block;padding:2px 3px;&#34;&gt;Fleur Treurniet&lt;/span&gt;&lt;/a&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;
-I had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?&lt;/p&gt;
-
-&lt;p&gt;Below there is a recap of the main design principles we covered with this exercise.&lt;/p&gt;
-
-&lt;h1 id=&#34;solid-principles&#34;&gt;SOLID Principles&lt;/h1&gt;
-
-&lt;p&gt;Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;, and they are now key design principles in object oriented programming.&lt;/p&gt;
-
-&lt;p&gt;I heard some people talking about S.O.L.I.D. as if they were some kind of religion or &lt;em&gt;mantra&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;But are they so important? Let&amp;rsquo;s see each of them, one by one:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Single Responsibility Principle [S.R.P.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A class should have one and only one reason to change.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The principle is talking about classes, but you can put here whatever you want: a class, a module, a package, a component, a method &amp;hellip; as you can see, what this principle is talking about is that your software should be low coupled and high cohesive. Object and methods should have only one job. In this way, both the reasons to change a class and the number of classes to change within a feature will be minimized.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Open-Closed Principle [O.C.P.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Objects or entities should be open for extension, but closed for modification.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Although it might sound weird at the beginning, this principle is telling that your software should be easy to modify.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s easy to thing about this principle if you think on a &lt;strong&gt;switch sentence&lt;/strong&gt;. Each time you add a new case, you should touch the switch method, putting in risk every case, right?&lt;/p&gt;
-
-&lt;p&gt;I think this principle is hard to accomplish at 100%, but you can minimize the parts you should change when adding new functionality to your software. And this principle should be followed as an advice, so try to make your software easy to extend, but don&amp;rsquo;t get crazy trying so hard!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Liskov Substitution Principle [L.S.P.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This principle is a pure Object Oriented thing, it&amp;rsquo;s all about hierarchy. It&amp;rsquo;s telling that you should be careful about inheritance, and don&amp;rsquo;t make mistakes.&lt;/p&gt;
-
-&lt;p&gt;For example, if you have &lt;em&gt;rectangle&lt;/em&gt; objects with &lt;strong&gt;setHeight&lt;/strong&gt; and &lt;strong&gt;setWidth&lt;/strong&gt; methods, &lt;em&gt;square&lt;/em&gt; objects shouldn&amp;rsquo;t extend &lt;em&gt;rectangle&lt;/em&gt;, as their height and width should be the same. &lt;em&gt;Square&lt;/em&gt; objects with separate setters for height and width could bring you some inconsistencies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Interface Segregation Principle [I.S.P.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;A client should never be forced to implement an interface that it doesn&amp;rsquo;t use or clients shouldn&amp;rsquo;t be forced to depend on methods they don&amp;rsquo;t use.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This is one of the easiest principles, in my opinion. If a client doesn&amp;rsquo;t need to use a functionality, don&amp;rsquo;t make the client to implement it. It&amp;rsquo;s better to create two clients, and in this way your software can use one client or the other, depending on the functionality needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dependency Inversion Principle [D.I.P.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Entities must depend on abstractions not on concretions.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This principle encourages you to write code that depends upon abstractions rather than upon concrete details. This is, for me, one of the hardest to understand. What basically is saying is that your program should be based on concepts, not on implementations. In this way, your software will be easy to maintain, and the risks will be minimized.&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s see an example: if your software needs to use logging features, it&amp;rsquo;s better to use an interface of the logging, instead of use directly the implementation of the logging. If you should make changes on that logging functionality, your code will be safe, as it&amp;rsquo;s based on your interface, not your implementation of that logging.&lt;/p&gt;
-
-&lt;p&gt;For more information about S.O.L.I.D. you can read the &lt;a href=&#34;https://www.goodreads.com/book/show/84985.Agile_Software_Development_Principles_Patterns_and_Practices&#34; target=&#34;_blank&#34;&gt;Agile Software Development, Principles, Patterns, and Practices&lt;/a&gt; book and the following &lt;a href=&#34;http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod&#34; target=&#34;_blank&#34;&gt;post&lt;/a&gt;, both from &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34; target=&#34;_blank&#34;&gt;Robert C. Martin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;other-design-principles&#34;&gt;Other Design Principles&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;Don&amp;rsquo;t Repeat Yourself [D.R.Y.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The DRY principle states that duplication of logic should be avoided.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?DontRepeatYourself&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Keep It Simple, Stupid! [K.I.S.S.]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;KISS principle (&lt;em&gt;Keep It Simple and Small&lt;/em&gt; could be a more polite version) is talking about designing software as much simple as possible. This principle is against the over-engineering solutions that are trying to predict the future, and making them difficult to understand for new developers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?KeepItSimple&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;You Aren&amp;rsquo;t Gonna Need It [Y.A.G.N.I]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This principle states that functionality should not be added to a software program until it&amp;rsquo;s strictly necessary.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?YouArentGonnaNeedIt&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Separation of Concerns [SoC]:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Very related to the SRP, SoC is about designing you application having in mind that different concerns should be placed in different parts of your software.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://wiki.c2.com/?SeparationOfConcerns&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; you can read more about this design principle.&lt;/p&gt;
-
-&lt;h1 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h1&gt;
-
-&lt;p&gt;Design principles are very important. As much design principles you know, the more qualified you are to do your job, as they are rules, advices and guides about software design.&lt;/p&gt;
-
-&lt;p&gt;Although they are important, you should not be an obsessed of them. Principles are there to help you decide the best option when you are designing. You should know them, slowly, understanding deeply their meaning and purpose. And you should use them wisely, but also with common sense, because there is a thing more important than software design principles. And this thing is the way you code and they way you apply the principles: your craft.&lt;/p&gt;
-
-&lt;p&gt;By following design principles, you will able to make software that is:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;maintainable&lt;/li&gt;
-&lt;li&gt;usable&lt;/li&gt;
-&lt;li&gt;less coupled&lt;/li&gt;
-&lt;li&gt;more cohesive&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-What do you think about design principles? Are you following them? And what about SOLID principles?
-Any feedback will be very appreciated.&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/photos/dQf7RZhMOJU?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34; target=&#34;_blank&#34;&gt;Fleur Treurniet&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText&#34; target=&#34;_blank&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Fleur TreurnietI had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?
+Below there is a recap of the main design principles we covered with this exercise.
+SOLID Principles Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by Robert C. Martin, and they are now key design principles in object oriented programming.</description>
     </item>
     
     <item>
@@ -570,95 +100,21 @@ Any feedback will be very appreciated.&lt;/p&gt;
       <pubDate>Fri, 10 Nov 2017 08:05:53 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/october-2017/</guid>
-      <description>&lt;p&gt;This month I started a new book: &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month&lt;/a&gt;, within a Book Club.&lt;/p&gt;
-
-&lt;p&gt;I also stated watching the vide episodes by &lt;a href=&#34;https://twitter.com/adibolb&#34;&gt;Adrian Balboaca&lt;/a&gt; about &lt;a href=&#34;http://blog.adrianbolboaca.ro/evolutionary-design/&#34;&gt;TDD as if you meant it&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, I also added videos to my conferences videos, so, please, watch them and enjoy them as much as I did. You can find them &lt;a href=&#34;../categories/conferences-meetups/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/&#34;&gt;docker health check instruction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hackernoon.com/why-isnt-agile-working-d7127af1c552&#34;&gt;why isn’t agile working&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.yegor256.com/2017/03/28/solid.html&#34;&gt;SOLID by yegor&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/gonedark/stop-aliasing-core-git-commands&#34;&gt;stop aliasing core git commands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://michaelfeathers.silvrback.com/knowing-what-is-there&#34;&gt;Knowing what is there&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.genbetadev.com/programacion-en-la-nube/entendiendo-la-nube-el-significado-de-saas-paas-y-iaas&#34;&gt;entendiendo la nube: el significado de saas, paas y iaas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/amit_merchant/how-products-got-their-name-c6d&#34;&gt;How products got their names&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/10/30/lambda-world-conference/&#34;&gt;Lambda World Conference&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312&#34;&gt;Crafting better code reviews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://youtu.be/AjDcPOydSM8&#34;&gt;Craft thinking&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>This month I started a new book: The Mythical Man-Month, within a Book Club.
+I also stated watching the vide episodes by Adrian Balboaca about TDD as if you meant it.
+Finally, I also added videos to my conferences videos, so, please, watch them and enjoy them as much as I did. You can find them here.
+I read all these post and watched these videos during this month:
+ docker health check instruction why isn’t agile working SOLID by yegor stop aliasing core git commands Knowing what is there entendiendo la nube: el significado de saas, paas y iaas How products got their names Lambda World Conference Crafting better code reviews Craft thinking  </description>
     </item>
     
     <item>
       <title>Culture Of Learning: Book Club</title>
-      <link>http://magonye.github.io/post/CultureOfLearning-BookClub/</link>
+      <link>http://magonye.github.io/post/cultureoflearning-bookclub/</link>
       <pubDate>Mon, 23 Oct 2017 08:21:27 +0200</pubDate>
       
-      <guid>http://magonye.github.io/post/CultureOfLearning-BookClub/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/colbookclub.jpg&#34; alt=&#34;COL: BookClub&#34; title=&#34;COL: Book Club&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Reading books is one of the activities everyone who is interested in software should do. It&amp;rsquo;s a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it&amp;rsquo;s difficult to get time to read it, you  aren&amp;rsquo;t motivated enough, or even if you are reading the book, the book is hard to understand.&lt;/p&gt;
-
-&lt;p&gt;By reading a book in a Book Club, you will discover a new way of learning from a book. Let’s see how we’re organizing our book club.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Definition of Book Club&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;Book Club&lt;/strong&gt; is a group of people that is reading the same book at the same time. There are regular meetings, and a list of chapters to read for the next scheduled meeting. You can read more about book clubs &lt;a href=&#34;https://en.wikipedia.org/wiki/Book_discussion_club&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;how-we-started-it&#34;&gt;How we started it&lt;/h1&gt;
-
-&lt;p&gt;I tried with no success to read several tech books in the past. Most of them where very famous, as &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt; by &lt;a href=&#34;https://sites.google.com/site/unclebobconsultingllc/&#34;&gt;Robert C. Martin&lt;/a&gt;, or &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/kentbeck&#34;&gt;Kent Beck&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I never finished &lt;a href=&#34;https://www.goodreads.com/book/show/3735293-clean-code&#34;&gt;Clean Code&lt;/a&gt;, although I tried three times. I didn&amp;rsquo;t find the motivation to read it, although I think it&amp;rsquo;s a brilliant book.&lt;/p&gt;
-
-&lt;p&gt;I didn&amp;rsquo;t finish &lt;a href=&#34;https://www.goodreads.com/book/show/387190.Test_Driven_Development&#34;&gt;Test Driven Development: By Example&lt;/a&gt;. I thought I wasn&amp;rsquo;t really getting everything from the book. I was missing something.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d heard about book clubs, a different way to read a book. I talked with some fellows, and starting this activity was easy: we picked a book everyone wanted to read (the first one was &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h1 id=&#34;how-we-do-it&#34;&gt;How we do it&lt;/h1&gt;
-
-&lt;p&gt;We choose a book to read, and find people interested on read this book. We start with the first 2 or 3 chapters, depending the length of them, and we schedule a meeting to review the chapters. The meeting is regular, every two weeks usually. On the meeting, everybody talks about the chapters. There is no agenda for the meeting, just trying to share our thoughts and doubts about the book. At the end of the meeting, we choose the next chapters, and we schedule the next meeting.&lt;/p&gt;
-
-&lt;p&gt;Now, I&amp;rsquo;m happily reading two books at the same time within a book club: &lt;a href=&#34;https://www.goodreads.com/book/show/560861.Non_Violent_Communication&#34;&gt;Non Violent Communication&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Marshall_Rosenberg&#34;&gt;Marshall B. Rosenberg&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month&#34;&gt;The Mythical Man-Month: Essays on Software Engineering&lt;/a&gt; by &lt;a href=&#34;https://en.wikipedia.org/wiki/Fred_Brooks&#34;&gt;Frederick P. Brooks Jr&lt;/a&gt;. And we have a huge list of &amp;ldquo;want-to-read&amp;rdquo; books.&lt;/p&gt;
-
-&lt;p&gt;I have to admit that we didn&amp;rsquo;t start any &amp;ldquo;really&amp;rdquo; technical book. I&amp;rsquo;m not sure this kind of books will work with a book club as we are doing. Besides the book club, we are reading &lt;a href=&#34;https://www.goodreads.com/book/show/4268826-growing-object-oriented-software-guided-by-tests&#34;&gt;Growing Object-Oriented Software, Guided by Tests&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/sf105&#34;&gt;Steve Freeman&lt;/a&gt; and &lt;a href=&#34;http://www.natpryce.com/&#34;&gt;Nat Pryce&lt;/a&gt;. But we&amp;rsquo;re reading separate chapters, and guided by &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt;, a Software Craftsperson embedded in our team. This kind of books, that every single page is really full of concepts, need a different &amp;ldquo;tempo&amp;rdquo;, and you need to digest and understand what is inside every page.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-bring-us&#34;&gt;What bring us&lt;/h1&gt;
-
-&lt;p&gt;The Book Club is growing my list of read software books. I&amp;rsquo;ve read some books within the club, that I wouldn&amp;rsquo;t have read by myself. And that&amp;rsquo;s this way because the Book Club has amazing things:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It gives you the motivation of reading a book.&lt;/li&gt;
-&lt;li&gt;It allows you to ask questions about the book to other readers.&lt;/li&gt;
-&lt;li&gt;It gives you different points of view about the same topic.&lt;/li&gt;
-&lt;li&gt;It makes you feel part of a community, with a same purpose.&lt;/li&gt;
-&lt;li&gt;It gives you a pace to read a book, neither slower nor faster.&lt;/li&gt;
-&lt;li&gt;Someone can bring you light on a part of the book that maybe you read too fast or you didn&amp;rsquo;t understand so deep.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are more reasons, but the above written, for me are good enough to start a Book Club at your company, or with a group of people you know.&lt;/p&gt;
-
-&lt;h1 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h1&gt;
-
-&lt;p&gt;I would like to thank &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt; and &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mashooq Badar&lt;/a&gt; for the tremendous motivation they gave us at the beginning of this year.&lt;/p&gt;
-
-&lt;p&gt;Also I want to thank my first partners at our book club, without you, this wouldn&amp;rsquo;t have been possible: Jordi Farré, Joaquín Caro, Marc Villagrasa, Erik Torres, Alvaro García and Joan Carles Pallás. Thank you, I love you all!&lt;/p&gt;
-
-&lt;p&gt;Finally I want to thank &lt;a href=&#34;https://codurance.com/publications/author/raquel-m%20carmena/&#34;&gt;Rachel M. Carmena&lt;/a&gt; for her patience, guidance, mentoring, revision and correction of my posts.
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m writing a series of posts about &lt;a href=&#34;../../categories/culture-of-learning/&#34;&gt;&lt;strong&gt;Culture of Learning&lt;/strong&gt;&lt;/a&gt;. If you liked it, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
+      <guid>http://magonye.github.io/post/cultureoflearning-bookclub/</guid>
+      <description>Reading books is one of the activities everyone who is interested in software should do. It&amp;rsquo;s a great way to learn new things, new points of view, new theories or practices. There are several books that every developer should read. But sometimes it&amp;rsquo;s difficult to get time to read it, you aren&amp;rsquo;t motivated enough, or even if you are reading the book, the book is hard to understand.
+By reading a book in a Book Club, you will discover a new way of learning from a book.</description>
     </item>
     
     <item>
@@ -667,128 +123,9 @@ Any feedback will be very appreciated.&lt;/p&gt;
       <pubDate>Mon, 09 Oct 2017 08:21:33 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/scbcn2017/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/scbcn2017-min.png&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!&lt;/p&gt;
-
-&lt;h2 id=&#34;software-craftsmanship&#34;&gt;Software Craftsmanship&lt;/h2&gt;
-
-&lt;p&gt;There are really a lot of definitions of what is Software Craftsmanship, on &lt;em&gt;Wikipedia&lt;/em&gt; there is a extensive &lt;a href=&#34;https://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;definition&lt;/a&gt;, but I would like to write what &lt;a href=&#34;https://codurance.com/publications/author/mashooq-badar/&#34;&gt;Mash&lt;/a&gt; told me once:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Software Craftsmanship is all about learning and teaching&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you are interested on this movement, you could read the &lt;strong&gt;&lt;a href=&#34;http://manifesto.softwarecraftsmanship.org/&#34;&gt;manifesto&lt;/a&gt;&lt;/strong&gt;, and if you want to go deeper, maybe you should read the following books: &lt;a href=&#34;https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer&#34;&gt;The Pragmatic Programmer&lt;/a&gt; by &lt;a href=&#34;https://toolshed.com/&#34;&gt;Andy Hunt&lt;/a&gt; and &lt;a href=&#34;https://pragdave.me/contact&#34;&gt;Dave Thomas&lt;/a&gt;, &lt;a href=&#34;https://www.goodreads.com/book/show/1035377.Software_Craftsmanship&#34;&gt;Software Craftsmanship: The New Imperative&lt;/a&gt; by &lt;a href=&#34;http://www.mcbreen.ab.ca/&#34;&gt;Pete McBreen&lt;/a&gt; and &lt;a href=&#34;https://www.goodreads.com/book/show/23215733-the-software-craftsman&#34;&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/a&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;software-craftsmanship-barcelona&#34;&gt;Software Craftsmanship Barcelona&lt;/h2&gt;
-
-&lt;p&gt;The Software Craftsmanship Barcelona group was founded on 16th december of 2013, and now they are almost 1.500 members. You can follow them on their &lt;em&gt;Meetup&lt;/em&gt; &lt;a href=&#34;https://www.meetup.com/es/Barcelona-Software-Craftsmanship/&#34;&gt;page&lt;/a&gt;, their &lt;em&gt;Twitter&lt;/em&gt; &lt;a href=&#34;https://twitter.com/bcnswcraft/&#34;&gt;account&lt;/a&gt; and the &lt;a href=&#34;http://scbcn.github.io/&#34;&gt;web page&lt;/a&gt; for the event.&lt;/p&gt;
-
-&lt;p&gt;They regularly organize coding katas, usually on monday, and they are really great. You can meet other developers, it&amp;rsquo;s a good opportunity to do pair programming, and they are a very open community.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-conference&#34;&gt;The conference&lt;/h2&gt;
-
-&lt;p&gt;SCBCN is a two day event, made by and for software developers who are very passionate about software. They had 4 tracks, and full of talks and some workshops. On saturday night, it was an optional dinner, and there was also an open space and a final retrospective on sunday afternoon.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-talks&#34;&gt;The talks&lt;/h2&gt;
-
-&lt;p&gt;As many conferences, there are so many talks, that you need to choose which ones you want to attend. If you are with some friend or colleague, the decision is easier, as you can fork in some of them.&lt;/p&gt;
-
-&lt;p&gt;These are the talks I chose (I&amp;rsquo;m giving more details about the three I liked most):&lt;/p&gt;
-
-&lt;h3 id=&#34;microservices-lifecycle-explained-through-docker-and-continuous-deployment&#34;&gt;Microservices LifeCycle Explained Through Docker And Continuous Deployment&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/viktor_farcic.jpg&#34; alt=&#34;Viktor Farcic&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Viktor Farcic&lt;/strong&gt; is Senior Consultant at &lt;a href=&#34;https://www.cloudbees.com/&#34;&gt;CloudBees&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/vfarcic&#34;&gt;@vfarcic&lt;/a&gt; and at &lt;a href=&#34;https://technologyconversations.com/&#34;&gt;technologyconversations.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The talk was about how to design a fully automated continuous deployment pipeline with Docker images in a Microservices application.&lt;/p&gt;
-
-&lt;p&gt;It was a very nice talk, Viktor really masters this topic, and as I saw him on the Barcelona Java Conference 2016, he has a very good sense of humor and he is interested in teaching and advocate the adoption of DevOps culture.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/dYQZKdQrNLs&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;property-based-testing&#34;&gt;Property Based Testing&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/pedro_santos.jpg&#34; alt=&#34;Pedro Santos&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pedro Moreira Santos&lt;/strong&gt; is Software Craftsman at &lt;a href=&#34;https://codurance.com/&#34;&gt;Codurance&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/pedromsantos&#34;&gt;@pedromsantos&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/pedro-santos/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It was an introduction to Random Testing, or Property Based Testing. I didn&amp;rsquo;t know too much about Property based testing, but Pedro did a great speech, giving the clues about why this kind of testing is useful. I want to do some random testing soon.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/gqM6DTzhD0M&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;software-craftsmanship-8-years&#34;&gt;Software Craftsmanship - 8 years&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/sandro-mancuso.jpg&#34; alt=&#34;Sandro Mancuso&#34; style=&#34;margin:.25em;width: 120px; float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sandro Mancuso&lt;/strong&gt; is Software Craftsman and founder at &lt;a href=&#34;http://codurance.com/&#34;&gt;Codurance&lt;/a&gt;, author of &lt;a href=&#34;http://www.amazon.co.uk/dp/0134052501&#34;&gt;&lt;em&gt;The Software Craftsman&lt;/em&gt;&lt;/a&gt;, and founder of the &lt;a href=&#34;http://londonswcraft.com/&#34;&gt;London Software Craftsmanship Community&lt;/a&gt;. You can follow him on &lt;a href=&#34;https://twitter.com/sandromancuso&#34;&gt;@sandromancuso&lt;/a&gt; and at &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Codurance&amp;rsquo;s publications&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Excellent talk about Software Craftsmanship, since its beginnings on 2008, through what is Software Craftsmanship today, and finally what it should be in the future. Sandro was amazing, as always, very passionate and inspiring. It&amp;rsquo;s a pitty this talks wasn&amp;rsquo;t the opening keynote with all tha audience. This talk was scheduled with other talks at the same time.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;UPDATED:&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/m_Kc0cO-078&#34;&gt;Video&lt;/a&gt; from the SCBCN2017 Conference.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&#34;tdd-mi-cuaderno-de-recetas-tdd-my-recipe-book&#34;&gt;TDD: Mi cuaderno de recetas (TDD: My recipe book)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Modesto San Juan&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/@msanjuan&#34;&gt;@msanjuan&lt;/a&gt; and &lt;a href=&#34;http://www.modestosanjuan.com/&#34;&gt;modestosanjuan.com&lt;/a&gt;.&lt;br&gt;
-The approach that Modesto uses when he does TDD.&lt;/p&gt;
-
-&lt;h3 id=&#34;simplicidad-para-desarrolladores-simplicity-for-developers&#34;&gt;Simplicidad para desarrolladores (Simplicity for developers)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Eduardo Ferro Aldama&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eferro&#34;&gt;@eferro&lt;/a&gt; and &lt;a href=&#34;http://www.eferro.net/&#34;&gt;eferro.net&lt;/a&gt;.&lt;br&gt;
-The rules of simple design, and why it&amp;rsquo;s so important. Keep it Simple!&lt;/p&gt;
-
-&lt;h3 id=&#34;css-craftsmanship&#34;&gt;CSS Craftsmanship&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Joan León&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nucliweb&#34;&gt;@nucliweb&lt;/a&gt; and &lt;a href=&#34;http://nucliweb.net/&#34;&gt;nucliweb.net&lt;/a&gt;.&lt;br&gt;
-Why is so important the development methodology on CSS. Lots of guides and advices.&lt;/p&gt;
-
-&lt;h3 id=&#34;tackling-transactions-in-microservices-applications&#34;&gt;Tackling transactions in Microservices applications&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Rubén Pérez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/bakwrau&#34;&gt;@bakwrau&lt;/a&gt;.&lt;br&gt;
-How SAGA pattern can help in managing transactions on a microservices system.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-economics-of-continuous-delivery&#34;&gt;The Economics of Continuous Delivery&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Adrian Perreau de Pinninck&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/eidrien&#34;&gt;@eidrien&lt;/a&gt;.&lt;br&gt;
-Why should you invest in Continuous Delivery?&lt;/p&gt;
-
-&lt;h3 id=&#34;cómo-vender-un-proyecto-de-refactoring-how-to-sell-a-refactoring-project&#34;&gt;Cómo vender un proyecto de refactoring (How to sell a refactoring project)&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Ana Carmona&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/nhan_bcn&#34;&gt;@nhan_bcn&lt;/a&gt;.
-&lt;strong&gt;Manel Ibáñez&lt;/strong&gt;: &lt;a href=&#34;https://twitter.com/codingmonky&#34;&gt;@codingmonky&lt;/a&gt;.&lt;br&gt;
-How, when and why could be necessary to do a refactoring project.&lt;/p&gt;
-
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-
-&lt;p&gt;I liked a lot the conference, it had very interesting speakers and talks, and 200 attendees. The organization was very kind, and they did a very good work.&lt;/p&gt;
-
-&lt;p&gt;Sadly I wasn&amp;rsquo;t able to attend to the open space and retrospective. I think that I probably lost the best part of the conference. I hope I won&amp;rsquo;t miss the opportunity next year. So, there are only a few things I would like to suggest for the next editions: non-weekend event and a main keynote talk (like Sandro&amp;rsquo;s one).&lt;/p&gt;
-
-&lt;p&gt;This has been my second developer conference this year (you can see &lt;a href=&#34;../jbcnconf2017/&#34;&gt;here&lt;/a&gt; my JBCNConf2017 post). There are several reasons to be an attendee on that kind of events, for me the main reasons are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;To know what other developers are working on.&lt;/li&gt;
-&lt;li&gt;To stay tuned about new methodologies and practices.&lt;/li&gt;
-&lt;li&gt;To meet other professionals that feel passion about software.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It&amp;rsquo;s very important that you go outside your job, and meet other developers and know other points of view.&lt;/p&gt;
-
-&lt;p&gt;Finally I want to thank the organization, without their effort, a conference like this wouldn&amp;rsquo;t be possible. Keep going!!!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Did you assist to any conference? Do you think every developer should assist to them? Please, give me your feedback, it will be very appreciated.&lt;/p&gt;
-</description>
+      <description>On 7th and 8th October, it took place the Software Craftsmanship Barcelona 2017 conference. It was my first time at the conference, that was celebrating its 5th edition. I had a great experience there!!
+Software Craftsmanship There are really a lot of definitions of what is Software Craftsmanship, on Wikipedia there is a extensive definition, but I would like to write what Mash told me once:
+ Software Craftsmanship is all about learning and teaching</description>
     </item>
     
     <item>
@@ -797,32 +134,9 @@ Did you assist to any conference? Do you think every developer should assist to 
       <pubDate>Sun, 01 Oct 2017 08:29:31 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/september-2017/</guid>
-      <description>&lt;p&gt;I finished &lt;strong&gt;The Software Craftsman: Professionalism, Pragmatism, Pride&lt;/strong&gt; by &lt;a href=&#34;https://codurance.com/publications/author/sandro-mancuso/&#34;&gt;Sandro Mancuso&lt;/a&gt;. It&amp;rsquo;s an incredible book, very inspirational and plenty of good advices. I will review and publish it soon.&lt;/p&gt;
-
-&lt;p&gt;I read all these post and watched these videos during this month:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/01/do-we-have-a-good-safety-net-to-change-this-legacy-code/&#34;&gt;do we have a good safety net to change this legacy code&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/jonstodle/its-not-just-someone-elses-computer&#34;&gt;its not just someone else&amp;rsquo;s computer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/aditichaudhry92/what-is-blockchain&#34;&gt;what is blockchain&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/iriskatastic/6-tools-to-boost-your-development-workflow&#34;&gt;6 tools to boost your development workflow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://vanesatejada.com/2017/09/10/como-gestionar-tu-blog-con-trello/&#34;&gt;como gestionar tu blog con trello&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/oyink/how-disobedience-made-me-better&#34;&gt;how disobedience made me better&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/kenmazaika/heres-what-you-can-learn-in-10-minutes-that-will-be-useful-for-the-rest-of-your-programming-career&#34;&gt;heres what you can learn in 10 minutes that will be useful for the rest of your programming career&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://rominirani.com/docker-swarm-tutorial-b67470cf8872&#34;&gt;docker swarm tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://medium.com/@_purukaushik/start-using-java-9-shell-jshell-with-docker-888c91ff742c&#34;&gt;Start using Java 9 shell jshell with docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://blogs.oracle.com/java-platform-group/java-se-support-for-docker-cpu-and-memory-limits&#34;&gt;java se support for docker cpu and memory limits&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://developers.redhat.com/blog/2017/03/14/java-inside-docker/&#34;&gt;java inside docker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jshelltutorial.com/jshell-editing&#34;&gt;jshell tutorial&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://dev.to/agisilaosts/the-insecure-developer&#34;&gt;the insecure developer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/20/mvc-delievery-mechanism-dm/&#34;&gt;mvc delievery mechanism dm &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/2017/09/12/life-at-codurance-robert-firek/&#34;&gt;life at codurance by robert firek&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://codurance.com/videos/2017-09-05-mars-rover/&#34;&gt;Mars Rover kata by Sandro Mancuso&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;
-Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
-</description>
+      <description>I finished The Software Craftsman: Professionalism, Pragmatism, Pride by Sandro Mancuso. It&amp;rsquo;s an incredible book, very inspirational and plenty of good advices. I will review and publish it soon.
+I read all these post and watched these videos during this month:
+ do we have a good safety net to change this legacy code its not just someone else&amp;rsquo;s computer what is blockchain 6 tools to boost your development workflow como gestionar tu blog con trello how disobedience made me better heres what you can learn in 10 minutes that will be useful for the rest of your programming career docker swarm tutorial Start using Java 9 shell jshell with docker java se support for docker cpu and memory limits java inside docker jshell tutorial the insecure developer mvc delievery mechanism dm  life at codurance by robert firek Mars Rover kata by Sandro Mancuso  Always learning!</description>
     </item>
     
     <item>
@@ -831,118 +145,118 @@ Always learning!! Always improving!! Always sharing!!&lt;/p&gt;
       <pubDate>Wed, 27 Sep 2017 08:22:31 +0200</pubDate>
       
       <guid>http://magonye.github.io/post/java-9-repl/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://magonye.github.io/img/java-9-repl.png&#34; alt=&#34;Java 9 REPL&#34; title=&#34;Java 9 REPL&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On this post, I will cover one of the new Java 9 features that attracted my attention: REPL.&lt;/p&gt;
-
-&lt;p&gt;If you want to know what&amp;rsquo;s new on Java 9, you can visit this &lt;a href=&#34;https://docs.oracle.com/javase/9/whatsnew/toc.htm&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;what-is-a-repl&#34;&gt;What is a REPL&lt;/h1&gt;
-
-&lt;p&gt;REPL stands for Read-Eval-Print-Loop. It&amp;rsquo;s a shell where the user can type an expression, it will be evaluated, and the result will be returned to the user.&lt;/p&gt;
-
-&lt;p&gt;To me, the main purpose is to interact quickly with Java without creating a java file, compile it and run it. Now, you can try any sentence easily from the shell. Although you may finally use test classes in order to discover a new java api, it could be interesting the usage of this console for prototyping, quick evaluations of any kind of sentence, and also for learning purposes. JShell is very useful for young developers and it allows beginners to learn the Java language.&lt;/p&gt;
-
-&lt;p&gt;You can find more info about REPL &lt;a href=&#34;[REPL wiki](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;an-example-is-worth-a-thousand-words&#34;&gt;An example is worth a thousand words&lt;/h1&gt;
-
-&lt;p&gt;Instead of writing a .java file, and compile it and runt it:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;public class TestRound {
-	    public static void main(String[] args) {
-		    System.out.println(Math.round(34.543));
-	    }
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;javac TestRound.java
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;pre&gt;&lt;code&gt;java TestRound
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You only need to type the following:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; Math.round(34.543)
-$1 ==&amp;gt; 35
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The shell shows you the result, and assigns it to a variable.&lt;/p&gt;
-
-&lt;h1 id=&#34;creating-methods&#34;&gt;Creating methods&lt;/h1&gt;
-
-&lt;p&gt;Also you can create the following snippet:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; void echo(String s){
-   ...&amp;gt; System.out.println(s);
-   ...&amp;gt; }
-|  created method echo(String)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;and you can call this new method, this way:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;jshell&amp;gt; echo(&amp;quot;test&amp;quot;)
-test
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h1 id=&#34;things-that-i-love-from-the-repl&#34;&gt;Things that I love from the REPL&lt;/h1&gt;
-
-&lt;p&gt;Here is a bunch of things I love from this new shell:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;It&amp;rsquo;s built-in in Java 9.&lt;/li&gt;
-&lt;li&gt;You can test any Java expression without a class file, compiling and running it.&lt;/li&gt;
-&lt;li&gt;It autocompletes the methods, just typing the TAB key, as in your editor.&lt;/li&gt;
-&lt;li&gt;You can define methods, and call them later.&lt;/li&gt;
-&lt;li&gt;It shows you the exceptions, if they are thrown.&lt;/li&gt;
-&lt;li&gt;You can edit any method, and change them.&lt;/li&gt;
-&lt;li&gt;There are build-in commands. &lt;a href=&#34;https://jshelltutorial.com/collection-of-jshell-commands/&#34;&gt;Here&lt;/a&gt; the list of commands.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;using-it-on-a-docker-image&#34;&gt;Using it on a Docker Image&lt;/h1&gt;
-
-&lt;p&gt;If you want to test this feature, but you don&amp;rsquo;t want to install Java 9 on your machine, there is an easy way to run Java 9 using Docker.&lt;/p&gt;
-
-&lt;p&gt;1- Create a Dockerfle like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;FROM java:9-jdk
-RUN [&amp;quot;apt-get&amp;quot;, &amp;quot;update&amp;quot;]
-RUN [&amp;quot;apt-get&amp;quot;, &amp;quot;install&amp;quot;, &amp;quot;-y&amp;quot;, &amp;quot;vim&amp;quot;]
-CMD [&amp;quot;/bin/bash&amp;quot;]
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;2- Build the image:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker build -t my_java9 .
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;3- Run the image:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;docker run -ti my_java9 /bin/jshell 
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;4- If you prefer, you can create a shell file like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;#!/bin/zsh 
-docker run -it my_java9 /bin/jshell
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;5- Once on the jshell, you can change the default editor, with the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;   /set editor /usr/bin/vim
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;From now, when you execute the command &lt;strong&gt;/edit&lt;/strong&gt; on the shell, &lt;strong&gt;vim&lt;/strong&gt;  editor will be launched.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;If you liked this post, or you have doubts, please, let me know.&lt;/p&gt;
-
-&lt;p&gt;Any feedback will be very appreciated.&lt;/p&gt;
-</description>
+      <description>On this post, I will cover one of the new Java 9 features that attracted my attention: REPL.
+If you want to know what&amp;rsquo;s new on Java 9, you can visit this link.
+What is a REPL REPL stands for Read-Eval-Print-Loop. It&amp;rsquo;s a shell where the user can type an expression, it will be evaluated, and the result will be returned to the user.
+To me, the main purpose is to interact quickly with Java without creating a java file, compile it and run it.</description>
+    </item>
+    
+    <item>
+      <title>Culture Of Learning: Lunch and Learn</title>
+      <link>http://magonye.github.io/post/cultureoflearning-lunchandlearn/</link>
+      <pubDate>Tue, 19 Sep 2017 08:29:56 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/cultureoflearning-lunchandlearn/</guid>
+      <description>During this year we are experiencing a very huge transformation as a team. We are living an interesting journey to become a more mature team, an autonomous team inside the company. And this transformation includes a lot of practices and activities. With this series of posts, that I&amp;rsquo;ll call Culture of Learning, I will try to explain in detail each of these activities, how we started them, how we do them and what they give us.</description>
+    </item>
+    
+    <item>
+      <title>august 2017</title>
+      <link>http://magonye.github.io/post/august-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 15:12:35 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/august-2017/</guid>
+      <description>This month I did the following things:
+ Book Club: Actually reading The Software Craftsman by Sandro Mancuso, and NonViolent Comunication by Marshall B. Rosenberg. Typing training: I started doing some typing training at typing.com. There are other options, like typingstudy.com, typingclub.com or cursomeca.com. I&amp;rsquo;ll try them soon. Software design patterns: I started reviewing software design patterns at sourcemaking.com. This is something I need to improve, in order to know and understand them better.</description>
+    </item>
+    
+    <item>
+      <title>JBCNConf 2017</title>
+      <link>http://magonye.github.io/post/jbcnconf2017/</link>
+      <pubDate>Wed, 23 Aug 2017 12:55:48 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/jbcnconf2017/</guid>
+      <description>On 19th, 20th and 21st of June, I assisted to JBCNConf2017 with two colleagues. For me was the second time, as I assisted to JBCNConf last year.
+In this post, I will try to explain you a little what is JBCNConf, why it&amp;rsquo;s important to assist to conferences, and how was my experience at this conference.
+I know that I&amp;rsquo;m late, because I&amp;rsquo;m writing this on August and the conference was on June, but I didn&amp;rsquo;t want to miss the opportunity to write about JBCNConf, and payback something to the conference in return, as I learned a lot of things there.</description>
+    </item>
+    
+    <item>
+      <title>Password Manager: Why and how to store passwords securely</title>
+      <link>http://magonye.github.io/post/password-manager/</link>
+      <pubDate>Thu, 17 Aug 2017 08:26:43 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/password-manager/</guid>
+      <description>The Problem Currently I&amp;rsquo;m working on a the team that needs to handle with a lot of passwords. These passwords are critical for the company, as they are mainly Payment Provider password accounts. Since now, we were using different kind of storage mechanisms, non of them really secure (internal confluence pages, shared plain text files, etc&amp;hellip;).
+So, in order to upgrade our security standards, we needed to choose some mechanism that could provide us the following features:</description>
+    </item>
+    
+    <item>
+      <title>Git: how to squash commits already pushed</title>
+      <link>http://magonye.github.io/post/git-squash/</link>
+      <pubDate>Tue, 08 Aug 2017 08:30:46 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/git-squash/</guid>
+      <description>A few days ago I was working on feature in a project, and after a lot of commits and pushes, I wanted to show to my colleagues my changes&amp;hellip;. but I wanted to show them in a single commit.
+How could I join my 10 commits in a single one?
+I had heard about squashing commits with git before, so I was confident it would be easy to do.
+Googling a little, and reading some examples, I was confident about what I had to do:</description>
+    </item>
+    
+    <item>
+      <title>july 2017</title>
+      <link>http://magonye.github.io/post/july-2017/</link>
+      <pubDate>Sat, 05 Aug 2017 09:33:07 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/july-2017/</guid>
+      <description>It was a very challenging month!
+We started a Community of Practice at my work. It&amp;rsquo;s very exciting to share and learn things with other colleagues. We&amp;rsquo;re doing some katas and lighting talks. It&amp;rsquo;s only the beginning, but I think we can improve a lot with these meetings.
+I&amp;rsquo;m also reading some books. I&amp;rsquo;m reading two of them (Sandro Mancuso&amp;rsquo;s The Software Craftsman and Growing Object Oriented Software) with other people.</description>
+    </item>
+    
+    <item>
+      <title>june 2017</title>
+      <link>http://magonye.github.io/post/june-2017/</link>
+      <pubDate>Fri, 30 Jun 2017 20:43:32 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/june-2017/</guid>
+      <description>This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: Clean Code [Uncle Bob], Test Driven Development by Example [Kent Beck] and The Software Craftsman [Sandro Mancuso].
+Besides the books, I&amp;rsquo;ve read the following links:
+ INTERACTION DRIVEN DESIGN - Sandro Mancuso Introduction to DDD Toma-de-requisitos Logs Technical debt Security on APIs Ron Jeffries&amp;rsquo; Refactoring Builder design pattern Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip; Chapter 22 of Growing Object-Oriented Software (Goos) NoTDD  </description>
+    </item>
+    
+    <item>
+      <title>may 2017</title>
+      <link>http://magonye.github.io/post/may-2017/</link>
+      <pubDate>Sat, 24 Jun 2017 01:06:03 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/may-2017/</guid>
+      <description>This month has been a very quiet month. No much reading.
+I&amp;rsquo;ve just finished the &amp;ldquo;Learning how to learn&amp;rdquo; course at Coursera.
+I also finished a very interesting course at Udemy: &amp;ldquo;How to become a better developer&amp;rdquo;.
+I would recommend both courses to everybody. They are clear, very well explained, and the topics are very helpfull. If you want to be a better developer and you have a lot of things to learn, you may consider to take these courses.</description>
+    </item>
+    
+    <item>
+      <title>april 2017</title>
+      <link>http://magonye.github.io/post/april-2017/</link>
+      <pubDate>Sun, 30 Apr 2017 18:07:02 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/april-2017/</guid>
+      <description>My current read book is Clean Code, by Robert C. Martin. This is a MUST book, and it&amp;rsquo;s some kind embarrassing I didn&amp;rsquo;t read it before.
+I&amp;rsquo;m also attending the &amp;ldquo;Learning how to learn&amp;rdquo; course at Coursera.
+With the book, I&amp;rsquo;m trying to fix my fault, and with the course I&amp;rsquo;m trying to pave the road. If I want to learn a lot of things, I need to know how to become efficient.</description>
+    </item>
+    
+    <item>
+      <title>welcome to my blog</title>
+      <link>http://magonye.github.io/post/welcome-to-my-blog/</link>
+      <pubDate>Fri, 31 Mar 2017 23:43:44 +0200</pubDate>
+      
+      <guid>http://magonye.github.io/post/welcome-to-my-blog/</guid>
+      <description>I&amp;rsquo;ve just created this blog for learning pourposes. I&amp;rsquo;m going to learn a lot of things. I think this blog can help me, but also some of my learnings can help someone else.
+I hope you enjoy it as I&amp;rsquo;m going to enjoy it, and feel free to comment, suggest or correct any of the content I will be posting here.
+Remember that everything is about learning, enjoying, sharing and teaching.</description>
     </item>
     
   </channel>
