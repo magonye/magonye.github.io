@@ -425,9 +425,7 @@ squash abcdef1 The last commit for the feature
 </code></pre><p>After looking to my <em>git log</em>, I was exulting. Now the log looked amazing, with my new brand feature in a very single commit.</p>
 <p>But the problems began when I tried to push the <em>rebased</em> commit. Git didn&rsquo;t allow me, because I was required to do a <em>git pull</em> before.</p>
 <p>Here I got stack on an evil loop:</p>
-<center>
-<img src="https://magonye.github.io/img/git-squash-evilloop.png" alt="Git Squash Evil Loop" style="width: 400px;"/>             
-</center>
+<!-- raw HTML omitted -->
 <p>After a few attempts, and the priceless help of a colleague, I realized that I couldn&rsquo;t go forward with the squash this way.</p>
 <p>This process would work to me if I hadn&rsquo;t pushed the commits that I wanted to squash. On this scenario, Git wouldn&rsquo;t ask me for a <em>git pull</em>, and I could push my squashed commit without problems. And that is because my remote repository wouldn&rsquo;t have any of the commits I was trying to squash, as my local repo would be beyond my remote repo.</p>
 <p>What I needed to do was to force push with:</p>

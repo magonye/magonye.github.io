@@ -26,9 +26,9 @@
       <pubDate>Fri, 10 Nov 2017 08:48:16 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/design-principles/</guid>
-      <description>Fleur Treurniet I had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?
+      <description>Fleur TreurnietI had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?
 Below there is a recap of the main design principles we covered with this exercise.
-SOLID Principles Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by Robert C.</description>
+SOLID Principles Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by Robert C. Martin, and they are now key design principles in object oriented programming.</description>
     </item>
     
   </channel>
