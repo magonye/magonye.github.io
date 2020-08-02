@@ -6,10 +6,20 @@
     <description>Recent content in culture-of-learning on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2018 08:08:34 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 08:37:49 +0100</lastBuildDate>
     
 	<atom:link href="http://magonye.github.io/categories/culture-of-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Habits</title>
+      <link>http://magonye.github.io/post/building-habits/</link>
+      <pubDate>Sat, 01 Aug 2020 08:37:49 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/building-habits/</guid>
+      <description>One of the things I&amp;rsquo;ve heard that it&amp;rsquo;s very tough for many people is to build habits that last in time, and become part of our life. Everyone probably knows what they should be doing, but they aren&amp;rsquo;t. It doesn&amp;rsquo;t have to be anything tech-related, it could be also some lifestyle activity, such as reading or practicing any kind of sport.
+I&amp;rsquo;ve also found it&amp;rsquo;s very hard to maintain habits through time, so I&amp;rsquo;ll share with you the things that are working for me, and maybe you could also adopt.</description>
+    </item>
     
     <item>
       <title>CI/CD Pipeline Kata</title>
@@ -17,7 +27,9 @@
       <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/jenkins-kata/</guid>
-      <description>slslslsl</description>
+      <description>Some time ago other team was managing the pipeline of my team&amp;rsquo;s applications, and they were also testing and deploying our applications.
+This separation of responsibility between creating the software and making it run was leading us to:
+ No ownership of the deployment process: feeling of non responsibility within the team. Errors on environments: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.</description>
     </item>
     
     <item>

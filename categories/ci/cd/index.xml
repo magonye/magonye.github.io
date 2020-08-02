@@ -16,7 +16,9 @@
       <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/jenkins-kata/</guid>
-      <description>slslslsl</description>
+      <description>Some time ago other team was managing the pipeline of my team&amp;rsquo;s applications, and they were also testing and deploying our applications.
+This separation of responsibility between creating the software and making it run was leading us to:
+ No ownership of the deployment process: feeling of non responsibility within the team. Errors on environments: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.</description>
     </item>
     
   </channel>

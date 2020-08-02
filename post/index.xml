@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jun 2018 08:37:49 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 08:37:49 +0100</lastBuildDate>
     
 	<atom:link href="http://magonye.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Building Habits</title>
+      <link>http://magonye.github.io/post/building-habits/</link>
+      <pubDate>Sat, 01 Aug 2020 08:37:49 +0100</pubDate>
+      
+      <guid>http://magonye.github.io/post/building-habits/</guid>
+      <description>One of the things I&amp;rsquo;ve heard that it&amp;rsquo;s very tough for many people is to build habits that last in time, and become part of our life. Everyone probably knows what they should be doing, but they aren&amp;rsquo;t. It doesn&amp;rsquo;t have to be anything tech-related, it could be also some lifestyle activity, such as reading or practicing any kind of sport.
+I&amp;rsquo;ve also found it&amp;rsquo;s very hard to maintain habits through time, so I&amp;rsquo;ll share with you the things that are working for me, and maybe you could also adopt.</description>
+    </item>
     
     <item>
       <title>Another Step</title>
@@ -58,7 +68,9 @@ I read all these post and watched these videos during this month:
       <pubDate>Thu, 15 Feb 2018 08:08:34 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/jenkins-kata/</guid>
-      <description>slslslsl</description>
+      <description>Some time ago other team was managing the pipeline of my team&amp;rsquo;s applications, and they were also testing and deploying our applications.
+This separation of responsibility between creating the software and making it run was leading us to:
+ No ownership of the deployment process: feeling of non responsibility within the team. Errors on environments: No visibility of where our code was being deployed was producing sometimes problems with configuration on environments, and they were tough to fix.</description>
     </item>
     
     <item>
@@ -100,9 +112,9 @@ I read all these post and watched these videos during this month:
       <pubDate>Fri, 10 Nov 2017 08:48:16 +0100</pubDate>
       
       <guid>http://magonye.github.io/post/design-principles/</guid>
-      <description>Fleur Treurniet I had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?
+      <description>I had some concerns about Design Principles, so I talked with my mentor a little about them, their importance and we also tried to demystify them, why not?
 Below there is a recap of the main design principles we covered with this exercise.
-SOLID Principles Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by Robert C.</description>
+SOLID Principles Five design principles intended to make software designs more understandable, flexible and maintainable. They became very popular, as they were promoted by Robert C. Martin, and they are now key design principles in object oriented programming.</description>
     </item>
     
     <item>
