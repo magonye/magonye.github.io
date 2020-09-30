@@ -6,11 +6,7 @@
     <description>Recent content in monthly on Learnings and thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate>
-    
-	<atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 03 Apr 2018 16:56:56 +0200</lastBuildDate><atom:link href="http://magonye.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>march 2018</title>
       <link>http://magonye.github.io/post/march-2018/</link>
@@ -119,7 +115,7 @@ I&amp;rsquo;m also reading some books. I&amp;rsquo;m reading two of them (Sandro
       <guid>http://magonye.github.io/post/june-2017/</guid>
       <description>This month has been a very productive one. Actually I&amp;rsquo;m reading three books at a time: Clean Code [Uncle Bob], Test Driven Development by Example [Kent Beck] and The Software Craftsman [Sandro Mancuso].
 Besides the books, I&amp;rsquo;ve read the following links:
- INTERACTION DRIVEN DESIGN - Sandro Mancuso Introduction to DDD Toma-de-requisitos Logs Technical debt Security on APIs Ron Jeffries&amp;rsquo; Refactoring Builder design pattern Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip; Chapter 22 of Growing Object-Oriented Software (Goos) NoTDD  </description>
+ INTERACTION DRIVEN DESIGN - Sandro Mancuso Introduction to DDD Toma-de-requisitos Logs Technical debt Security on APIs Ron Jeffries&#39; Refactoring Builder design pattern Sandro Mancuso&amp;rsquo;s Codurance Blog - How do I convince&amp;hellip; Chapter 22 of Growing Object-Oriented Software (Goos) NoTDD  </description>
     </item>
     
     <item>
